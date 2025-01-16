@@ -1,6 +1,8 @@
+## **Communications: Task 1 - Uncover Trends in Brand Messaging**
+
 ### **Steps**
 
-#### **Brainstorm Communications Strategies**:
+#### **Brainstorm Brand Messaging Strategies**:
 
 1. Open your browser and navigate to [m365copilot.com](https://m365copilot.com).
 
@@ -11,26 +13,26 @@
     **Sample Prompt**
 
     ```text
-    Can you help me identify gaps in corporate communication strategies within [specific industry or company type]? I’m looking for underserved areas or emerging trends that could improve internal communication, employee engagement, or external brand messaging.
+    Can you help me identify emerging trends in corporate brand messaging within [specific industry or audience type]? I’m looking for innovative approaches to improve engagement and build trust with key audiences.
     ```
 
     > [!NOTE]
-    > Replace the text within brackets with your specific choice (e.g., replace `[specific industry or company type]` with `the tech industry` or `nonprofit organizations`).
+    > Replace the text within brackets with your specific choice (e.g., replace `[specific industry or audience type]` with `the tech industry` or `millennial audiences`).
 
-1. Copy the output from Copilot Chat to a new Word document and save the file to your OneDrive account with the name **Copilot Communications Research.docx**. The next exercise uses this document.
+1. Copy the output from Copilot Chat to a new Word document and save the file to your OneDrive account with the name **Brand Messaging Trends.docx**. The next exercise uses this document.
     > [!IMPORTANT]
     > Be sure to save the file to OneDrive rather than your local PC. In the next exercise, you’ll use Copilot in Word to create a presentation based on this document, which must be saved in OneDrive for Copilot to access it.
 
 ---
 
-#### **Conduct Communications Research**:
+#### **Research Brand Messaging Best Practices**:
 
-1. With your communication strategy idea in mind, use the following prompt to research best practices and key challenges:
+1. With your brand messaging strategy in mind, use the following prompt to explore effective communication techniques:
 
     **Sample Prompt**
 
     ```text
-    I'd like to explore communication strategies for [specific industry or company type]. What are the key challenges and best practices for improving internal or external communication?
+    What are the latest trends and best practices in corporate brand messaging for [specific industry or audience type]? Include examples of successful strategies.
     ```
 
     > [!NOTE]

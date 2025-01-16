@@ -1,3 +1,5 @@
+## **HR: Task 1 - Develop Strategies for Employee Retention**
+
 ### **Steps**
 
 #### **Brainstorm HR Strategies**:
@@ -11,26 +13,26 @@
     **Sample Prompt**
 
     ```text
-    Can you help me identify gaps in employee engagement strategies within [specific industry or company type]? I’m looking for underserved areas or emerging trends that could improve retention and satisfaction.
+    Can you help me identify challenges in employee retention within [specific industry or company type]? I’d like to uncover trends and innovative strategies that companies are using to improve retention and engagement.
     ```
 
     > [!NOTE]
     > Replace the text within brackets with your specific choice (e.g., replace `[specific industry or company type]` with `the tech industry` or `remote-first companies`).
 
-1. Copy the output from Copilot Chat to a new Word document and save the file to your OneDrive account with the name **Copilot HR Research.docx**. The next exercise uses this document.
+1. Copy the output from Copilot Chat to a new Word document and save the file to your OneDrive account with the name **Employee Retention Insights.docx**. The next exercise uses this document.
     > [!IMPORTANT]
     > Be sure to save the file to OneDrive rather than your local PC. In the next exercise, you’ll use Copilot in Word to create a presentation based on this document, which must be saved in OneDrive for Copilot to access it.
 
 ---
 
-#### **Conduct HR Research**:
+#### **Conduct Research on Retention Trends**:
 
-1. With your engagement or retention strategy idea in mind, use the following prompt to research best practices and key challenges:
+1. With your employee retention strategy in mind, use the following prompt to explore key challenges and solutions:
 
     **Sample Prompt**
 
     ```text
-    I'd like to explore HR engagement and retention strategies in [specific industry or company type]. What are the key challenges and best practices?
+    What are the leading challenges and solutions in employee retention for [specific industry or company type]? Include any innovative or emerging practices.
     ```
 
     > [!NOTE]
