@@ -1,24 +1,16 @@
 ---
-title: Exercise Instructions
+title: Online Hosted Instructions
 permalink: index.html
 layout: home
 ---
 
-# Exercises
+## Immersion Experiences (test)
 
-This page lists exercises associated with Microsoft skilling content on [Microsoft Learn](https://learn.microsoft.com)
+### <a href="https://microsoftlearning.github.io/Copilot-Immersion-Experience/Instructions/Labs/Executive/Task_1.html" target="_blank">Executive - Task 1</a>
 
-<!-- You can edit the paragraph above to provide a more specific description and links to content on Learn.
+### <a href="https://microsoftlearning.github.io/Copilot-Immersion-Experience/Instructions/Labs/Communications/Task_1.html" target="_blank">Communications - Task 1</a>
 
-Include the following note if an Azure subscription is required (or add something similar for any other requirements, such as a Microsoft 365 account).
+### <a href="https://microsoftlearning.github.io/Copilot-Immersion-Experience/Instructions/Labs/HR/Task_1.html" target="_blank">HR - Task 1</a>
 
-> **Note**: To complete these exercises, you will need a [Microsoft Azure subscription](https://azure.microsoft.com/free) in which you have sufficient permissions to create and configure the required resources.
-
-If a more complex setup is required, create a separate markdown file with setup instructions at \Instructions\Labs\00-setup.md - being sure to include "lab.title"" metadata at the top so it shows up the list below
--->
-
-{% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
-{% for activity in labs  %}
-- [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }})
-{% endfor %}
+### <a href="https://microsoftlearning.github.io/Copilot-Immersion-Experience/Instructions/Labs/IT/Task_1.html" target="_blank">IT - Task 1</a>
 
