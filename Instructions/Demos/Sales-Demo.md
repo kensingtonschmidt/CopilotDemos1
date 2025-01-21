@@ -3,7 +3,7 @@ demo:
     title: 'Sales Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 # Sales Demo
 
@@ -12,11 +12,11 @@ You're in sales for an EV charging company and are developing a strategic plan f
 
 ## Demo Setup
 
-The sample documents can be found in the MS-40XX GitHub repository [here](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/tree/master/ResourceFiles):
+The sample documents can be found in the MS-40XX GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
 The specific files needed for this demo are:
 
-- [Charger_sales_report_2022-2024.xlsx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
+- [Charger_sales_report_2022-2024.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
 
 > **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
 
@@ -46,7 +46,7 @@ The specific files needed for this demo are:
 
     > **NOTE:** Do not submit the prompt yet. Move to the next step to upload the file.
 
-1. Select **Add Content** and upload [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/Resourcefiles/Charger_sales_report_2022-2024.xlsx). Then submit the prompt.
+1. Select **Add Content** and upload [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Resourcefiles/Charger_sales_report_2022-2024.xlsx). Then submit the prompt.
 
     ![Add content Copilot chat.](../Demos/Media/add-content-copilot-chat.png)
 
@@ -100,4 +100,4 @@ We will now ask Copilot to expand on these strategies and draft proposals on how
 
     > **NOTE:** Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
 
-[Back to Index](https://microsoftlearning.github.io/Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

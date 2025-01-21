@@ -3,7 +3,7 @@ demo:
     title: 'HR Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 # HR Demo
 
@@ -12,19 +12,19 @@ As a Talent Acquisition Manager, streamline the hiring process for a team of UX 
 
 ## Demo Setup
 
-The sample documents can be found in the MS-40XX GitHub repository [here](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/tree/master/ResourceFiles):
+The sample documents can be found in the MS-40XX GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
 The specific files needed for this demo are:
 
-- [Design_Team_Responsibilities.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Graphic_Design_Institute_Design_Team_Responsibilities.docx)
+- [Design_Team_Responsibilities.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Graphic_Design_Institute_Design_Team_Responsibilities.docx)
 
-- [Resume_Patti_Fernandez.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Patti_Fernandez.docx)
+- [Resume_Patti_Fernandez.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Patti_Fernandez.docx)
 
-- [Resume_Nestor_Wilke.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Nestor_Wilke.docx)
+- [Resume_Nestor_Wilke.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Nestor_Wilke.docx)
 
-- [Resume_Holly_Dickson.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Holly_Dickson.docx)
+- [Resume_Holly_Dickson.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Holly_Dickson.docx)
 
-- [Resume_Alex_Wilber.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Alex_Wilber.docx)
+- [Resume_Alex_Wilber.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Alex_Wilber.docx)
 
 > **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
 
@@ -89,4 +89,4 @@ Lastly, use Copilot in Outlook to draft an email to the hiring team regarding th
     Please draft an email to the hiring team to share that Nester Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
     ```
 
-[Back to Index](https://microsoftlearning.github.io/Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

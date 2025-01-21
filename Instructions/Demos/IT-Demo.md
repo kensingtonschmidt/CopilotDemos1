@@ -3,7 +3,7 @@ demo:
     title: 'IT Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 # IT Demo
 
@@ -12,11 +12,11 @@ As an IT Infrastructure Manager, you are planning to install a new network secur
 
 ## Demo Setup
 
-The sample documents can be found in the MS-40XX GitHub repository [here](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/tree/master/ResourceFiles):
+The sample documents can be found in the MS-40XX GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
 The specific files needed for this demo are:
 
-- [Contoso_CipherGuard_Product_Specification.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_CipherGuard_Product_Specification.docx)
+- [Contoso_CipherGuard_Product_Specification.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_CipherGuard_Product_Specification.docx)
 
 > **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
 
@@ -71,7 +71,7 @@ We will now ask Copilot to expand on these strategies and draft proposals on how
     ```
 
     > **NOTE:** Brackets indicate that a document is being referenced.
-    > 1. CipherGuard Product Specification.docx = [Contoso_CipherGuard_Product_Specification.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_CipherGuard_Product_Specification.docx)
+    > 1. CipherGuard Product Specification.docx = [Contoso_CipherGuard_Product_Specification.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_CipherGuard_Product_Specification.docx)
     > 1. Project Implementation Plan.docx = Use the link copied in the previous demo.
     > When referencing a document, you can paste the link directly or reference the file name if it is available in your OneDrive.
 
@@ -103,4 +103,4 @@ We will now use Copilot to generate a PowerPoint presentation based on the new p
 
     > **NOTE:** Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
 
-[Back to Index](https://microsoftlearning.github.io/Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
