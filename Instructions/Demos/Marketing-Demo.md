@@ -8,7 +8,7 @@ demo:
 # Marketing Demo
 
 **Scenario:**  
-As the Marketing Director for Contoso Beverage, you are tasked with consolidating insights from multiple sources into a comprehensive marketing analysis. Your goal is to increase market share for Mystic Spice Premium Chai Tea in Latin America by 15% within six months. You will use Copilot Chat for insights, Copilot in Word for creating a market analysis, and Copilot in Excel for analyzing sales data.
+You are in Marketing for a beverage company, your goal is to analyze market trends, create a marketing analysis, and develop a new social media campaign.
 
 ## Demo Setup
 
