@@ -26,7 +26,7 @@ The specific files needed for this demo are:
 
 - [Resume_Alex_Wilber.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Alex_Wilber.docx)
 
-**NOTE:** It can take up to 10 minutes for these files to sync to your OneDrive once downloaded. It is advised that you download these files to your OneDrive account prior to delivering this demo. If the files are not available in your OneDrive, you can open the documents and copy the shared file links to use in the demo.
+> **NOTE:** It can take up to 10 minutes for these files to sync to your OneDrive once downloaded. It is advised that you download these files to your OneDrive account prior to delivering this demo. If the files are not available in your OneDrive, you can open the documents and copy the shared file links to use in the demo.
 
 ## Demo Steps
 

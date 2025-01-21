@@ -18,7 +18,7 @@ The specific files needed for this demo are:
 
 - [Contoso_CipherGuard_Product_Specification.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_CipherGuard_Product_Specification.docx)
 
-**NOTE:** It can take up to 10 minutes for these files to sync to your OneDrive once downloaded. It is advised that you download these files to your OneDrive account prior to delivering this demo. If the files are not available in your OneDrive, you can open the documents and copy the shared file links to use in the demo.
+> **NOTE:** It can take up to 10 minutes for these files to sync to your OneDrive once downloaded. It is advised that you download these files to your OneDrive account prior to delivering this demo. If the files are not available in your OneDrive, you can open the documents and copy the shared file links to use in the demo.
 
 ## Demo Steps
 
@@ -56,13 +56,15 @@ Open word (Either in your browser or desktop application). We will now ask copil
 
 1. In the **describe what youd like to write** prompt box type the following:
 
-    ```text
-    Using the Contoso CipherGuard Product Specification.docx and the 'Project Implementation Plan' template provided in Project_Implementation_Plan.docx, draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template.
-    ```
+        ```text
+        Using the Contoso CipherGuard Product Specification.docx and the 'Project Implementation Plan' template provided in Project_Implementation_Plan.docx, draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template.
+        ```
 
 1. Select **Keep it** (or if you have some time, you can demonstrate tweaking the document using Copilot). Once finished save the document as **Contoso_Project_plan.docx** and copy the Shared URL. (you will have to enable autosave)
 
 ### **Step 5** (PowerPoint)
+
+We will now use Copilot to generate a PowerPoint presentation based on the new proposal to implement the Contoso CipherGuard product.
 
 1. Launch Microsoft PowerPoint from your browser [PowerPoint.new](https://PowerPoint.new) or use the desktop application.
 
@@ -74,9 +76,9 @@ Open word (Either in your browser or desktop application). We will now ask copil
 
     The full prompt should look like:
 
-    ```text
-    Create a presentation from [Link to Product Concept.docx].
-    ```
+        ```text
+        Create a presentation from [Link to Product Concept.docx].
+        ```
 
 1. Copilot will begin generating slides based on the EV Sales Proposal, providing an outline along with features like speaker notes, images, slide layouts, and a General sensitivity label.
 

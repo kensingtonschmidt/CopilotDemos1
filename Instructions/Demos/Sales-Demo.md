@@ -16,9 +16,9 @@ The sample documents can be found in the MS-40XX GitHub repository [here](https:
 
 The specific files needed for this demo are:
 
-- [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
+- [Charger_sales_report_2022-2024.xlsx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
 
-**NOTE:** It can take up to 10 minutes for these files to sync to your OneDrive once downloaded. It is advised that you download these files to your OneDrive account prior to delivering this demo. If the files are not available in your OneDrive, you can open the documents and copy the shared file links to use in the demo.
+> **NOTE:** It can take up to 10 minutes for these files to sync to your OneDrive once downloaded. It is advised that you download these files to your OneDrive account prior to delivering this demo. If the files are not available in your OneDrive, you can open the documents and copy the shared file links to use in the demo.
 
 ## Demo Steps
 
@@ -88,7 +88,6 @@ Open the generated word document (Either in your browser or desktop application)
 
 1. Copilot will begin generating slides based on the EV Sales Proposal, providing an outline along with features like speaker notes, images, slide layouts, and a General sensitivity label.
 
-    > [!NOTE]
-    > Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
+    > **NOTE:** Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
 
 [Back to Index](https://microsoftlearning.github.io/Copilot-Immersion-Experience/)
