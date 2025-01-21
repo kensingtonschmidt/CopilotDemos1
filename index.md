@@ -4,13 +4,12 @@ permalink: index.html
 layout: home
 ---
 
-## Immersion Experiences (test)
+Hyperlinks to each of the demos are listed below.
 
-### <a href="https://microsoftlearning.github.io/Copilot-Immersion-Experience/Instructions/Labs/Executive/Task_1.html" target="_blank">Executive - Task 1</a>
+## Demos
 
-### <a href="https://microsoftlearning.github.io/Copilot-Immersion-Experience/Instructions/Labs/Communications/Task_1.html" target="_blank">Communications - Task 1</a>
-
-### <a href="https://microsoftlearning.github.io/Copilot-Immersion-Experience/Instructions/Labs/HR/Task_1.html" target="_blank">HR - Task 1</a>
-
-### <a href="https://microsoftlearning.github.io/Copilot-Immersion-Experience/Instructions/Labs/IT/Task_1.html" target="_blank">IT - Task 1</a>
-
+{% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Demos'" %}
+| Demo |
+| --- |
+{% for activity in demos  %}| [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% endfor %}
