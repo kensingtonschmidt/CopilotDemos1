@@ -18,9 +18,9 @@ The specific files needed for this demo are:
 
 - [Promotion_Plan_for_Chai_Tea_in_Latin_America.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Promotion_Plan_for_Chai_Tea_in_Latin_America.docx)
 
-- [Mystic_Spice_Premium_Chai_Tea_product_description.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/Mystic_Spice_Premium_Chai_Tea_product_description.docx)
+- [Mystic_Spice_Premium_Chai_Tea_product_description.docx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Mystic_Spice_Premium_Chai_Tea_product_description.docx)
 
-- [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx)
+- [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_Chai_Tea_market_trends_2023.xlsx)
 
 > **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
 
