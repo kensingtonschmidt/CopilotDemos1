@@ -20,6 +20,8 @@ There are no sample documents required for this demo.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
+1. Ensure Web mode is selected.
+
 1. In the prompt window, type the following:
 
     ```text

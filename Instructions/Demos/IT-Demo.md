@@ -28,6 +28,8 @@ Let’s start by asking Copilot to create a project implementation plan.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
+1. Ensure Web mode is selected.
+
 1. In the prompt window, type the following:
 
     ```text

@@ -8,7 +8,7 @@ demo:
 # HR Demo
 
 **Scenario:**  
-Use Copilot to streamline the hiring process for a Senior Animation Designer by generating a job description, comparing candidate resumes, and drafting an email to coordinate next steps with the hiring team.
+As a Talent Acquisition Manager, streamline the hiring process for a team of UX Designers by creating a tailored job description, shortlisting candidates based on their resumes, and drafting a hiring strategy to align the team
 
 ## Demo Setup
 
@@ -55,6 +55,8 @@ Let’s start by asking Copilot in Word to generate a job description.
 Next, we will use Copilot Chat to compare resumes we've received to the job description and identify the best candidates.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
+
+1. Ensure Work Mode is selected.
 
 1. In the prompt window, type the following:
 

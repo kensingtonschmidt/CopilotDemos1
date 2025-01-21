@@ -26,6 +26,8 @@ The specific files needed for this demo are:
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
+1. Ensure Web mode is selected.
+
 1. Let’s start by asking Copilot to research a key metric. In the **Copilot Chat** prompt field, input:
 
     ```text
