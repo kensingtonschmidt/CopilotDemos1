@@ -81,11 +81,18 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
     Generate a catchy marketing slogan for the [Campaign name - e.g., 'Morning Motivation'] campaign that highlights its unique value proposition and resonates with the LATAM market. Ensure the slogan reflects a vibrant and culturally relevant tone that appeals to young professionals.
     ```
 
-1. Optionally, for the last prompt, you can ask Copilot to generate a new image for the campaign:
+1. Optionally, for the last prompt, you can ask Copilot to generate a new video for the campaign:
+
+    in Copilot chat, on the right hand side, select the **Visual Creator Agent**:
+
+    ![video creator agent.](../Demos/Media/video-creator.png)
+
+    Then, input the following prompt:
 
     ```text
-    Design a social media image to accompany the [Campaign name - e.g., 'Morning Motivation'] campaign. The image should feature a vibrant and culturally relevant design that resonates with the LATAM market. Include elements that reflect the campaign's theme and appeal to young professionals and tea enthusiasts.
+    Create a captivating social media video for Mystic Spice Chai Tea that highlights its unique flavor and vibrant appeal. The video should feature eye-catching visuals, with colors, and themes that resonate with young professionals and tea enthusiasts.
     ```
+
 
 ### Copilot in Excel
 
