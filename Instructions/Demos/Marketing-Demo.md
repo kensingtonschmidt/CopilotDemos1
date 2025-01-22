@@ -8,11 +8,12 @@ demo:
 # Marketing Demo
 
 **Scenario:**  
+
 You are in Marketing for a beverage company, your goal is to analyze market trends, create a marketing analysis, and develop a new social media campaign.
 
 ## Demo Setup
 
-The sample documents can be found in the MS-40XX GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
 The specific files needed for this demo are:
 

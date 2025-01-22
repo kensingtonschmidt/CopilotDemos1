@@ -8,11 +8,12 @@ demo:
 # IT Demo
 
 **Scenario:**  
-As an IT Infrastructure Manager, you are planning to install a new network security product into your corporate network.
+
+As an IT Infrastructure Manager, you're planning to install a new network security product into your corporate network.
 
 ## Demo Setup
 
-The sample documents can be found in the MS-40XX GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
 The specific files needed for this demo are:
 
@@ -38,7 +39,7 @@ Let’s start by asking Copilot to create a project implementation plan.
 
     > **NOTE:** Role-based prompts help Copilot understand the user's responsibilities and context, improving the relevance and specificity of the output.
 
-1. Now we will refine the project plan by asking Copilot to add new sections to the project plan:
+1. Now we'll refine the project plan by asking Copilot to add new sections to the project plan:
 
     Input the following prompt:
 
@@ -54,13 +55,13 @@ Let’s start by asking Copilot to create a project implementation plan.
     Please export the project plan to a Word document.
     ```
 
-1. Save the generated Word document as **Project_Implementation_Plan.docx**. Copy the shared URL from the document (enable autosave and select your OneDrive account if prompted).
+1. Save the generated Word document as **Project_Implementation_Plan.docx**. Copy the shared URL from the document (enable AutoSave and select your OneDrive account if prompted).
 
     ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
 ### Copilot in Word
 
-We will now ask Copilot to expand on these strategies and draft proposals on how to implement them.
+We'll now ask Copilot to expand on these strategies and draft proposals on how to implement them.
 
 1. Open Word (either in your browser or desktop application).
 
@@ -77,13 +78,13 @@ We will now ask Copilot to expand on these strategies and draft proposals on how
 
 1. Select **Keep it** or, if time permits, demonstrate how to tweak the document using Copilot.
 
-1. Once finished, save the document as **Contoso_Project_Plan.docx** and copy the shared URL (enable autosave and select your OneDrive account if prompted).
+1. Once finished, save the document as **Contoso_Project_Plan.docx** and copy the shared URL (enable AutoSave and select your OneDrive account if prompted).
 
     ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
 ### Copilot in PowerPoint
 
-We will now use Copilot to generate a PowerPoint presentation based on the new proposal to implement the Contoso CipherGuard product.
+We'll now use Copilot to generate a PowerPoint presentation based on the new proposal to implement the Contoso CipherGuard product.
 
 1. Launch Microsoft PowerPoint from your browser [PowerPoint.new](https://PowerPoint.new) or use the desktop application.
 
@@ -99,7 +100,7 @@ We will now use Copilot to generate a PowerPoint presentation based on the new p
     Create a presentation from [Link to Contoso_Project_Plan.docx].
     ```
 
-1. Copilot will begin generating slides based on the project plan, providing an outline along with features like speaker notes, images, slide layouts, and a General sensitivity label.
+1. Copilot begins generating slides based on the project plan, providing an outline along with features like speaker notes, images, slide layouts, and a General sensitivity label.
 
     > **NOTE:** Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
 

@@ -8,11 +8,12 @@ demo:
 # HR Demo
 
 **Scenario:**  
-As a Talent Acquisition Manager, streamline the hiring process for a team of UX Designers by creating a tailored job description, shortlisting candidates based on their resumes, and drafting a hiring strategy to align the team
+
+Streamline the hiring process for a team of UX Designers by creating a tailored job description, shortlisting candidates based on their resumes, and drafting a hiring strategy to align the team
 
 ## Demo Setup
 
-The sample documents can be found in the MS-40XX GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
 The specific files needed for this demo are:
 
@@ -46,13 +47,13 @@ Let’s start by asking Copilot in Word to generate a job description.
 
     > **NOTE:** Attach the Design_Team_Responsibilities.docx file or paste the shared link directly into the prompt to ensure Copilot has access to the relevant content.
 
-1. After reviewing and finalizing the job description, save the document as **GDI_Job_Description.docx** and copy the shared URL for use in the next step. (Enable autosave and select your OneDrive account if prompted.)
+1. After reviewing and finalizing the job description, save the document as **GDI_Job_Description.docx** and copy the shared URL for use in the next step. (Enable AutoSave and select your OneDrive account if prompted.)
 
     ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
 ### Copilot Chat
 
-Next, we will use Copilot Chat to compare resumes we've received to the job description and identify the best candidates.
+Next, we'll use Copilot Chat to compare resumes we've received to the job description and identify the best candidates.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 

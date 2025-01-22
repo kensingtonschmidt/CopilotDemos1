@@ -8,7 +8,7 @@ demo:
 # Communications Demo
 
 **Scenario:**  
-You are preparing for an interview with a reporter from a prominent news outlet. Your goal is to gather insights about the reporter, tailor your messaging to their audience, and develop well-crafted answers to potential interview questions. Copilot will assist you throughout this process.
+You're preparing for an interview with a reporter from a prominent news outlet. Your goal is to gather insights about the reporter, tailor your messaging to their audience, and develop well-crafted answers to potential interview questions. Copilot assists you throughout this process.
 
 ## Demo Setup
 
@@ -60,7 +60,7 @@ The insights and drafts generated in Copilot Chat will now be refined and struct
 
 1. Open the saved Word document with the Q&A table from Step 5.
 
-1. Click anywhere in the body of the document and select the Copilot icon. Type in the following prompt:
+1. Select anywhere in the body of the document and select the Copilot icon. Type in the following prompt:
 
     ```text
     Create an FAQ for a technical audience who are new to {Specific Topic}. Include the top 15 questions for publishing on a blog. Leverage the questions and answers from this document.

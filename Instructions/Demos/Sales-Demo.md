@@ -8,11 +8,12 @@ demo:
 # Sales Demo
 
 **Scenario:**  
+
 You're in sales for an EV charging company and are developing a strategic plan for the upcoming year.
 
 ## Demo Setup
 
-The sample documents can be found in the MS-40XX GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
 The specific files needed for this demo are:
 
@@ -60,11 +61,11 @@ The specific files needed for this demo are:
 
 ### Copilot in Word
 
-We will now ask Copilot to expand on these strategies and draft proposals on how to implement them.
+We'll now ask Copilot to expand on these strategies and draft proposals on how to implement them.
 
 1. Open the generated Word document from the previous demo (either in your browser or desktop application).
 
-1. Click anywhere in the body of the document and select the Copilot icon.
+1. Select anywhere in the body of the document and select the Copilot icon.
 
     Type in the following prompt:
 
@@ -74,7 +75,7 @@ We will now ask Copilot to expand on these strategies and draft proposals on how
 
 1. Select **Keep it** or, if time permits, demonstrate how to tweak the document using Copilot.
 
-1. Once finished, save the document as **EV Sales Proposal.docx** and copy the shared URL to be used in the next step (enable autosave and select your OneDrive account).
+1. Once finished, save the document as **EV Sales Proposal.docx** and copy the shared URL to be used in the next step (enable AutoSave and select your OneDrive account).
 
     ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
@@ -96,7 +97,7 @@ We will now ask Copilot to expand on these strategies and draft proposals on how
     Create a presentation from [Link to EV Sales Proposal.docx].
     ```
 
-1. Copilot will begin generating slides based on the EV Sales Proposal, providing an outline along with features like speaker notes, images, slide layouts, and a General sensitivity label.
+1. Copilot begins generating slides based on the EV Sales Proposal, providing an outline along with features like speaker notes, images, slide layouts, and a General sensitivity label.
 
     > **NOTE:** Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
 
