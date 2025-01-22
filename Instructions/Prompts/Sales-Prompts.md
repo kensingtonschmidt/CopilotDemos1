@@ -34,7 +34,7 @@ Using **Copilot in Outlook**, draft a follow-up email based on the insights gath
 
 - In **Outlook**, select **New Email** and then  from the ribbon select **Copilot** > **Draft with Copilot**
 
-    ![screenshot showing Copilot in Outlook.](../Prompts/Media/Copilot-outlook-desktop.png)
+    ![screenshot showing Copilot in Outlook.](../Prompts/Media/copilot-outlook-desktop.png)
 
 **Sample Prompt**:
 
