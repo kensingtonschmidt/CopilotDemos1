@@ -13,3 +13,8 @@ Hyperlinks to each of the demos are listed below.
 | --- |
 {% for activity in demos  %}| [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
+
+## Sample Prompts for immersion experience
+
+### [Sales](https://microsoftlearning.github.ioMS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Sales-Prompts.html)
+
