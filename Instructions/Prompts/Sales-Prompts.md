@@ -1,3 +1,8 @@
+---
+task:
+    title: 'Immersion Experience - Sales'
+---
+
 # Immersion Experience - Sales
 
 Gather insights from recent customer interactions, align on key action items, and prepare for an upcoming customer meeting.

@@ -16,5 +16,6 @@ Hyperlinks to each of the demos are listed below.
 
 ## Sample Prompts for immersion experience
 
-### [Sales](https://microsoftlearning.github.ioMS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Sales-Prompts.html)
+### [Sales](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Sales-Prompts.html)
 
+C:\learn-pr\NEXT-LVL-immersion\Copilot-Immersion-Experience\Instructions\Prompts\Sales-Prompts.md
