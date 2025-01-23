@@ -8,6 +8,7 @@ task:
 Gather insights from recent customer interactions, align on key action items, and prepare for an upcoming customer meeting.
 
 You will perform three tasks:
+
 - Gather insights using **Microsoft 365 Copilot Chat**
 - Align on action items using **Copilot in Outlook**
 - Prepare for a customer meeting using **Copilot in Word**
