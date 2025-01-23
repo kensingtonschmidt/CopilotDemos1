@@ -3,7 +3,7 @@ task:
     title: 'Immersion Experience - Communications'
 ---
 
-# Immersion Experience - Communications
+## Immersion Experience - Communications
 
 Draft an engaging social media post for a real or fictitious product launch, tailored to your platform and audience.
 
@@ -13,9 +13,9 @@ You'll perform three tasks:
 - Brainstorm post ideas using **Copilot chat**
 - Draft and refine your social media post using **Copilot in Word**
 
-> **NOTE:** Sample prompts will be provided to help get you started. Feel free to personalize them to suit your own style—be creative and explore! If Copilot doesn’t deliver the result you want, try refining your prompt and giving it another go. Enjoy the process and have fun experimenting!
+> **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!
 
-## Task 1: Research social media platforms
+### Task 1: Research social media platforms
 
 Using **Copilot Chat**, research your chosen social media platform to understand audience preferences, posting trends, and effective content styles. These insights will help you tailor your post to align with platform-specific best practices and audience expectations.
 
@@ -29,7 +29,7 @@ What types of posts perform best on [chosen social media platform]? Provide exam
 
 > **NOTE:** Replace [chosen social media platform] with the specific platform you're focusing on, such as LinkedIn.
 
-## Task 2: Brainstorm post ideas
+### Task 2: Brainstorm post ideas
 
 Using **Copilot Chat**, brainstorm creative and engaging ideas for your social media post. Consider trending topics, key themes for your product, and hooks that will capture your audience's attention. This helps you choose a compelling direction for your post.
 
@@ -39,12 +39,27 @@ Using **Copilot Chat**, brainstorm creative and engaging ideas for your social m
 What are some creative post ideas for promoting a [product or idea]? Focus on engaging, shareable, and platform-specific themes.
 ```
 
-> **NOTE:** Replace [product] with a real or fictitious product of your choice.
+> **NOTE:** Replace [product or idea] with a real or fictitious product of your choice.
 
-## Task 3: Draft and refine your social media post
+> **TIP**  
+>
+> - Ask Copilot to export the response to a Word document to save the template for future use. Save the document to your OneDrive and copy the shared URL.
+> - To copy the link, open the saved Word document and select **Share** > **Copy Link**, as shown below:  
+> ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
+
+### Task 3: Draft and refine your social media post
 
 Using **Copilot in Word**, draft a concise and engaging social media post based on your research and brainstorming. Refine the post to align with your platform’s style and ensure it communicates your message clearly and effectively.
+
+- Launch Microsoft Word from your browser (<a href="https://word.new" target="_blank">word.new</a>) or use the desktop application.
+- Enter your prompt where it says **"Describe what you'd like to write"**.
+
+    ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)
 
 ```text
 Write a short and engaging social media post about [product or idea]. Make it clear, attention-grabbing, and aligned with the platform's style.
 ```
+
+> **NOTE:** Replace [product or idea] with a real or fictitious product of your choice.
+
+> **TIP** Paste the shared document link you saved in Task 2 into your prompt to ensure it aligns with the role template. Alternatively, you can use the slash "/" character to reference a document in your OneDrive.

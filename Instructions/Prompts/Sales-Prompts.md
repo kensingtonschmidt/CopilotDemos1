@@ -3,7 +3,7 @@ task:
     title: 'Immersion Experience - Sales'
 ---
 
-# Immersion Experience - Sales
+## Immersion Experience - Sales
 
 Gather insights from recent customer interactions, align on key action items, and prepare for an upcoming customer meeting.
 
@@ -13,7 +13,9 @@ You will perform three tasks:
 - Align on action items using **Copilot in Outlook**
 - Prepare for a customer meeting using **Copilot in Word**
 
-## Task 1: Gather Insights
+> **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!
+
+### Task 1: Gather Insights
 
 Using **Microsoft 365 Copilot Chat** (In teams), Gather and review insights from recent interactions with a customer on project implementation. These insights will help you understand customer concerns, progress, and any new opportunities to address during future engagements.
 
@@ -29,7 +31,7 @@ Summarize my recent interactions with [/Name of Person] regarding [specific cust
 
 > **NOTE:** Replace [Name of Person] with the person you’re focusing on, and [specific customer / topic / project] with the relevant topic. Use the **/** character (slash) to reference internal contacts for quick access to recent interactions.
 
-## Task 2: Align on Action Items
+### Task 2: Align on Action Items
 
 Using **Copilot in Outlook**, draft a follow-up email based on the insights gathered from Teams Chat. Include open action items, clarify responsibilities, and provide updates to a colleague or team to ensure alignment and accountability.
 
@@ -45,7 +47,7 @@ Using the insights below, draft a follow-up email to [Name of Person] highlighti
 [Paste insights from Copilot Chat here]
 ```
 
-## Task 3: Prepare for a Customer Meeting
+### Task 3: Prepare for a Customer Meeting
 
 Using **Copilot in Word**, draft talking points for an upcoming customer status update meeting. Ensure the talking points focus on key deliverables, address customer priorities, and provide clarity on next steps
 
