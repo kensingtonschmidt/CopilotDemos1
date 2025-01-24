@@ -15,11 +15,11 @@ You'll perform three tasks:
 
 > **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!
 
-### Task 1: Research market trends 
+### Task 1: Research market trends
 
 Using **Copilot Chat**, research the latest trends and data on competitive job descriptions for your chosen role. Focus on identifying key skills, qualifications, and industry-specific needs to ensure your hiring process aligns with current market demands.
 
-- Open a new browser tab and navigate to <a href="https://m365copilot.com/" target="_blank">M365copilot.com</a>
+- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
 
 **Sample Prompt**:
 
@@ -51,7 +51,7 @@ Using the insights from Task 1, create a job description template for [software 
 
 Using **Copilot in Word**, develop a reusable interview guide tailored to the role. Include structured questions to evaluate technical and behavioral competencies, as well as a scoring rubric to ensure consistent assessments across candidates.
 
-- Launch Microsoft Word from your browser (<a href="https://word.new" target="_blank">word.new</a>) or use the desktop application.
+- Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.
 - Enter your prompt where it says **"Describe what you'd like to write"**.
 
     ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)

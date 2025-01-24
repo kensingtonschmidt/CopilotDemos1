@@ -51,7 +51,7 @@ What are some creative post ideas for promoting a [product or idea]? Focus on en
 
 Using **Copilot in Word**, draft a concise and engaging social media post based on your research and brainstorming. Refine the post to align with your platform’s style and ensure it communicates your message clearly and effectively.
 
-- Launch Microsoft Word from your browser (<a href="https://word.new" target="_blank">word.new</a>) or use the desktop application.
+- Launch Microsoft Word from your browser [word.new](https://word.new) or use the desktop application.
 - Enter your prompt where it says **"Describe what you'd like to write"**.
 
     ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)
