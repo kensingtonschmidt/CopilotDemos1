@@ -33,7 +33,7 @@ Summarize my recent interactions with [/Name of Person] regarding [specific cust
 
 ### Task 2: Align on Action Items
 
-Using **Copilot in Outlook**, draft a follow-up email based on the insights gathered from Teams Chat. Include open action items, clarify responsibilities, and provide updates to a colleague or team to ensure alignment and accountability.
+Using **Copilot in Outlook**, draft a follow-up email based on the insights gathered from Copilot Chat. Include open action items, clarify responsibilities, and provide updates to a colleague or team to ensure alignment and accountability.
 
 - In **Outlook**, select **New Email** and then  from the ribbon select **Copilot** > **Draft with Copilot**
 

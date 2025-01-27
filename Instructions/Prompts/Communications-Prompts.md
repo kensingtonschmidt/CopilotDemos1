@@ -43,7 +43,7 @@ What are some creative post ideas for promoting a [product or idea]? Focus on en
 
 > **TIP**  
 >
-> - Ask Copilot to export the response to a Word document to save the template for future use. Save the document to your OneDrive and copy the shared URL.
+> - Ask Copilot to export the response to a Word document to save for future use. Save the document to your OneDrive and copy the shared URL.
 > - To copy the link, open the saved Word document and select **Share** > **Copy Link**, as shown below:  
 > ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
