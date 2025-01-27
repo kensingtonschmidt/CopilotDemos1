@@ -19,9 +19,15 @@ You will perform three tasks:
 
 Using **Microsoft 365 Copilot Chat** (In teams), Gather and review insights from recent interactions with a customer on project implementation. These insights will help you understand customer concerns, progress, and any new opportunities to address during future engagements.
 
+**Steps**:
+
 - In **Microsoft Teams**, select **Copilot** at the top of the **Chat** pane.  This will open a **Copilot** window.
 
     ![screenshot showing Copilot Chat within Teams.](../Prompts/Media/Copilot-chat-in-teams.png)
+
+- Ensure the "Work mode" tab is selected in Copilot Chat:
+
+    ![screenshot showing Work mode tab.](../Prompts/Media/work-mode.png)
 
 **Sample Prompt**:
 
@@ -34,6 +40,8 @@ Summarize my recent interactions with [/Name of Person] regarding [specific cust
 ### Task 2: Align on Action Items
 
 Using **Copilot in Outlook**, draft a follow-up email based on the insights gathered from Copilot Chat. Include open action items, clarify responsibilities, and provide updates to a colleague or team to ensure alignment and accountability.
+
+**Steps**:
 
 - In **Outlook**, select **New Email** and then  from the ribbon select **Copilot** > **Draft with Copilot**
 
@@ -50,6 +58,9 @@ Using the insights below, draft a follow-up email to [Name of Person] highlighti
 ### Task 3: Prepare for a Customer Meeting
 
 Using **Copilot in Word**, draft talking points for an upcoming customer status update meeting. Ensure the talking points focus on key deliverables, address customer priorities, and provide clarity on next steps
+
+
+**Steps**:
 
 - Launch Microsoft Word from your browser [word.new](https://word.new) or use the desktop application.
 - Enter your prompt where it says **"Describe what you'd like to write"**.

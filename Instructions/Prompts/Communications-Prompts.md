@@ -19,6 +19,8 @@ You'll perform three tasks:
 
 Using **Copilot Chat**, research your chosen social media platform to understand audience preferences, posting trends, and effective content styles. These insights will help you tailor your post to align with platform-specific best practices and audience expectations.
 
+**Steps**:
+
 - Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/).
 
 **Sample Prompt**:
@@ -51,10 +53,14 @@ What are some creative post ideas for promoting a [product or idea]? Focus on en
 
 Using **Copilot in Word**, draft a concise and engaging social media post based on your research and brainstorming. Refine the post to align with your platform’s style and ensure it communicates your message clearly and effectively.
 
+**Steps**:
+
 - Launch Microsoft Word from your browser [word.new](https://word.new) or use the desktop application.
 - Enter your prompt where it says **"Describe what you'd like to write"**.
 
     ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)
+
+**Sample Prompt**:
 
 ```text
 Write a short and engaging social media post about [product or idea]. Make it clear, attention-grabbing, and aligned with the platform's style.

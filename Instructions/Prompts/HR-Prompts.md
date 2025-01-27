@@ -19,6 +19,8 @@ You'll perform three tasks:
 
 Using **Copilot Chat**, research the latest trends and data on competitive job descriptions for your chosen role. Focus on identifying key skills, qualifications, and industry-specific needs to ensure your hiring process aligns with current market demands.
 
+**Steps**:
+
 - Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
 
 **Sample Prompt**:
@@ -50,6 +52,8 @@ Using the insights from Task 1, create a job description template for [software 
 ### Task 3: Design an interview guide
 
 Using **Copilot in Word**, develop a reusable interview guide tailored to the role. Include structured questions to evaluate technical and behavioral competencies, as well as a scoring rubric to ensure consistent assessments across candidates.
+
+**Steps**:
 
 - Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.
 - Enter your prompt where it says **"Describe what you'd like to write"**.
