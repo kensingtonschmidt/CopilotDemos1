@@ -1,13 +1,13 @@
 ---
 task:
-    title: 'Immersion Experience - Business Manger'
+    title: 'Immersion Experience - Business Manager'
 ---
 
 ## Immersion Experience - Business Manager  
 
 Optimize daily tasks by reviewing communications, sending an email, and preparing for an upcoming meeting.  
 
-You will perform three tasks:  
+You'll perform three tasks:  
 
 - Review communications using **Microsoft 365 Copilot Chat**.  
 - Prepare meeting talking points using **Copilot in Pages**.

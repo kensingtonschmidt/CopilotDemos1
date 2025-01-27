@@ -7,7 +7,7 @@ task:
 
 Prepare for a real or fictitious product launch by gathering customer insights, developing a positioning strategy, and creating a campaign overview.  
 
-You will perform three tasks:  
+You'll perform three tasks:  
 
 - Gather customer insights using **Copilot Chat**.  
 - Draft a positioning strategy using **Copilot in Word**.  

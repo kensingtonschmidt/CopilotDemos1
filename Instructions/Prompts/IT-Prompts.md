@@ -7,7 +7,7 @@ task:
 
 Drive tech engagement and user satisfaction by researching upcoming product or service features, sharing updates, and collecting feedback.  
 
-You will perform three tasks:  
+You'll perform three tasks:  
 
 - Research upcoming features using **Microsoft 365 Copilot Chat**.  
 - Draft an announcement using **Copilot in Word**.  

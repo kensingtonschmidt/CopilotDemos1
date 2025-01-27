@@ -7,7 +7,7 @@ task:
 
 Optimize daily tasks by summarizing communications, preparing for your day, and sending a follow-up email.  
 
-You will perform three tasks:  
+You'll perform three tasks:  
 
 - Summarize communications using **Microsoft 365 Copilot Chat**.  
 - Plan your day using **Microsoft 365 Copilot Chat**.  
