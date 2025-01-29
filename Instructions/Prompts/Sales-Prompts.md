@@ -59,7 +59,6 @@ Using the insights below, draft a follow-up email to [Name of Person] highlighti
 
 Using **Copilot in Word**, draft talking points for an upcoming customer status update meeting. Ensure the talking points focus on key deliverables, address customer priorities, and provide clarity on next steps
 
-
 **Steps**:
 
 - Launch Microsoft Word from your browser [word.new](https://word.new) or use the desktop application.
