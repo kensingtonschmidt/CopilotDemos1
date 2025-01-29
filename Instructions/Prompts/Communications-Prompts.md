@@ -22,6 +22,9 @@ Using **Copilot Chat**, research your chosen social media platform to understand
 **Steps**:
 
 - Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/).
+- Ensure the "web mode" tab is selected in Copilot Chat:
+
+    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
 
 **Sample Prompt**:
 
