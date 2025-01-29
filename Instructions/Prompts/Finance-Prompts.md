@@ -1,8 +1,8 @@
 ---
 task:
-    title: 'Immersion Experience - Operations'
+    title: 'Immersion Experience - Finance'
 ---
 
-## Immersion Experience - Operations
+## Immersion Experience - Finance
 
 Work in progress
