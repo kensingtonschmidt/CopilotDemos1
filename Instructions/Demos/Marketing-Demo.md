@@ -9,7 +9,7 @@ demo:
 
 **Scenario:**  
 
-You are in Marketing for a beverage company, your goal is to analyze market trends, create a marketing analysis, and develop a new social media campaign.
+You are an Operations Manager at Contoso, responsible for managing vendor procurement and project execution. Your goal is to analyze past Request for Proposals (RFPs), extract key selection criteria, and develop a new RFP for an upcoming initiative.
 
 ## Demo Setup
 
