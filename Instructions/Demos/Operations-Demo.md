@@ -67,6 +67,8 @@ Now that we’ve summarized the RFP document and created an RFP template, let’
 
 1. Ensure **Web Mode** is selected.
 
+    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+
 1. Enter the following prompt:
 
    ```text

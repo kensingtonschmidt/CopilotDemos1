@@ -22,6 +22,8 @@ There are no sample documents required for this demo.
 
 1. Ensure Web mode is selected.
 
+    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+
 1. In the prompt window, type the following:
 
     ```text

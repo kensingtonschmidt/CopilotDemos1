@@ -86,6 +86,8 @@ Now that we’ve identified slow charging speed as a key issue, use **Copilot Ch
 
 1. Ensure **Web Mode** is selected.  
 
+    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+
 1. To research the issue, enter the following prompt:
   
     ```text

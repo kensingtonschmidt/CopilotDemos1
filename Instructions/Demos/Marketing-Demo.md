@@ -63,6 +63,8 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
 
 1. Ensure Web mode is selected.
 
+    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+
 1. In the prompt window, type the following:
 
     ```text

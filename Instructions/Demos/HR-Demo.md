@@ -59,6 +59,8 @@ Next, we'll use Copilot Chat to compare resumes we've received to the job descri
 
 1. Ensure Work Mode is selected.
 
+    ![screenshot showing web mode tab.](../Prompts/Media/work-mode.png)
+
 1. In the prompt window, type the following:
 
     ```text

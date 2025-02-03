@@ -68,7 +68,6 @@ We'll start by reviewing the transcript from the most recent earnings call and s
 
     ![Copy results.](../Demos/Media/Copilot-in-word-copy-results.png)
 
-    > **Transition:** Now that we have a detailed report, let's refine it further using Copilot Chat.
 
 ### Copilot Chat
 
@@ -78,7 +77,7 @@ The report provided by Word is a great starting point, but now we want to use Co
 
 1. Ensure **Web mode** is selected.
 
-    > **NOTE:** Take a moment to discuss **Enterprise Data Protection (EDP)** and how it safeguards sensitive information.
+    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
 
 1. Paste the response from Copilot in Word into Copilot Chat with the following prompt:
 
@@ -127,7 +126,7 @@ In this demo, we'll use Copilot in Outlook to set up a meeting with the executiv
 1. In the prompt window, type the following:
 
     ```text
-    I’m meeting with my boss to discuss key updates and strategic initiatives they missed from the Second Quarter Earnings Conference Call. Summarize key financial performance, AI and technology integration, strategic acquisitions, productivity updates, and future outlook.
+    I’m meeting with my boss to discuss key updates and strategic initiatives they missed from the Second Quarter Earnings Conference Call. Create an agenda to discuss financial performance, AI and technology integration, strategic acquisitions, productivity updates, and future outlook.
     ```
 
 1. Optionally, before selecting **Keep it**, you can ask Copilot to make it longer, shorter, or change the tone of the drafted agenda.

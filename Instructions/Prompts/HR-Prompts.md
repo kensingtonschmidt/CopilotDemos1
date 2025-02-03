@@ -71,4 +71,4 @@ Create an interview guide for [software engineers] that includes technical and b
 
 > **NOTE:** Replace [software engineers] with the role you're focusing on. This guide will help streamline the candidate evaluation process and ensure fairness.
 
-> **TIP** Paste the shared document link you saved in Task 2 into your prompt to ensure it aligns with the role template. Alternatively, you can use the slash "/" character to reference a document in your OneDrive.
+> **TIP** Paste the shared document link you saved in Task 2 into your prompt to ensure it aligns with the role template. Alternatively, type "/" in Copilot to quickly reference and insert relevant files from OneDrive.

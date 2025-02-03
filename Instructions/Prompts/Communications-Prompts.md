@@ -71,4 +71,4 @@ Write a short and engaging social media post about [product or idea]. Make it cl
 
 > **NOTE:** Replace [product or idea] with a real or fictitious product of your choice.
 
-> **TIP** Paste the shared document link you saved in Task 2 into your prompt to ensure it aligns with the role template. Alternatively, you can use the slash "/" character to reference a document in your OneDrive.
+> **TIP** When drafting your social media post, use the shared document link from Task 2 to reference key insights. Alternatively, type "/" in Copilot to quickly reference and insert relevant files from OneDrive.

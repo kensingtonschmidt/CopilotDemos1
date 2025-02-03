@@ -29,6 +29,8 @@ The specific files needed for this demo are:
 
 1. Ensure Web mode is selected.
 
+    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+
 1. Let’s start by asking Copilot to research a key metric. In the **Copilot Chat** prompt field, input:
 
     ```text
