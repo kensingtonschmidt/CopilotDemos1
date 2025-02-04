@@ -19,7 +19,7 @@ You'll perform three tasks:
 
 Using **Copilot Chat**, gather insights on relevant legal topics by analyzing internal sources such as emails, chat history, and SharePoint documentation. Then, broaden your research with industry articles, legal databases, external reports, or relevant case law.  
 
-If you do not have an internal legal matter to research, focus on gathering insights from publicly available sources on a legal topic of your choice, such as **contract law, data privacy, employment law, or compliance requirements.**  
+If you don't have an internal legal matter to research, focus on gathering insights from publicly available sources on a legal topic of your choice, such as **contract law, data privacy, employment law, or compliance requirements.**  
 
 **Steps**:
 
