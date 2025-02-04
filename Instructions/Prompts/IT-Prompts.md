@@ -55,7 +55,7 @@ Draft a post about the upcoming features in [Microsoft 365: (list of features)].
 
 ### Task 3: Create a survey  
 
-Using **Copilot in Forms**, create a survey to collect user feedback about their experiences with Microsoft 365. Include questions about satisfaction, usability, and any potential pain points.  
+Using **Copilot in Forms**, create a survey to collect user feedback about their experiences with the product or service. Include questions about satisfaction, usability, and any potential pain points.  
 
 **Steps**:
 

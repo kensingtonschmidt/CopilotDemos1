@@ -17,7 +17,7 @@ You'll perform three tasks:
 
 ### Task 1: Collect Financial Data  
 
-Using **Microsoft 365 Copilot Chat**, gather relevant financial data, including market trends, revenue insights, and cost structures. This information helps establish a solid foundation for financial analysis, ensuring you have accurate data points to assess business performance.
+Using **Microsoft 365 Copilot Chat**, gather relevant financial data, including market trends, revenue insights, and cost structures for a company or industry of your choice. This information helps establish a solid foundation for financial analysis, ensuring you have accurate data points to assess business performance.
 
 **Steps**:
 
