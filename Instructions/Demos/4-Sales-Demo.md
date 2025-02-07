@@ -61,11 +61,16 @@ The specific files needed for this demo are:
     Based on the trend, suggest two ways I can increase EV charger sales in the Mountain and Midwest regions. Export the recommendations to a Word Document.
     ```
 
+1. Select the hyperlink Copilot provides for the new Word document to open it.
+
+1. Once opened, select **Enable Editing** and then turn on "AutoSave". Select your OneDrive account when prompted.
+
+
 ### Copilot in Word
 
 We'll now ask Copilot to expand on these strategies and draft proposals on how to implement them.
 
-1. Open the generated Word document from the previous demo (either in your browser or desktop application).
+1. The generated Word document from the previous demo should already be open, if not open it now (either in your browser or desktop application).
 
 1. Select anywhere in the body of the document and select the Copilot icon.
 
