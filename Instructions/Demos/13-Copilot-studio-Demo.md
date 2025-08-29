@@ -1,6 +1,6 @@
 ---
 demo:
-    title: 'Demo: Build an Agent with Copilot Studio'
+    title: 'Build an Agent with Copilot Studio'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
