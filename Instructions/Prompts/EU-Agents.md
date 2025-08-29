@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'Immersion Experience – Agents (End Users)'
+    title: 'Immersion Experience – Agents (Business Users)'
 ---
 
-## Immersion Experience – Agents (End Users)
+## Immersion Experience – Agents (Business Users)
 
 Discover how Microsoft 365 Copilot and Copilot Studio can help you solve everyday productivity challenges by designing a simple **retrieval-based agent**. This streamlined exercise will walk you through identifying a common issue, exploring how AI could help, and then creating a simple agent to test.  
 
