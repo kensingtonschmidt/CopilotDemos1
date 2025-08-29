@@ -174,3 +174,5 @@ Use Copilot in Word to summarize financial insights into an email for our team.
     - Make it less formal
 
 1. Once finished, you can select **Keep it**
+
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

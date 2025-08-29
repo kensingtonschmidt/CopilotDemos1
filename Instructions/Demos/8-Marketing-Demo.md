@@ -118,3 +118,5 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
     ```text
     How many social media campaign views did we have from September to December?
     ```
+
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
