@@ -70,7 +70,7 @@ Now, create a simple retrieval agent in **Copilot Studio** to address your chall
 
 1. In the **Copilot Chat** menu, select **Create agent**.
 
-   ![Screenshot showing create an agent link.](../Prompts/media/create-agent.png)  
+   ![Screenshot showing create an agent link.](../Prompts/Media/create-agent.png)  
 
 1. In the **Describe** tab, draft your agent’s role. For example:  
 
@@ -78,11 +78,11 @@ Now, create a simple retrieval agent in **Copilot Studio** to address your chall
    You’re a virtual assistant that helps me with [key task]. Be concise and always reference my recent files or resources when possible.
    ```  
 
-   ![Screenshot showing describe agent with sample prompt filled in.](../Prompts/media/create-agent-through-describe.png)  
+   ![Screenshot showing describe agent with sample prompt filled in.](../Prompts/Media/create-agent-through-describe.png)  
 
 1. Select the **Configure** Tab and add one knowledge source (e.g., **My Emails** or **My Teams chats and meetings**).
 
-    ![Screenshot showing knowledge sources section in agent builder.](../Prompts/media/knowledge-sources.png)
+    ![Screenshot showing knowledge sources section in agent builder.](../Prompts/Media/knowledge-sources.png)
 
 1. Test your agent using the **Test** pane and refine as needed.  
 1. Select **Create** to publish your agent and start using it.  

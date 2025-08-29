@@ -91,7 +91,7 @@ Now, take your insights and create a simple mock agent in **Copilot Studio**. Ke
     1. Open your browser and navigate to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
     1. Select **Create agent** in the right-hand rail to launch **Copilot Studio**.
 
-        ![Screenshot showing create an agent link.](../Prompts/media/create-agent.png)
+        ![Screenshot showing create an agent link.](../Prompts/Media/create-agent.png)
 
 - **Define your Agent (Describe tab or Configure tab)**
 
@@ -101,13 +101,13 @@ Now, take your insights and create a simple mock agent in **Copilot Studio**. Ke
         You’re a virtual assistant for our [project/team name]. Your role is to help with [key tasks]. Be concise, stay on-brand, and reference our shared resources when possible.
         ```
 
-        ![Screenshot showing describe agent with sample prompt filled in.](../Prompts/media/create-agent-through-describe.png)
+        ![Screenshot showing describe agent with sample prompt filled in.](../Prompts/Media/create-agent-through-describe.png)
 
         > **NOTE:** You can start from scratch or base your agent on a template, which pre-populates settings and instructions you can later customize.
 
     1. If **Describe** isn’t available, switch to the **Configure** tab and enter the same details manually: name, description, and agent instructions.
 
-        ![Screenshot showing configure agent.](../Prompts/media/name-describe-agent.png)
+        ![Screenshot showing configure agent.](../Prompts/Media/name-describe-agent.png)
 
 - **Customize your Agent**
 
@@ -115,11 +115,11 @@ Now, take your insights and create a simple mock agent in **Copilot Studio**. Ke
 
     1. Add at least one knowledge source (e.g., a document saved to OneDrive/SharePoint or Your emails).
 
-        ![Screenshot showing knowledge sources section in agent builder.](../Prompts/media/knowledge-sources.png)
+        ![Screenshot showing knowledge sources section in agent builder.](../Prompts/Media/knowledge-sources.png)
 
     1. Define starter prompts to help others get started with your agent
 
-        ![Screenshot showing starter prompts section in agent builder.](../Prompts/media/starter-prompts.png)
+        ![Screenshot showing starter prompts section in agent builder.](../Prompts/Media/starter-prompts.png)
 
         > **TIP:** Starter prompts help guide users on how to interact with your agent.
 
