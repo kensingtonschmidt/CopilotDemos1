@@ -23,9 +23,6 @@ layout: default
 
 
 
-## Sample Prompts for immersion experience
-
-
 #### [Legal](https://emontes07.github.io/Learning/Instructions/Prompts/Legal-Prompts.html)
 
 #### [Finance](https://emontes07.github.io/Learning/Instructions/Prompts/Finance-Prompts.html)
