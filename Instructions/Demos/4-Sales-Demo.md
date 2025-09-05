@@ -107,4 +107,4 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
 
     > **NOTE:** Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+[Back to Index](https://emontes07.github.io/Learning/)
