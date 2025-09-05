@@ -7,7 +7,7 @@ demo:
 
 **Scenario:**  
 
-You’re a legal advisor at Contoso, responsible for assessing whether the company’s AI Resume Screening Software complies with the EU AI Act. Your goal is to research legal risks, draft an executive summary, and communicate recommendations to leadership.
+You’re a legal advisor at Nordstrom, responsible for assessing whether the company’s AI Resume Screening Software complies with the EU AI Act. Your goal is to research legal risks, draft an executive summary, and communicate recommendations to leadership.
 
 ## Demo Setup
 
