@@ -115,4 +115,4 @@ In the right-hand testing pane, try asking a few of the following questions:
 
 Once live, you can interact with the agent in Teams chat or via @mentions.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+[Back to Index](https://emontes07.github.io/Learning/)
