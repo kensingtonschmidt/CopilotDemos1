@@ -1,21 +1,49 @@
 ---
 task:
-    title: 'Immersion Experience - Legal'
+    title: 'Legal'
 ---
 
-## Immersion Experience - Legal  
+## Legal  
 
 Enhance legal decision-making by gathering insights, conducting legal analysis, and drafting professional communications.  
 
 You'll perform three tasks:  
 
-- Research legal information using **Copilot Chat**.  
+- Research legal information using **Copilot Researcher**. 
+- Research legal information using **Copilot Chat and Try GPT5**.  
 - Conduct a legal analysis using **Copilot Chat**.  
 - Draft a legal communication using **Copilot in Word**.  
 
 > **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
 
 ### Task 1: Research Legal Information  
+
+Using **Copilot Chat**, gather insights on relevant legal topics by analyzing internal sources such as emails, chat history, and SharePoint documentation. Then, broaden your research with industry articles, legal databases, external reports, or relevant case law.  
+
+If you don't have an internal legal matter to research, focus on gathering insights from publicly available sources on a legal topic of your choice, such as **contract law, data privacy, employment law, or compliance requirements.**  
+
+**Steps**:
+
+- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
+- Select the Researcher agent or "@ mention the agent"
+
+** Sample Prompt** *(if no internal legal topic is available)*:
+
+```text
+
+Research the American Privacy Rights Act (APRA), introduced in April 2024, and prepare a summary for Edgewell’s Legal department that covers:
+1.The scope and applicability of APRA to large consumer-goods companies.
+
+2.Key obligations around transparency, data minimization, security, and impact assessments.
+
+3. Required changes to Edgewell’s current data-collection, consent-management, and privacy-governance processes.
+
+4. Recommended Copilot-enabled tools and workflows to automate compliance, including data mapping, policy generation, and ongoing monitoring.
+
+```
+
+
+### Task 2: Research Legal Information  
 
 Using **Copilot Chat**, gather insights on relevant legal topics by analyzing internal sources such as emails, chat history, and SharePoint documentation. Then, broaden your research with industry articles, legal databases, external reports, or relevant case law.  
 
@@ -34,24 +62,9 @@ If you don't have an internal legal matter to research, focus on gathering insig
 Summarize information from emails, chat messages, and SharePoint documentation related to [specific legal topic]. Then, enhance these insights by summarizing information from relevant legal articles, external reports, and other authoritative sources to provide a well-rounded perspective on [specific legal topic].
 ```
 
-**Alternative Sample Prompt** *(if no internal legal topic is available)*:
-
-```text
-
-Research the American Privacy Rights Act (APRA), introduced in April 2024, and prepare a summary for Edgewell’s Legal department that covers:
-1.The scope and applicability of APRA to large consumer-goods companies.
-
-2.Key obligations around transparency, data minimization, security, and impact assessments.
-
-3. Required changes to Edgewell’s current data-collection, consent-management, and privacy-governance processes.
-
-4. Recommended Copilot-enabled tools and workflows to automate compliance, including data mapping, policy generation, and ongoing monitoring.
-
-```
-
 > **NOTE:** Replace bracketed text ([ ]) with your chosen legal topic before submitting the prompt.
 
-### Task 2: Conduct a Legal Analysis  
+### Task 3: Conduct a Legal Analysis  
 
 Using **Copilot Chat**, conduct a structured legal analysis that examines key provisions, implications, and potential risks. Identify common legal challenges and compare how similar organizations or industries approach these issues. Summarize the most critical takeaways to support legal decision-making.  
 
