@@ -113,4 +113,20 @@ Lastly, we’ll draft an email to Nordstrom’s leadership summarizing our findi
 
 1. Once the draft is generated, you can use the **Adjust** feature to modify the tone, length, or level of formality.
 
+### Additional sample prompts
+
+
+### Lawyer’s Second Copilot Prompt: Plain-English Summary
+
+```text
+Convert the technical language of Article I, paragraphs 1 (Normal Exercise) and 2 (Acceleration) into a plain-English summary suitable for non-lawyers, while preserving all legal obligations.
+```
+
+### Lawyer’s Third Copilot Prompt: Scenario Analysis
+
+```text
+Scenario: What happens if the optionee voluntarily leaves the company before the second anniversary (i.e., before any shares vest on October 12, 2012)? Explain which shares, if any, remain exercisable and for how long
+```
+
+
 
