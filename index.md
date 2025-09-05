@@ -30,3 +30,21 @@ layout: default
 #### [Agents - Business Users](https://emontes07.github.io/Learning/Instructions/Prompts/EU-Agents.html)
 
 #### [Agents - Executives](https://emontes07.github.io/Learning/Instructions/Prompts/Exec-Agents.html)
+
+#### https://emontes07.github.io/Learning/envision-new-ideas-with-microsoft-365-copilot/
+
+#### https://emontes07.github.io/Learning/Instructions/Prompts/Communications-Prompts.html
+
+#### https://emontes07.github.io/Learning/Instructions/Prompts/HR-Prompts.html
+
+#### https://emontes07.github.io/Learning/Instructions/Prompts/Sales-Prompts.html
+
+#### https://emontes07.github.io/Learning/Instructions/Prompts/IT-Prompts.html
+
+#### https://emontes07.github.io/Learning/Instructions/Prompts/EA-Prompts.html
+
+#### https://emontes07.github.io/Learning/Instructions/Prompts/Business-Manager-Prompts.html
+
+#### https://emontes07.github.io/Learning/Instructions/Prompts/Marketing-Prompts.html
+
+#### https://emontes07.github.io/Learning/Instructions/Prompts/Operations-Prompts.html
