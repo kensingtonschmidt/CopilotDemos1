@@ -134,4 +134,4 @@ You can run these additional prompts for variety. Each follows the same pattern:
 
 Together, Researcher and Analyst shorten the path from **question to insight**—turning weeks of effort into minutes.  
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+[Back to Index](https://emontes07.github.io/Learning/)
