@@ -3,8 +3,6 @@ demo:
     title: 'Legal Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Legal Demo
 
 **Scenario:**  
