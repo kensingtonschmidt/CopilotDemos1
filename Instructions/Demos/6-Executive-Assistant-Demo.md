@@ -131,4 +131,4 @@ In this demo, we'll use Copilot in Outlook to set up a meeting with the executiv
 
 1. Optionally, before selecting **Keep it**, you can ask Copilot to make it longer, shorter, or change the tone of the drafted agenda.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+[Back to Index](https://emontes07.github.io/Learning/)
