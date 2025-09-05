@@ -92,4 +92,4 @@ Lastly, use Copilot in Outlook to draft an email to the hiring team regarding th
     Please draft an email to the hiring team to share that Nester Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
     ```
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+[Back to Index](https://emontes07.github.io/Learning/)
