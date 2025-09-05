@@ -113,4 +113,4 @@ Lastly, we’ll draft an email to Contoso’s leadership summarizing our finding
 
 1. Once the draft is generated, you can use the **Adjust** feature to modify the tone, length, or level of formality.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+
