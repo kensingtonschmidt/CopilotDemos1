@@ -37,7 +37,16 @@ Summarize information from emails, chat messages, and SharePoint documentation r
 **Alternative Sample Prompt** *(if no internal legal topic is available)*:
 
 ```text
-Research key considerations, compliance risks, and recent updates related to [select a legal topic, for example: data privacy laws]. Summarize information from authoritative sources such as government regulations, case law, and industry best practices. Highlight key challenges organizations face when addressing this issue.
+
+Research the American Privacy Rights Act (APRA), introduced in April 2024, and prepare a summary for Edgewell’s Legal department that covers:
+1.The scope and applicability of APRA to large consumer-goods companies.
+
+2.Key obligations around transparency, data minimization, security, and impact assessments.
+
+3. Required changes to Edgewell’s current data-collection, consent-management, and privacy-governance processes.
+
+4. Recommended Copilot-enabled tools and workflows to automate compliance, including data mapping, policy generation, and ongoing monitoring.
+
 ```
 
 > **NOTE:** Replace bracketed text ([ ]) with your chosen legal topic before submitting the prompt.
