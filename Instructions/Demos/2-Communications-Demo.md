@@ -74,4 +74,4 @@ The insights and drafts generated in Copilot Chat will now be refined and struct
 
 1. Reflect on the FAQ. Are there any gaps in information? Add additional questions as needed to ensure it provides comprehensive value to the audience.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+[Back to Index](https://emontes07.github.io/Learning/)
