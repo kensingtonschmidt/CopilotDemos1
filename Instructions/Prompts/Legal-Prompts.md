@@ -31,12 +31,12 @@ If you don't have an internal legal matter to research, focus on gathering insig
 
 ```text
 
-Research the American Privacy Rights Act (APRA), introduced in April 2024, and prepare a summary for Edgewell’s Legal department that covers:
+Research the American Privacy Rights Act (APRA), introduced in April 2024, and prepare a summary for Nordstrom’s Legal department that covers:
 1.The scope and applicability of APRA to large consumer-goods companies.
 
 2.Key obligations around transparency, data minimization, security, and impact assessments.
 
-3. Required changes to Edgewell’s current data-collection, consent-management, and privacy-governance processes.
+3. Required changes to Nordstom’s current data-collection, consent-management, and privacy-governance processes.
 
 4. Recommended Copilot-enabled tools and workflows to automate compliance, including data mapping, policy generation, and ongoing monitoring.
 
