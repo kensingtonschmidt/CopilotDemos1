@@ -14,37 +14,30 @@ Hyperlinks to each of the demos are listed below.
 {% for activity in demos  %}| [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
 
----
-title: Immersion Experience
-layout: default
----
+## Sample Prompts for immersion experience
 
-## Sample Prompts for Immersion Experience
+#### [Executives](https://learn.microsoft.com/en-us/training/modules/envision-new-ideas-with-microsoft-365-copilot/) (Redirects to Microsoft Learn)
 
+#### [Communications](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Communications-Prompts.html)
 
+#### [HR](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/HR-Prompts.html)
 
-#### [Legal](https://emontes07.github.io/Learning/Instructions/Prompts/Legal-Prompts.html)
+#### [Sales](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Sales-Prompts.html)
 
-#### [Finance](https://emontes07.github.io/Learning/Instructions/Prompts/Finance-Prompts.html)
+#### [IT](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/IT-Prompts.html)
 
-#### [Agents - Business Users](https://emontes07.github.io/Learning/Instructions/Prompts/EU-Agents.html)
+#### [Executive Assistant](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/EA-Prompts.html)
 
-#### [Agents - Executives](https://emontes07.github.io/Learning/Instructions/Prompts/Exec-Agents.html)
+#### [Business Manager](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Business-Manager-Prompts.html)
 
-#### https://emontes07.github.io/Learning/envision-new-ideas-with-microsoft-365-copilot/
+#### [Marketing](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Marketing-Prompts.html)
 
-#### https://emontes07.github.io/Learning/Instructions/Prompts/Communications-Prompts.html
+#### [Operations](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Operations-Prompts.html)
 
-#### https://emontes07.github.io/Learning/Instructions/Prompts/HR-Prompts.html
+#### [Legal](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Legal-Prompts.html)
 
-#### https://emontes07.github.io/Learning/Instructions/Prompts/Sales-Prompts.html
+#### [Finance](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Finance-Prompts.html)
 
-#### https://emontes07.github.io/Learning/Instructions/Prompts/IT-Prompts.html
+#### [Agents - Business Users](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/EU-Agents.html)
 
-#### https://emontes07.github.io/Learning/Instructions/Prompts/EA-Prompts.html
-
-#### https://emontes07.github.io/Learning/Instructions/Prompts/Business-Manager-Prompts.html
-
-#### https://emontes07.github.io/Learning/Instructions/Prompts/Marketing-Prompts.html
-
-#### https://emontes07.github.io/Learning/Instructions/Prompts/Operations-Prompts.html
+#### [Agents - Executives](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-Agents.html)
