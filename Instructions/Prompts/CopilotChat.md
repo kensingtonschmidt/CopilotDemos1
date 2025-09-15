@@ -117,9 +117,11 @@ Using **Copilot Chat**, practice enhancing your results by asking follow-up ques
 
 ```text
 Please identify trends in consumer preferences for grocery markets and use these insights to develop ideas for new products for our grocery market chain.
-
+```
+```text
 Please structure those ideas in a table format and for each idea add a column for the potential target groups and ideas for an advertising campaign.
-
+```
+```text
 How can I prioritize these ideas effectively?
 ```
 
@@ -127,7 +129,7 @@ How can I prioritize these ideas effectively?
 
 ** Learning Outcome ** :
 After completing this task, you’ll understand how to use follow-up prompts to get richer insights and actionable recommendations from Copilot Chat.
-````
+
 
 ### Task 2: Research Legal Information  
 
