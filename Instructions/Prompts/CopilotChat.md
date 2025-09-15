@@ -1,7 +1,6 @@
-
 ---
 task:
-    title: 'Copilot Chat'
+    title: 'Copilot Chats'
 ---
 
 ## Copilot Chat  
