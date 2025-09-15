@@ -43,3 +43,5 @@ Hyperlinks to each of the demos are listed below.
 #### [Agents - Business Users](https://emontes07.github.io/Learning/Instructions/Prompts/EU-Agents.html)
 
 #### [Agents - Executives](https://emontes07.github.io/Learning/Instructions/Prompts/Exec-Agents.html)
+
+#### [Copilot Chat](https://emontes07.github.io/Learning/Instructions/Prompts/CopilotChat.html)
