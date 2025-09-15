@@ -56,9 +56,9 @@ Weather Events:
 Please provide detailed information and relevant data sources for each aspect to support strategic decision-making for store operations.
 ```
 
-**TIP**: If the first response is too broad or too shallow, refine your prompt by adding more context (e.g., specific region, industry, or time frame).
+> **TIP:**  If the first response is too broad or too shallow, refine your prompt by adding more context (e.g., specific region, industry, or time frame).
 
-** Learning Outcome ** :
+> **Learning Outcome:**
 After completing this task, you'll be able to use Copilot Chat to perform structured online research and gather actionable insights.
 
 ---
