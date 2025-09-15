@@ -1,3 +1,4 @@
+
 ---
 task:
     title: 'Copilot Chat'
@@ -53,8 +54,80 @@ Weather Events:
 - Impact of weather on local infrastructure and transportation
 
 Please provide detailed information and relevant data sources for each aspect to support strategic decision-making for store operations.
-````
+```
 
+** TIP **: If the first response is too broad or too shallow, refine your prompt by adding more context (e.g., specific region, industry, or time frame).
+
+** Learning Outcome ** :
+After completing this task, you'll be able to use Copilot Chat to perform structured online research and gather actionable insights.
+
+---
+
+### Task 2: Summarize & Structure Meeting Notes  
+
+Using **Copilot Chat**, transform raw meeting notes into a structured, professional summary. This will help you clearly communicate key decisions, action items, and responsibilities, ensuring alignment across teams.  
+
+If you don’t have internal meeting notes available, you can use a sample transcript or text file that contains general meeting content for practice.  
+
+**Steps**:
+
+- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
+- Select Copilot Chat
+- Upload your meeting notes transcript (text file)
+  
+    ![screenshot showing meeting notes recap prompt.](../Prompts/Media/Task2.png)  
+
+**Sample Prompt** *(after uploading meeting notes)*:
+
+```text
+Using my meeting notes, create a formal meeting notes structure and align the content with a meeting title that encapsulates the meeting goal or agenda. 
+
+The final output should format my notes with these sections:
+- Title  
+- Attendees  
+- Goal  
+- Topics to Discuss  
+- Product Details  
+- Tasks to be Completed  
+- Timelines and Responsibilities  
+- Resources  
+- Q&A and Next Steps
+```
+
+** TIP **: You can ask Copilot to adjust the level of detail (e.g., “make the summary more concise” or “expand on tasks to be completed”).
+
+** Learning Outcome ** :
+After completing this task, you'll know how to turn unstructured notes into a professional, shareable meeting summary.
+
+---
+
+### Task 3: Refine Results with Follow-Up Questions  
+
+Using **Copilot Chat**, practice enhancing your results by asking follow-up questions. This task shows how you can go beyond the first answer, structure the data, and get actionable insights for decision-making.  
+
+**Steps**:
+
+- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
+- Select Copilot Chat
+- Enter the following series of prompts to progressively refine your research results:
+  
+    ![screenshot showing iterative follow-up questions.](../Prompts/Media/Task3.png)  
+
+**Sample Prompt Sequence**:
+
+```text
+Please identify trends in consumer preferences for grocery markets and use these insights to develop ideas for new products for our grocery market chain.
+
+Please structure those ideas in a table format and for each idea add a column for the potential target groups and ideas for an advertising campaign.
+
+How can I prioritize these ideas effectively?
+```
+
+** TIP **: Follow-up questions help refine and upscale your results. Try clarifying prompts like: “Expand the table with additional product ideas based on recent market trends,” “Which ideas might have the highest ROI in the next 12 months?,” or “Create a prioritization matrix ranking these ideas by market demand, profitability, and alignment with brand values.”
+
+** Learning Outcome ** :
+After completing this task, you’ll understand how to use follow-up prompts to get richer insights and actionable recommendations from Copilot Chat.
+````
 
 ### Task 2: Research Legal Information  
 
