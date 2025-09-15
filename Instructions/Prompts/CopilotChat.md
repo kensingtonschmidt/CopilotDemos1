@@ -238,3 +238,33 @@ Once the results are shown, try these follow-up prompts to dig deeper:
 
 > **Learning Outcome:**
 After completing this task, you’ll be able to use Copilot Chat to quickly calculate financial metrics like total and average revenue, and follow up with deeper questions to uncover trends or performance breakdowns in your Excel data.
+
+
+### Task 7: Convert Files to JSON & Build a Mini Dashboard (Dark Mode)
+
+Use **Copilot Chat** to convert a source file into **JSON**, inspect the structure, propose the most useful **dashboard metrics**, and generate a simple **HTML dashboard** with a dark background. This is ideal when you need to standardize inputs (PDF, CSV, XLSX, DOCX, etc.) and quickly prototype interactive visuals.
+
+**Steps**:
+
+1. Prepare a data file you’d like to analyze (e.g., CSV/XLSX with sales data).  
+2. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
+3. Select **Copilot Chat** and upload your file.  
+4. Use the following prompt to convert, analyze, and generate a dark-mode HTML dashboard.
+
+![screenshot showing conversion and dashboard concept](../Prompts/Media/Task7.png)
+
+**Sample Prompt** *(after uploading your file)*:
+
+```text
+Convert file to JSON and show the JSON script for 15 data types then using the structure of the JSON data which is the structure of my sales data suggest 5 data visualization metrics for an interactive dashboard and advise why you selected it then create the 5 data visualizations for the dashboard as an html file so I can view the dashboard on a dark background color.
+```
+
+> **TIP:** 
+Enhance the dashboard with follow-ups like:
+> Add filter controls for date range, product category, and sales channel.
+> Include KPI cards for Total Revenue, Avg Order Value, Units Sold, Conversion Rate, and YoY Growth.
+> Ensure the color palette is accessible on dark backgrounds and label axes with units.
+> Export the dashboard as a single self-contained HTML file.”
+
+> **Learning Outcome:**
+After completing this task, you’ll know how to (1) convert files to JSON for structured analysis, (2) identify the most impactful sales KPIs from a JSON schema, and (3) generate a dark-mode HTML dashboard with five practical visualizations ready to share.
