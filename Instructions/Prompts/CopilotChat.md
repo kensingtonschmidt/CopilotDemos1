@@ -167,25 +167,6 @@ Create a pie graph with Easter-themed colors based on the sentiment count and th
 After completing this task, you’ll be able to analyze qualitative data from reviews or survey feedback, extract themes and sentiment, and create visual summaries with Copilot Chat.
 
 
----
-task:
-    title: 'Copilot Chat'
----
-
-## Copilot Chat  
-
-Enhance decision-making by gathering insights, conducting online analysis, and drafting professional communications.  
-
-You'll perform three tasks:  
-
-- Research information using **Copilot Chat** (and optionally try GPT-5 for comparison).  
-- Conduct an analysis using **Copilot Chat**.  
-- Draft a professional communication using **Copilot in Word**.  
-
-> **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot Chat doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
-
----
-
 ### Task 5: Visualize Financial Data with Charts & Heat Maps  
 
 Use **Copilot Chat** to create a variety of data visualizations from Excel data, such as **monthly trends**, **product sales**, and **revenue distribution**. In this task, you'll explore the charting capabilities of Copilot with structured sales data to uncover key insights.  
