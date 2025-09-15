@@ -267,3 +267,50 @@ Ask follow-up questions like:
 
 > **Learning Outcome:**
 After completing this task, you’ll know how to use Copilot Chat to convert files into various formats, making it easier to prepare data, create editable documents, and streamline workflows.
+
+
+### Task 8 (FYI): Create or Replace an Excel Macro with Copilot
+
+This advanced, **FYI-only** task shows two ways to handle VBA-style calculations using **Copilot Chat**—either by asking Copilot to do the equivalent calculation from an uploaded spreadsheet, or by having Copilot help author/adjust the VBA macro.  
+> **Heads-up:** VBA macros don’t run in **Excel for the web**; Copilot Chat can still perform the same calculations from your uploaded workbook.
+
+**How to use it:**  
+
+1. Open a new browser tab and go to [M365copilot.com](https://m365copilot.com/).  
+2. Select **Copilot Chat**.  
+3. Use one of the options below.
+
+![screenshot showing macro alternatives with Copilot](../Prompts/Media/Task8.png)
+
+**Option 1 – Have Copilot perform the calculation from your file**  
+
+Upload your `Revenue.xlsx` (or similar) and run:
+
+```text
+Please create an Excel Macro script that performs the following task:
+Calculate the total and average revenue from the "Sales by Product" worksheet.
+
+For Excel web users, execute the equivalent calculation now on the uploaded file and report:
+- Total Revenue
+- Average Revenue
+```
+
+**Option 2 – Ask Copilot to draft/modify the VBA macro**
+
+```text
+Write a VBA macro that calculates the total and average revenue from the
+"Sales by Product" worksheet and displays the results in a message box.
+
+Now modify the script so it writes:
+- Total Revenue to cell J4
+- Average Revenue to cell J5
+and formats both as currency.
+```
+
+> **TIP:**
+> Explain what this macro does line by line.
+> Convert this macro to a Copilot prompt that performs the same calculation without VBA.
+> Add error handling if the sheet or column is missing.”
+
+> **Learning Outcome:**
+You’ll understand two practical paths to handle macro-style work: (1) let Copilot Chat run the calculation directly from your uploaded workbook, or (2) have Copilot author or refactor the VBA macro for desktop Excel, including writing results to specific cells.
