@@ -208,3 +208,52 @@ Once the visuals are generated, try these follow-up prompts to enhance your anal
 After completing this task, you’ll be able to transform numerical sales data into various visual formats using Copilot Chat—including line charts, pie charts, bar charts, and heat maps—empowering you to extract and present insights for better decision-making.
 
 
+---
+task:
+    title: 'Copilot Chat'
+---
+
+## Copilot Chat  
+
+Enhance decision-making by gathering insights, conducting online analysis, and drafting professional communications.  
+
+You'll perform three tasks:  
+
+- Research information using **Copilot Chat** (and optionally try GPT-5 for comparison).  
+- Conduct an analysis using **Copilot Chat**.  
+- Draft a professional communication using **Copilot in Word**.  
+
+> **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot Chat doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
+
+---
+
+### Task 6: Perform Calculations from Excel Data  
+
+Use **Copilot Chat** to perform calculations directly from Excel data—without needing formulas or pivot tables. In this task, you’ll calculate the **total revenue** and the **average sales revenue** from a provided spreadsheet and explore how to break down those results further.
+
+This is a great use case for operations, finance, or business teams looking for fast insights without writing code or complex formulas.
+
+**Steps**:  
+
+1. Save the following Excel workbook (right click "Save Link as").  
+   - [EV Charger Demo with Rev + Sales.xlsx](https://github.com/emontes07/Learning/blob/main/ResourceFiles/EV%20Charger%20Demo%20with%20Rev%20%2B%20Sales%20CSV.csv)
+2. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
+3. Select Copilot Chat and upload your `.xlsx` file  
+4. Use the following sample prompt to analyze and calculate values from the data  
+
+![screenshot showing Excel table and Copilot revenue calculation](../Prompts/Media/Task6.png)  
+
+**Sample Prompt** *(after uploading your Excel file)*:
+
+```text
+Calculate the total revenue and the average sales revenue.
+```
+
+> **TIP:** 
+Once the results are shown, try these follow-up prompts to dig deeper:
+> Can you break down the revenue sources by sales channel or product?
+> What are the monthly or quarterly sales trends?
+> Can you calculate revenue growth over time?
+
+> **Learning Outcome:**
+After completing this task, you’ll be able to use Copilot Chat to quickly calculate financial metrics like total and average revenue, and follow up with deeper questions to uncover trends or performance breakdowns in your Excel data.
