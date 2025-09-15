@@ -166,3 +166,54 @@ Create a pie graph with Easter-themed colors based on the sentiment count and th
 > **Learning Outcome:** 
 After completing this task, you’ll be able to analyze qualitative data from reviews or survey feedback, extract themes and sentiment, and create visual summaries with Copilot Chat.
 
+
+---
+task:
+    title: 'Copilot Chat'
+---
+
+## Copilot Chat  
+
+Enhance decision-making by gathering insights, conducting online analysis, and drafting professional communications.  
+
+You'll perform three tasks:  
+
+- Research information using **Copilot Chat** (and optionally try GPT-5 for comparison).  
+- Conduct an analysis using **Copilot Chat**.  
+- Draft a professional communication using **Copilot in Word**.  
+
+> **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot Chat doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
+
+---
+
+### Task 5: Visualize Financial Data with Charts & Heat Maps  
+
+Use **Copilot Chat** to create a variety of data visualizations from Excel data, such as **monthly trends**, **product sales**, and **revenue distribution**. In this task, you'll explore the charting capabilities of Copilot with structured sales data to uncover key insights.  
+
+**Steps**:  
+
+1. Open your Excel workbook and select one worksheet (only one tab at a time can be used).
+
+- [EV Charger Demo.csv](https://github.com/emontes07/Learning/blob/main/ResourceFiles/EV%20Charger%20Demo%20(Original).csv)
+   
+3. Save the selected worksheet as a `.csv` file.  
+4. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
+5. Select Copilot Chat and upload your `.csv` file  
+6. Use the following sample prompt to analyze and visualize the data.  
+
+![screenshot showing product, revenue, and sales channel chart visualizations](../Prompts/Media/Task5.png)  
+
+**Sample Prompt** *(after uploading your CSV file)*:
+
+```text
+List the visual charts you can create from the sales data and then create those charts.  
+
+Create a Monthly Revenue Trend chart.  
+
+Create a "Units Sold Distribution by Sales Channel" pie chart.  
+
+Create a "Total Revenue by Product" chart.  
+
+Create a heat map of the most purchased products without purchase dates.
+
+
