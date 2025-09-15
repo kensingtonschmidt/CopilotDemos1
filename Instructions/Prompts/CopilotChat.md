@@ -207,13 +207,18 @@ Use **Copilot Chat** to create a variety of data visualizations from Excel data,
 
 ```text
 List the visual charts you can create from the sales data and then create those charts.  
-
+```
+```text
 Create a Monthly Revenue Trend chart.  
-
-Create a "Units Sold Distribution by Sales Channel" pie chart.  
-
+```
+```text
+Create a "Units Sold Distribution by Sales Channel" pie chart.
+```
+```text
 Create a "Total Revenue by Product" chart.  
-
+```
+```text
 Create a heat map of the most purchased products without purchase dates.
+```
 
 
