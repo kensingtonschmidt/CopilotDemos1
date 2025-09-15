@@ -17,8 +17,6 @@ You'll perform three tasks:
 
 ### Task 1: Perform Online Research & Analysis  
 
-    ![screenshot showing work mode tab.](../Prompts/Media/Task1.png)  
-
 Using **Copilot Chat**, gather insights on relevant topics by analyzing internal sources such as emails, chat history, and SharePoint documentation. Then, broaden your research with industry articles, external reports, or relevant websites.  
 
 If you don't have a specific topic to research, focus on gathering insights from publicly available sources on a topic of your choice, such as **technology trends, market insights, customer experience, or compliance requirements.**  
@@ -27,6 +25,8 @@ If you don't have a specific topic to research, focus on gathering insights from
 
 - Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
 - Select the Researcher agent or "@mention" the agent in chat
+  
+    ![screenshot showing work mode tab.](../Prompts/Media/Task1.png)  
 
 **Sample Prompt** *(if no internal topic is available)*:
 
