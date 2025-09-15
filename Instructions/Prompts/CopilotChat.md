@@ -256,33 +256,8 @@ Use **Copilot Chat** to convert files between formats quickly and easily. This t
 ```text
 Convert this PDF to a Word document.
 ```
-You can also request Copilot to perform other conversions such as:
+You can also request Copilot to perform other conversions such the one mentioned in the image.
 
-Document Conversions:
-    PDF to Word (DOCX)
-    PDF to Excel (XLSX)
-    PDF to Text (TXT)
-    Word (DOCX) to PDF
-    Excel (XLSX) to PDF
-    Text (TXT) to PDF
-
-Spreadsheet Conversions:
-    CSV to Excel (XLSX)
-    Excel (XLSX) to CSV
-    CSV to JSON
-    Excel (XLSX) to JSON
-
-Image Conversions:
-    Image to PDF (JPG, PNG, etc. to PDF)
-    PDF to Image (PDF to JPG, PNG, etc.)
-
-Presentation Conversions:
-    PowerPoint (PPTX) to PDF
-    PDF to PowerPoint (PPTX)
-
-Other Conversions:
-    Markdown (MD) to HTML
-    HTML to Markdown (MD)
 
 > **TIP:** 
 Ask follow-up questions like:
