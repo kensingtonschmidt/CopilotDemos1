@@ -15,6 +15,8 @@ You'll perform three tasks:
 
 > **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot Chat doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
 
+---
+
 ### Task 1: Perform Online Research & Analysis  
 
 Using **Copilot Chat**, gather insights on relevant topics by analyzing internal sources such as emails, chat history, and SharePoint documentation. Then, broaden your research with industry articles, external reports, or relevant websites.  
@@ -51,38 +53,6 @@ Weather Events:
 - Impact of weather on local infrastructure and transportation
 
 Please provide detailed information and relevant data sources for each aspect to support strategic decision-making for store operations.
-
-```
-
-### Task 2: Summarize & Structure Meeting Notes  
-
-Using **Copilot Chat**, transform raw meeting notes into a structured, professional summary. This will help you clearly communicate key decisions, action items, and responsibilities, ensuring alignment across teams.  
-
-If you don’t have internal meeting notes available, you can use a sample transcript or text file that contains general meeting content for practice.  
-
-**Steps**:
-
-- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
-- Select Copilot Chat
-- Upload your meeting notes transcript (text file)
-  
-    ![screenshot showing meeting notes recap prompt.](../Prompts/Media/Task2.png)  
-
-**Sample Prompt** *(after uploading meeting notes)*:
-
-```text
-Using my meeting notes, create a formal meeting notes structure and align the content with a meeting title that encapsulates the meeting goal or agenda. 
-
-The final output should format my notes with these sections:
-- Title  
-- Attendees  
-- Goal  
-- Topics to Discuss  
-- Product Details  
-- Tasks to be Completed  
-- Timelines and Responsibilities  
-- Resources  
-- Q&A and Next Steps
 ````
 
 
