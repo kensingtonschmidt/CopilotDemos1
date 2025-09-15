@@ -160,13 +160,7 @@ Create a pie graph with Easter-themed colors based on the sentiment count and th
 ```
 
 
-> **TIP:**  If you want to customize the visuals further, follow up with questions like:
-
-“Can you provide a downloadable version of the word cloud?”
-
-“Can you generate a more vibrant color scheme for the pie chart?”
-
-“What software can I use to recreate these visuals manually?”
+> **TIP:**  If you want to customize the visuals further, follow up with questions like: Can you provide a downloadable version of the word cloud? Can you generate a more vibrant color scheme for the pie chart? What software can I use to recreate these visuals manually?
 
 > **Learning Outcome:** 
 After completing this task, you’ll be able to analyze qualitative data from reviews or survey feedback, extract themes and sentiment, and create visual summaries with Copilot Chat.
