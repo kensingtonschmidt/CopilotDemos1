@@ -302,12 +302,9 @@ HTML to Markdown (MD)
 
 > **TIP:** 
 Ask follow-up questions like:
-
-“Can you extract tables from this PDF into Excel?”
-
-“Save this as a downloadable file.”
-
-“Combine multiple PDFs into one document.”
+> Can you extract tables from this PDF into Excel?
+> Save this as a downloadable file.
+> Combine multiple PDFs into one document.”
 
 > **Learning Outcome:**
 After completing this task, you’ll know how to use Copilot Chat to convert files into various formats, making it easier to prepare data, create editable documents, and streamline workflows.
