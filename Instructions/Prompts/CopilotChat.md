@@ -141,7 +141,7 @@ This task is perfect for analyzing customer feedback or product reviews and crea
 
 **Steps**:  
 
-1. Open your Excel notebook and select one worksheet (only one tab at a time can be used).
+1. Save the following Excel notebook (right click "Save Link as").
 - [Charger Reviews.csv](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Charger%20Reviews.csv)
 3. Save the selected worksheet as a `.csv` file.  
 4. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
