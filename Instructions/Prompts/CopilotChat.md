@@ -133,6 +133,8 @@ How can I prioritize these ideas effectively?
 After completing this task, you’ll understand how to use follow-up prompts to get richer insights and actionable recommendations from Copilot Chat.
 
 
+
+
 ### Task 2: Research Legal Information  
 
 Using **Copilot Chat**, gather insights on relevant legal topics by analyzing internal sources such as emails, chat history, and SharePoint documentation. Then, broaden your research with industry articles, legal databases, external reports, or relevant case law.  
@@ -192,3 +194,62 @@ Using the insights below, draft a legal advisory memo for internal stakeholders.
 > **NOTE:**  Replace bracketed text ([ ]) with your chosen legal topic before submitting the prompt.
 
 > **Tip:** When drafting your communication, use the shared document link from Task 2 to reference key insights. Alternatively, type **"/"** in Copilot to quickly reference and insert relevant files from OneDrive.
+
+
+---
+task:
+    title: 'Copilot Chat'
+---
+
+## Copilot Chat  
+
+Enhance decision-making by gathering insights, conducting online analysis, and drafting professional communications.  
+
+You'll perform three tasks:  
+
+- Research information using **Copilot Chat** (and optionally try GPT-5 for comparison).  
+- Conduct an analysis using **Copilot Chat**.  
+- Draft a professional communication using **Copilot in Word**.  
+
+> **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot Chat doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
+
+---
+
+### Task 4: Analyze Reviews & Visualize Sentiments  
+
+Use **Copilot Chat** to transform raw survey or review data into actionable insights with charts and dashboards. You'll use a `.csv` file exported from Excel and ask Copilot to identify sentiment, uncover key themes, and generate visuals like a pie chart and word cloud.  
+
+This task is perfect for analyzing customer feedback or product reviews and creating compelling visuals for presentations or reports.  
+
+**Steps**:  
+
+1. Open your Excel notebook and select one worksheet (only one tab at a time can be used).  
+2. Save the selected worksheet as a `.csv` file.  
+3. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
+4. Select Copilot Chat and upload your `.csv` file  
+5. Use the following sample prompt to analyze and visualize the data.  
+
+![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/Task4.png)  
+
+**Sample Prompt** *(after uploading your CSV file)*:
+
+```text
+For each review, analyze the whole sentence and provide a sentiment analysis.  
+List the top 10 sentiments with counts based on reviews using the attached file. Analyze the column “Reviews” located in column C.
+
+Then, list the sentiment with counts on reviews and the top 10 themes in the reviews.  
+Create a pie graph with Easter-themed colors based on the sentiment count and then create a word cloud based on themes and mentions.
+```
+
+
+> **TIP:**  If you want to customize the visuals further, follow up with questions like:
+
+“Can you provide a downloadable version of the word cloud?”
+
+“Can you generate a more vibrant color scheme for the pie chart?”
+
+“What software can I use to recreate these visuals manually?”
+
+> **Learning Outcome:** 
+After completing this task, you’ll be able to analyze qualitative data from reviews or survey feedback, extract themes and sentiment, and create visual summaries with Copilot Chat.
+
