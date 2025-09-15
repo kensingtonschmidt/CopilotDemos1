@@ -208,25 +208,6 @@ Once the visuals are generated, try these follow-up prompts to enhance your anal
 After completing this task, you’ll be able to transform numerical sales data into various visual formats using Copilot Chat—including line charts, pie charts, bar charts, and heat maps—empowering you to extract and present insights for better decision-making.
 
 
----
-task:
-    title: 'Copilot Chat'
----
-
-## Copilot Chat  
-
-Enhance decision-making by gathering insights, conducting online analysis, and drafting professional communications.  
-
-You'll perform three tasks:  
-
-- Research information using **Copilot Chat** (and optionally try GPT-5 for comparison).  
-- Conduct an analysis using **Copilot Chat**.  
-- Draft a professional communication using **Copilot in Word**.  
-
-> **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot Chat doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
-
----
-
 ### Task 6: Perform Calculations from Excel Data  
 
 Use **Copilot Chat** to perform calculations directly from Excel data—without needing formulas or pivot tables. In this task, you’ll calculate the **total revenue** and the **average sales revenue** from a provided spreadsheet and explore how to break down those results further.
