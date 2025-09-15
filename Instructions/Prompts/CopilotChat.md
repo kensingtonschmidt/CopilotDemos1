@@ -1,44 +1,54 @@
 ---
 task:
-    title: 'Legal'
+    title: 'Copilot Chat'
 ---
 
-## Legal  
+## Copilot Chat  
 
-Enhance legal decision-making by gathering insights, conducting legal analysis, and drafting professional communications.  
+Enhance decision-making by gathering insights, conducting online analysis, and drafting professional communications.  
 
 You'll perform three tasks:  
 
-- Research legal information using **Copilot Researcher**. 
-- Research legal information using **Copilot Chat and Try GPT5**.  
-- Conduct a legal analysis using **Copilot Chat**.  
-- Draft a legal communication using **Copilot in Word**.  
+- Research information using **Copilot Chat** (and optionally try GPT-5 for comparison).  
+- Conduct an analysis using **Copilot Chat**.  
+- Draft a professional communication using **Copilot in Word**.  
 
-> **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
+> **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot Chat doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
 
-### Task 1: Research Legal Information  
+### Task 1: Perform Online Research & Analysis  
 
-Using **Copilot Chat**, gather insights on relevant legal topics by analyzing internal sources such as emails, chat history, and SharePoint documentation. Then, broaden your research with industry articles, legal databases, external reports, or relevant case law.  
+Using **Copilot Chat**, gather insights on relevant topics by analyzing internal sources such as emails, chat history, and SharePoint documentation. Then, broaden your research with industry articles, external reports, or relevant websites.  
 
-If you don't have an internal legal matter to research, focus on gathering insights from publicly available sources on a legal topic of your choice, such as **contract law, data privacy, employment law, or compliance requirements.**  
+If you don't have a specific topic to research, focus on gathering insights from publicly available sources on a topic of your choice, such as **technology trends, market insights, customer experience, or compliance requirements.**  
 
 **Steps**:
 
 - Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
-- Select the Researcher agent or "@ mention the agent"
+- Select the Researcher agent or "@mention" the agent in chat
 
-** Sample Prompt** *(if no internal legal topic is available)*:
+**Sample Prompt** *(if no internal topic is available)*:
 
 ```text
+Provide a comprehensive regional update for [Michigan] to assist in planning store operations. 
+The update should include the latest news and insights on the following aspects:
 
-Research the American Privacy Rights Act (APRA), introduced in April 2024, and prepare a summary for Nordstrom’s Legal department that covers:
-1.The scope and applicability of APRA to large consumer-goods companies.
+Demographic Trends:
+- Population growth or decline
+- Age distribution
+- Income levels
+- Consumer behavior patterns
 
-2.Key obligations around transparency, data minimization, security, and impact assessments.
+Financial Events:
+- Economic indicators (e.g., employment rates, inflation, GDP growth)
+- Major business developments (e.g., new businesses opening, closures, expansions)
+- Changes in consumer spending habits
 
-3. Required changes to Nordstom’s current data-collection, consent-management, and privacy-governance processes.
+Weather Events:
+- Current weather conditions and forecasts
+- Recent and upcoming severe weather events (e.g., storms, hurricanes, heatwaves)
+- Impact of weather on local infrastructure and transportation
 
-4. Recommended Copilot-enabled tools and workflows to automate compliance, including data mapping, policy generation, and ongoing monitoring.
+Please provide detailed information and relevant data sources for each aspect to support strategic decision-making for store operations.
 
 ```
 
