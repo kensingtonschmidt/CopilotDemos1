@@ -26,7 +26,7 @@ If you don't have a specific topic to research, focus on gathering insights from
 **Steps**:
 
 - Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
-- Select the Researcher agent or "@mention" the agent in chat
+- Select the Copilot agent:
   
     ![screenshot showing work mode tab.](../Prompts/Media/Task1.png)  
 
