@@ -94,9 +94,9 @@ The final output should format my notes with these sections:
 - Q&A and Next Steps
 ```
 
-** TIP **: You can ask Copilot to adjust the level of detail (e.g., “make the summary more concise” or “expand on tasks to be completed”).
+> **NOTE:** You can ask Copilot to adjust the level of detail (e.g., “make the summary more concise” or “expand on tasks to be completed”).
 
-** Learning Outcome ** :
+> **Learning Outcome:**
 After completing this task, you'll know how to turn unstructured notes into a professional, shareable meeting summary.
 
 ---
