@@ -118,9 +118,11 @@ Using **Copilot Chat**, practice enhancing your results by asking follow-up ques
 ```text
 Please identify trends in consumer preferences for grocery markets and use these insights to develop ideas for new products for our grocery market chain.
 ```
+
 ```text
 Please structure those ideas in a table format and for each idea add a column for the potential target groups and ideas for an advertising campaign.
 ```
+
 ```text
 How can I prioritize these ideas effectively?
 ```
@@ -187,6 +189,6 @@ Using **Copilot in Word**, draft a legal communication based on your research an
 Using the insights below, draft a legal advisory memo for internal stakeholders. Focus on explaining [specific legal topic], outlining potential risks, and providing recommendations for compliance or risk mitigation. [Paste insights from Copilot Chat here, or add your own insights]
 ```
 
-> **NOTE:** Replace bracketed text ([ ]) with your chosen legal topic before submitting the prompt.
+> **NOTE:**  Replace bracketed text ([ ]) with your chosen legal topic before submitting the prompt.
 
-> **TIP:** When drafting your communication, use the shared document link from Task 2 to reference key insights. Alternatively, type **"/"** in Copilot to quickly reference and insert relevant files from OneDrive.
+> **Tip:** When drafting your communication, use the shared document link from Task 2 to reference key insights. Alternatively, type **"/"** in Copilot to quickly reference and insert relevant files from OneDrive.
