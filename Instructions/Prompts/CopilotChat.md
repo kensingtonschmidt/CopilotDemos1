@@ -314,3 +314,42 @@ and formats both as currency.
 
 > **Learning Outcome:**
 You’ll understand two practical paths to handle macro-style work: (1) let Copilot Chat run the calculation directly from your uploaded workbook, or (2) have Copilot author or refactor the VBA macro for desktop Excel, including writing results to specific cells.
+
+
+### Task 9: Create a Job Description & Evaluate a Candidate  
+
+Use **Copilot Chat** to create a professional job description based on web research, define KPIs, and then analyze a candidate’s resume for fit against the role. This task is ideal for HR teams, hiring managers, and recruiters who want to streamline job creation and resume evaluation.
+
+**Steps**:  
+
+1. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
+2. Select **Copilot Chat**.  
+3. Start by asking Copilot to research and build a job profile.  
+4. Then, upload a candidate’s resume (in `.docx` format) and ask Copilot to perform a gap analysis.
+
+![screenshot showing job description workflow and resume evaluation](../Prompts/Media/Task9.png)
+
+**Sample Prompt** *(Step 1 – Build the job description)*:
+
+```text
+In a table format perform a web analysis for a "data analyst" role for finance to include:
+- Industry job titles  
+- Basic definition  
+- Key attributes  
+- Ideal average years of education  
+- Salary range  
+- A list of 10 questions and answers to ask this role in an interview  
+
+Then provide some KPIs for the role.  
+
+Finally, based on the above information, write a job description with a competitive salary based on years of experience. This job description will serve as the guide for our hiring board.
+```
+
+> **TIP:**
+> Rank the candidate from 1–10 based on fit for the role.
+> Identify skill gaps and recommend a training plan if they were hired.
+> Generate a scorecard template the hiring board can use for all candidates.
+
+> **Learning Outcome:**
+After completing this task, you’ll be able to create a well-structured job description, identify KPIs for a role, and perform a resume gap analysis with Copilot Chat—streamlining your hiring process and improving candidate evaluation consistency.
+
