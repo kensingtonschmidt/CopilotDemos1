@@ -240,31 +240,74 @@ Once the results are shown, try these follow-up prompts to dig deeper:
 After completing this task, you’ll be able to use Copilot Chat to quickly calculate financial metrics like total and average revenue, and follow up with deeper questions to uncover trends or performance breakdowns in your Excel data.
 
 
-### Task 7: Convert Files to JSON & Build a Mini Dashboard (Dark Mode)
+### Task 7: Convert Files to Another Format  
 
-Use **Copilot Chat** to convert a source file into **JSON**, inspect the structure, propose the most useful **dashboard metrics**, and generate a simple **HTML dashboard** with a dark background. This is ideal when you need to standardize inputs (PDF, CSV, XLSX, DOCX, etc.) and quickly prototype interactive visuals.
+Use **Copilot Chat** to convert files between formats quickly and easily. This task helps you explore supported conversion types—perfect when you need to standardize formats or extract data for analysis.  
 
-**Steps**:
+**Steps**:  
 
-1. Prepare a data file you’d like to analyze (e.g., CSV/XLSX with sales data).  
-2. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
-3. Select **Copilot Chat** and upload your file.  
-4. Use the following prompt to convert, analyze, and generate a dark-mode HTML dashboard.
+1. Upload the file you want to convert to **Copilot Chat**.  
+2. Ask Copilot Chat to convert it into your desired format.  
 
-![screenshot showing conversion and dashboard concept](../Prompts/Media/Task7.png)
+![screenshot showing a PDF converted to Word](../Prompts/Media/Task7.png)
 
-**Sample Prompt** *(after uploading your file)*:
+**Sample Prompt**:  
 
 ```text
-Convert file to JSON and show the JSON script for 15 data types then using the structure of the JSON data which is the structure of my sales data suggest 5 data visualization metrics for an interactive dashboard and advise why you selected it then create the 5 data visualizations for the dashboard as an html file so I can view the dashboard on a dark background color.
+Convert this PDF to a Word document.
 ```
+You can also request Copilot to perform other conversions such as:
+
+Document Conversions:
+
+PDF to Word (DOCX)
+
+PDF to Excel (XLSX)
+
+PDF to Text (TXT)
+
+Word (DOCX) to PDF
+
+Excel (XLSX) to PDF
+
+Text (TXT) to PDF
+
+Spreadsheet Conversions:
+
+CSV to Excel (XLSX)
+
+Excel (XLSX) to CSV
+
+CSV to JSON
+
+Excel (XLSX) to JSON
+
+Image Conversions:
+
+Image to PDF (JPG, PNG, etc. to PDF)
+
+PDF to Image (PDF to JPG, PNG, etc.)
+
+Presentation Conversions:
+
+PowerPoint (PPTX) to PDF
+
+PDF to PowerPoint (PPTX)
+
+Other Conversions:
+
+Markdown (MD) to HTML
+
+HTML to Markdown (MD)
 
 > **TIP:** 
-Enhance the dashboard with follow-ups like:
-> Add filter controls for date range, product category, and sales channel.
-> Include KPI cards for Total Revenue, Avg Order Value, Units Sold, Conversion Rate, and YoY Growth.
-> Ensure the color palette is accessible on dark backgrounds and label axes with units.
-> Export the dashboard as a single self-contained HTML file.”
+Ask follow-up questions like:
+
+“Can you extract tables from this PDF into Excel?”
+
+“Save this as a downloadable file.”
+
+“Combine multiple PDFs into one document.”
 
 > **Learning Outcome:**
-After completing this task, you’ll know how to (1) convert files to JSON for structured analysis, (2) identify the most impactful sales KPIs from a JSON schema, and (3) generate a dark-mode HTML dashboard with five practical visualizations ready to share.
+After completing this task, you’ll know how to use Copilot Chat to convert files into various formats, making it easier to prepare data, create editable documents, and streamline workflows.
