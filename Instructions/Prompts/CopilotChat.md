@@ -201,4 +201,10 @@ Create a "Total Revenue by Product" chart.
 Create a heat map of the most purchased products without purchase dates.
 ```
 
+> **TIP:** 
+Once the visuals are generated, try these follow-up prompts to enhance your analysis: Can you add trendlines or highlight seasonal peaks in the revenue chart? What does the heat map reveal about customer preferences? Group sales by category and create a stacked bar chart.Export these charts as image files I can use in PowerPoint.
+
+> **Learning Outcome:**
+After completing this task, you’ll be able to transform numerical sales data into various visual formats using Copilot Chat—including line charts, pie charts, bar charts, and heat maps—empowering you to extract and present insights for better decision-making.
+
 
