@@ -145,7 +145,8 @@ This task is perfect for staying on top of priorities, deadlines, and next steps
 3. Click the **Copilot** icon on the upper-right corner of the Outlook window (see screenshot below).  
 4. In the Copilot Chat panel that appears, enter the following prompt:
 
-       ![screenshot showing iterative follow-up questions.](../Prompts/Media/TaskEmail.png)  
+![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/TaskEmail.png)  
+
 
 **Sample Prompt**:  
 
