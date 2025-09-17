@@ -158,6 +158,11 @@ Recap my email, show me:
 If there are any dates or topics mentioned, put those in a table.
 ```
 
+> **💡 Tip:**
+If your email thread is very long, try adding “summarize in 3 bullet points” or “summarize in less than 100 words” to the prompt for a quicker, more focused summary.
+
+> **🎯 Learning Outcome:**
+You will learn how to use Copilot Chat in Outlook to extract key requests, action items, and deadlines from a single email or an entire thread, helping you and your team stay organized and responsive.
 
 
 ### Task 5: Analyze Reviews & Visualize Sentiments  
