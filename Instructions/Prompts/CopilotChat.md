@@ -132,7 +132,35 @@ How can I prioritize these ideas effectively?
 After completing this task, you’ll understand how to use follow-up prompts to get richer insights and actionable recommendations from Copilot Chat.
 
 
-### Task 4: Analyze Reviews & Visualize Sentiments  
+### Task 4: Summarize and Recap Emails in Outlook  
+
+Use **Copilot Chat** in Outlook to quickly understand the content of an email and extract key actions. This task will help you summarize a long email thread and clearly identify what is being requested — both from you and from your team.  
+
+This task is perfect for staying on top of priorities, deadlines, and next steps without manually scanning through each line of an email.  
+
+**Steps**:  
+
+1. Open [Outlook on the web](https://outlook.office.com/) in your browser.  
+2. Select an email thread that contains multiple details, requests, or deadlines.  
+3. Click the **Copilot** icon on the upper-right corner of the Outlook window (see screenshot below).  
+4. In the Copilot Chat panel that appears, enter the following prompt:
+
+       ![screenshot showing iterative follow-up questions.](../Prompts/Media/TaskEmail.png)  
+
+**Sample Prompt**:  
+
+```text
+Recap my email, show me:
+1. What is being asked
+2. What is being asked of the team
+3. What is being asked directly of me
+
+If there are any dates or topics mentioned, put those in a table.
+```
+
+
+
+### Task 5: Analyze Reviews & Visualize Sentiments  
 
 Use **Copilot Chat** to transform raw survey or review data into actionable insights with charts and dashboards. You'll use a `.csv` file exported from Excel and ask Copilot to identify sentiment, uncover key themes, and generate visuals like a pie chart and word cloud.  
 
@@ -166,7 +194,7 @@ Create a pie graph with Easter-themed colors based on the sentiment count and th
 After completing this task, you’ll be able to analyze qualitative data from reviews or survey feedback, extract themes and sentiment, and create visual summaries with Copilot Chat.
 
 
-### Task 5: Visualize Financial Data with Charts & Heat Maps  
+### Task 6: Visualize Financial Data with Charts & Heat Maps  
 
 Use **Copilot Chat** to create a variety of data visualizations from Excel data, such as **monthly trends**, **product sales**, and **revenue distribution**. In this task, you'll explore the charting capabilities of Copilot with structured sales data to uncover key insights.  
 
@@ -208,7 +236,7 @@ Once the visuals are generated, try these follow-up prompts to enhance your anal
 After completing this task, you’ll be able to transform numerical sales data into various visual formats using Copilot Chat—including line charts, pie charts, bar charts, and heat maps—empowering you to extract and present insights for better decision-making.
 
 
-### Task 6: Perform Calculations from Excel Data  
+### Task 7: Perform Calculations from Excel Data  
 
 Use **Copilot Chat** to perform calculations directly from Excel data—without needing formulas or pivot tables. In this task, you’ll calculate the **total revenue** and the **average sales revenue** from a provided spreadsheet and explore how to break down those results further.
 
@@ -240,7 +268,7 @@ Once the results are shown, try these follow-up prompts to dig deeper:
 After completing this task, you’ll be able to use Copilot Chat to quickly calculate financial metrics like total and average revenue, and follow up with deeper questions to uncover trends or performance breakdowns in your Excel data.
 
 
-### Task 7: Convert Files to Another Format  
+### Task 8: Convert Files to Another Format  
 
 Use **Copilot Chat** to convert files between formats quickly and easily. This task helps you explore supported conversion types—perfect when you need to standardize formats or extract data for analysis.  
 
@@ -269,7 +297,7 @@ Ask follow-up questions like:
 After completing this task, you’ll know how to use Copilot Chat to convert files into various formats, making it easier to prepare data, create editable documents, and streamline workflows.
 
 
-### Task 8 (FYI): Create or Replace an Excel Macro with Copilot
+### Task 9 (FYI): Create or Replace an Excel Macro with Copilot
 
 This advanced, **FYI-only** task shows two ways to handle VBA-style calculations using **Copilot Chat**—either by asking Copilot to do the equivalent calculation from an uploaded spreadsheet, or by having Copilot help author/adjust the VBA macro.  
 > **Heads-up:** VBA macros don’t run in **Excel for the web**; Copilot Chat can still perform the same calculations from your uploaded workbook.
@@ -316,7 +344,7 @@ and formats both as currency.
 You’ll understand two practical paths to handle macro-style work: (1) let Copilot Chat run the calculation directly from your uploaded workbook, or (2) have Copilot author or refactor the VBA macro for desktop Excel, including writing results to specific cells.
 
 
-### Task 9: Create a Job Description & Evaluate a Candidate  
+### Task 10: Create a Job Description & Evaluate a Candidate  
 
 Use **Copilot Chat** to create a professional job description based on web research, define KPIs, and then analyze a candidate’s resume for fit against the role. This task is ideal for HR teams, hiring managers, and recruiters who want to streamline job creation and resume evaluation.
 
