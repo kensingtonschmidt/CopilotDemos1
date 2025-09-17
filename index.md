@@ -36,8 +36,6 @@ Hyperlinks to each of the demos are listed below.
 
 #### [Legal](https://emontes07.github.io/Learning/Instructions/Prompts/Legal-Prompts.html)
 
-#### [Legal](https://emontes07.github.io/Learning/Instructions/Prompts/Legal-Prompts.html)
-
 #### [Finance](https://emontes07.github.io/Learning/Instructions/Prompts/Finance-Prompts.html)
 
 #### [Agents - Business Users](https://emontes07.github.io/Learning/Instructions/Prompts/EU-Agents.html)
