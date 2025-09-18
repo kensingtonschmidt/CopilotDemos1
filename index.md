@@ -46,6 +46,8 @@ Hyperlinks to each of the demos are listed below.
 
 #### [Arcos Dorados - Agente Research](https://emontes07.github.io/Learning/Instructions/Prompts/ArcosDorados-ResearcherAgent.html)
 
+#### [Arcos Dorados - Agente Research](https://emontes07.github.io/Learning/Instructions/Prompts/ArcosDoradosAnalyst.html)
+
 
 
 
