@@ -3,7 +3,7 @@ demo:
     title: 'Researcher and Analyst Demo'
 ---
 
-[Back to Index](https://github.com/emontes07/Learning/)
+[Back to Index](https://emontes07.github.io/Learning/)
 
 # Agente Analyst
 
@@ -17,9 +17,6 @@ Para completar estas demostraciones, deberás descargar lo siguientes archivos q
 - [Arcos Dorados Datos Campaña Marketing](https://github.com/emontes07/Learning/blob/main/ResourceFiles/ArcosDorados_Marketing_Campaign_Results.xlsx)
 
 
-
-  ![Captura de pantalla de archivos para el agente Analyst.](../Prompts/Media/ArcosAnalyst03.png)
-
 > **💡 Tip: :** Antes de realizar la demostración, puedes almacenar los archivos en un sitio de SharePoint de tu entorno de pruebas para facilitar el acceso. Alternativamente, puedes guardar los archivos localmente y hacer referencia a ellos directamente en tus indicaciones usando **/**.
 
 
@@ -27,7 +24,7 @@ Para completar estas demostraciones, deberás descargar lo siguientes archivos q
 Para acceder a estos agentes:  
 
 - Abre la **aplicación Copilot** desde [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Usa la **navegación del panel izquierdo** para seleccionar  **Reasercher**.  
+- Usa la **navegación del panel izquierdo** para seleccionar  **Analyst**.  
 
 > **Nota:** Deberás vincular Analyst y Analyst a archivos internos (SharePoint/OneDrive) para obtener información fundamentada en datos confiables.
 
