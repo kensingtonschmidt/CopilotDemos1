@@ -44,5 +44,5 @@ Hyperlinks to each of the demos are listed below.
 
 #### [Copilot Chat](https://emontes07.github.io/Learning/Instructions/Prompts/CopilotChat.html)
 
-#### [Arcos Dorados - Agente Research](https://github.com/emontes07/Learning/blob/main/Instructions/Prompts/Arcos%20Dorados%20-%20Researcher%20Agent.html)
+#### [Arcos Dorados - Agente Research](https://github.com/emontes07/Learning/blob/main/Instructions/Prompts/ArcosDorados-ResearcherAgent.html)
 
