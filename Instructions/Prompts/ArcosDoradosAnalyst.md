@@ -58,7 +58,11 @@ El agente ayudará a:
 2. Ingresa el siguiente prompt:
 
     ```text
-    Genera una tabla que muestre Gasto Total, Impresiones, Clics, Conversiones, CTR, Tasa de Conversión y ROAS, desglosada primero por Campaña y luego por Canal.Proporciona una narrativa breve que resuma las principales tendencias observadas (por ejemplo, qué campaña tuvo el ROI más alto en general, qué canal generó la mayor cantidad de impresiones y cuál tuvo mejor desempeño en conversiones).
+    Genera una tabla que muestre Gasto Total, Impresiones, Clics, Conversiones, CTR,
+    Tasa de Conversión y ROAS, desglosada primero por Campaña y luego por Canal.
+
+    Proporciona una narrativa breve que resuma las principales tendencias observadas
+    (por ejemplo, qué campaña tuvo el ROI más alto en general, qué canal generó la mayor cantidad de impresiones y cuál tuvo mejor desempeño en conversiones).
     ```
 
 1. Adjunta los archivos de referencia usando `/` (apuntando a SharePoint/OneDrive):  
@@ -87,7 +91,13 @@ Analyst hará lo siguiente:
 1. Ingresa el siguiente prompt:
 
     ```text
-        Calcula una matriz de correlación entre inversión, impresiones, clics, conversiones, CTR, tasa de conversión y ROAS.Visualiza las correlaciones más fuertes (positivas y negativas), por ejemplo, como un mapa de calor o diagramas de dispersión. Destaca patrones inesperados—como canales donde mayor inversión no se traduce en más conversiones—y sugiere hipótesis.
+    Calcula una matriz de correlación entre: Gasto, Impresiones, Clics, Conversiones, CTR,
+    Tasa de Conversión y ROAS.
+    Visualiza las correlaciones más fuertes (positivas y negativas) como mapa de calor  y/o scatterplots.
+
+    Destaca patrones inesperados (p. ej., canales donde mayor inversión no genera
+    más conversiones) y sugiere hipótesis y próximos pasos de validación.
+
     ```
 
 1. Click **Submit**. 
