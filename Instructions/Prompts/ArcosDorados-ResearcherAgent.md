@@ -35,13 +35,13 @@ Para acceder a estos agentes:
 ---
 
 ## Escenario
-• El departamento de Marketing de Arcos Dorados está planificando la campaña de octubre 2025 en Ciudad de México.
-• Para esta planeación, utilizarán el agente **Researcher** en Copilot.
-• El agente ayudará a:
+- El departamento de Marketing de Arcos Dorados está planificando la campaña de octubre 2025 en Ciudad de México.
+- Para esta planeación, utilizarán el agente **Researcher** en Copilot.
+- El agente ayudará a:
   – Investigar tendencias y comportamientos de consumo.
   – Proponer alianzas estratégicas para la Cajita Feliz.
   – Recomendar el tipo de juguetes más relevantes para la audiencia infantil.
-• ¿Por qué usar Researcher?
+- ¿Por qué usar Researcher?
   – Analiza datos de mercado de forma rápida y confiable.
   – Detecta oportunidades y brechas en la estrategia actual.
   – Visualiza el impacto estimado de cada recomendación.
