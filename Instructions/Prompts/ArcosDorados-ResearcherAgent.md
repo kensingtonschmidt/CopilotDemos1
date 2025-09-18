@@ -109,7 +109,7 @@ Analyst hará lo siguiente:
 - Identificará los segmentos de clientes de mayor valor.  
 - Proporcionará visualizaciones que respalden las recomendaciones.
 
-      ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/ArcosAnalyst02.png)  
+      ![Captura de pantalla resultados del agente Analyst.](../Prompts/Media/ArcosAnalyst02.png)
 
 ### Preguntas de Seguimiento para el Analyst Agent
 
@@ -142,7 +142,6 @@ Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo 
     Construye una proyección financiera a 5 años a partir de estos datos junto con un gráfico para visualizar el crecimiento de ingresos en el tiempo.
     ```  
 
-    Archivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Rendimiento de ventas**  
 
@@ -151,7 +150,6 @@ Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo 
     junto con una visualización de los productos más vendidos.
     ```  
 
-    Archivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Rendimiento de campaña**  
 
@@ -160,7 +158,6 @@ Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo 
     y ayúdame a decidir dónde reorientar nuestra próxima campaña.
     ```  
 
-    Archivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
 
 ## Conclusión clave
 
