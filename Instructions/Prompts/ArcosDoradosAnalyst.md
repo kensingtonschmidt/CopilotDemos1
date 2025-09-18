@@ -1,4 +1,3 @@
-
 ---
 demo:
     title: 'Researcher and Analyst Demo'
@@ -193,3 +192,4 @@ Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo 
 Juntos, Researcher y Analyst acortan el camino de la **pregunta al conocimiento**, convirtiendo semanas de trabajo en minutos.
 
 [Back to Index](https://emontes07.github.io/Learning/)
+
