@@ -101,15 +101,15 @@ Analyst hará lo siguiente:
     destaca en color la categoría con mayor crecimiento esperado.
     ```
 
-    ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/ArcosAnalyst02.png)  
-
-1. Click **Submit**.  
+1. Click **Submit**. 
 
 Analyst hará lo siguiente:  
 
 - Analizará el conjunto de datos.  
 - Identificará los segmentos de clientes de mayor valor.  
 - Proporcionará visualizaciones que respalden las recomendaciones.
+
+      ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/ArcosAnalyst02.png)  
 
 ### Preguntas de Seguimiento para el Analyst Agent
 
@@ -132,42 +132,42 @@ incluyendo ejemplos de publicaciones en TikTok, dinámicas en Instagram y activa
 ```
 
 
-### Additional Analyst Scenarios
+### Escenarios adicionales para Analyst
 
-You can run these additional prompts for variety. Each follows the same pattern: **Prompt → Attach file → Submit → Review results.**
+Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo patrón: **Mensaje → Adjuntar archivo → Enviar → Revisar resultados.**
 
-- **Financial Projection**  
-
-    ```text
-    Build a 5-year financial projection from this data along with a graph to view revenue growth over time.
-    ```  
-
-    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
-
-- **Sales Performance**  
+- **Proyección financiera**  
 
     ```text
-    Analyze sales volume across locations to identify our highest and lowest performing stores, 
-    along with a visualization of the best-selling products.
+    Construye una proyección financiera a 5 años a partir de estos datos junto con un gráfico para visualizar el crecimiento de ingresos en el tiempo.
     ```  
 
-    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Archivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
 
-- **Campaign Performance**  
+- **Rendimiento de ventas**  
 
     ```text
-    Analyze and visualize how the marketing campaign performed across each target segment 
-    and help me decide where to re-target our next campaign.
+    Analiza el volumen de ventas por ubicación para identificar nuestras tiendas con mejor y peor rendimiento, 
+    junto con una visualización de los productos más vendidos.
     ```  
 
-    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Archivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
 
-## Key Takeaway
+- **Rendimiento de campaña**  
 
-- **Researcher**: accelerates strategy and planning with high-quality research.  
-- **Analyst**: delivers data-driven insights with advanced analysis and visualizations.  
+    ```text
+    Analiza y visualiza cómo se desempeñó la campaña de marketing en cada segmento objetivo 
+    y ayúdame a decidir dónde reorientar nuestra próxima campaña.
+    ```  
 
-Together, Researcher and Analyst shorten the path from **question to insight**—turning weeks of effort into minutes.  
+    Archivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
+
+## Conclusión clave
+
+- **Researcher**: acelera la estrategia y planificación con investigaciones de alta calidad.  
+- **Analyst**: ofrece información basada en datos con análisis avanzados y visualizaciones.  
+
+Juntos, Researcher y Analyst acortan el camino de la **pregunta al conocimiento**, convirtiendo semanas de trabajo en minutos.
 
 [Back to Index](https://emontes07.github.io/Learning/)
 
