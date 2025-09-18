@@ -104,7 +104,7 @@ Analyst hará lo siguiente:
 - Identificará los segmentos de clientes de mayor valor.  
 - Proporcionará visualizaciones que respalden las recomendaciones.
 
-  ![Captura de pantalla resultados del agente Analyst.](../Prompts/Media/ArcosAnalyst02.png)
+  ![Captura de pantalla resultados del agente Analyst.](../Prompts/Media/ArcosAnalyst10.png)
 
 ### Preguntas de Seguimiento para el Analyst Agent
 
