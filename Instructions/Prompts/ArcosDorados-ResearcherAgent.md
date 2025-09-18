@@ -40,18 +40,13 @@ Para acceder a estos agentes:
 - El agente ayudará a:
 
   – Investigar tendencias y comportamientos de consumo.
-
   – Proponer alianzas estratégicas para la Cajita Feliz.
-
   – Recomendar el tipo de juguetes más relevantes para la audiencia infantil.
+  
 - ¿Por qué usar Researcher?
-
   – Analiza datos de mercado de forma rápida y confiable.
-
   – Detecta oportunidades y brechas en la estrategia actual.
-
   – Visualiza el impacto estimado de cada recomendación.
-
   – Reduce riesgos al evitar decisiones basadas solo en intuición.
 
 ---
