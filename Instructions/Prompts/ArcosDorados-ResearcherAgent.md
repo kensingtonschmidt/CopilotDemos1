@@ -169,7 +169,7 @@ Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo 
     ```  
 
 
-## Conclusión clave
+## Resultado de aprendizaje
 
 - **Researcher**: acelera la estrategia y planificación con investigaciones de alta calidad.  
 - **Analyst**: ofrece información basada en datos con análisis avanzados y visualizaciones.  
