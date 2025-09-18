@@ -100,20 +100,37 @@ juegos de mesa, juguetes de realidad aumentada).
 Incluye el porcentaje estimado de preferencia para cada categoría y 
 destaca en color la categoría con mayor crecimiento esperado.
 ```
+    ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)  
 
-1. Attach the file using **+**:  
-
-   - **BoulderEV ebike Internal Market Forecast.xlsx**  
-
-    ![Screenshot showing attach files in Analyst.](../Prompts/Media/Analyst-Attach-Files.png)  
 
 1. Click **Submit**.  
 
-Analyst will:  
+Analyst hará lo siguiente:  
 
-- Analyze the dataset.  
-- Identify high-value customer segments.  
-- Provide visualizations to back up recommendations.  
+- Analizará el conjunto de datos.  
+- Identificará los segmentos de clientes de mayor valor.  
+- Proporcionará visualizaciones que respalden las recomendaciones.
+
+### Preguntas de Seguimiento para el Analyst Agent
+
+Después de recibir el primer análisis, puedes hacer estas dos preguntas para profundizar en el escenario:
+
+**Pregunta 1:**  
+
+```text
+Realiza un análisis de correlación entre el tipo de juguete ofrecido en la Cajita Feliz 
+y el incremento en visitas al restaurante (medido en %). 
+Identifica qué categorías tienen mayor correlación positiva con el tráfico de clientes 
+y sugiere cuáles priorizar en la próxima campaña.
+```
+
+**Pregunta 2:**  
+
+```text
+Propón una estrategia de comunicación digital que complemente la campaña,  
+incluyendo ejemplos de publicaciones en TikTok, dinámicas en Instagram y activaciones en restaurantes.
+```
+
 
 ### Additional Analyst Scenarios
 
