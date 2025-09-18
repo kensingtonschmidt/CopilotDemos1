@@ -49,7 +49,6 @@ Para acceder a estos agentes:
 
 ### Analyst: Construye un Plan de Marketing
 
-> **IMPORTANTE:** Los pasos 1–4 deben completarse al inicio de la sesión de entrenamiento (como se indica en la diapositiva 5) para darle al agente **Analyst** suficiente tiempo para completar el primer prompt.
 
 1. Abre **Analyst** desde la navegación izquierda en la aplicación de Copilot.  
 
