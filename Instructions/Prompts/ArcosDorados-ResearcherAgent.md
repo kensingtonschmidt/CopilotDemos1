@@ -28,7 +28,7 @@ Para completar estas demostraciones, deberás descargar lo siguientes archivos q
 Para acceder a estos agentes:  
 
 - Abre la **aplicación Copilot** desde [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Usa la **navegación del panel izquierdo** para seleccionar  **Reasercher**.  
+- Usa la **navegación del panel izquierdo** para seleccionar  **Resercher**.  
 
 > **Nota:** Deberás vincular Researcher y Analyst a archivos internos (SharePoint/OneDrive) para obtener información fundamentada en datos confiables.
 
