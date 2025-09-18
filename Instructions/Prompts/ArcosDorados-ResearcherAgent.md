@@ -87,7 +87,7 @@ Analyst hará lo siguiente:
 
 1. Abre **Analyst** desde la navegación izquierda en la aplicación de Copilot. 
 
-    ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)  
+   ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)
 
 
 1. Ingresa el siguiente prompt:
@@ -109,7 +109,7 @@ Analyst hará lo siguiente:
 - Identificará los segmentos de clientes de mayor valor.  
 - Proporcionará visualizaciones que respalden las recomendaciones.
 
-      ![Captura de pantalla resultados del agente Analyst.](../Prompts/Media/ArcosAnalyst02.png)
+  ![Captura de pantalla resultados del agente Analyst.](../Prompts/Media/ArcosAnalyst02.png)
 
 ### Preguntas de Seguimiento para el Analyst Agent
 
