@@ -88,26 +88,16 @@ Analyst hará lo siguiente:
 
     ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/analyst.png)  
 
-1. Escribe el siguiente prompt:
+1. Ingresa el siguiente prompt:
 
-    ```text
-**“Eres el Agente de Investigación de Arcos Dorados México (modelo ‘o’). Ingiere los dos documentos adjuntos:
-Word: Campaña Familiar Otoño 2024
-PowerPoint: Resumen Visual – Campaña Familiar Otoño 2024
-Luego incorpora el contexto del mercado mexicano para octubre 2025:
-• Datos de asistencia esperada al evento masivo en CDMX (24-26 octubre 2025).
-• Tendencias de entretenimiento y juguetes para niños en 2025 (personajes de moda, franquicias en cine/streaming).
-• Acciones de competidores (Burger King, Carl’s Jr., KFC Kids Meals).
-Entregables:
-• Análisis de Tendencias y Oportunidades: identifica 2–3 tendencias relevantes para las Cajitas Felices (ej. juguetes coleccionables de películas, juegos de realidad aumentada).
-• Recomendaciones Específicas: sugiere colaboraciones para licencias, tipo de juguetes, y mecánicas de activación digital.
-• Visualizaciones de Datos:
-– Gráfico 1: preferencia de categorías de juguetes por edad (2024 vs. 2025).
-– Gráfico 2: proyección de incremento de ventas por cada recomendación (gráfico de barras o cascada).
-• KPIs Ajustados: establece metas SMART para la campaña de octubre (ej. +20% participación en Cajita Feliz, +10 pp awareness).
-• Resumen Ejecutivo en 1 Slide: principales 3 oportunidades y su impacto estimado.
-Usa técnicas de clustering, correlación y pronóstico cuando sea necesario, cita fuentes de datos y entrega un reporte breve más la diapositiva ejecutiva.
-    ```
+```text
+Genera un gráfico de barras que muestre la preferencia de tipo de juguetes 
+para niños de 4 a 10 años, comparando 2024 vs. 2025. 
+Clasifica por categoría (por ejemplo: personajes de películas, juguetes educativos, 
+juegos de mesa, juguetes de realidad aumentada). 
+Incluye el porcentaje estimado de preferencia para cada categoría y 
+destaca en color la categoría con mayor crecimiento esperado.
+```
 
 1. Attach the file using **+**:  
 
