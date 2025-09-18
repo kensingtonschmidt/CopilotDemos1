@@ -126,9 +126,7 @@ Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo 
 - **Escenario: Reasignación de Presupuesto**  
 
     ```text
-    Segmenta los datos por grupo de edad y género. Para cada segmento, calcula la tasa de conversión, el costo por conversión y el ROI general.
-    Clasifica los segmentos por ROI y recomienda los 5 segmentos principales donde McDonald's debería reforzar su inversión, 
-    y los 5 menos rentables que deberían ser despriorizados. Incluye gráficos de apoyo (por ejemplo, gráficos de barras de ROI por segmento).
+    Con base en el ROI histórico por canal y segmento demográfico, simula una reasignación de presupuesto: mueve el 20% del gasto de los canales de menor desempeño hacia los     de mayor desempeño, manteniendo el presupuesto total constante. Proyecta el cambio estimado en conversiones totales y en ROAS general e incluye gráficos comparativos de     “Antes vs. Después”.
     ```  
 
 
