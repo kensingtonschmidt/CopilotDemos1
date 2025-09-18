@@ -31,24 +31,26 @@ Para acceder a estos agentes:
 ---
 
 ## Escenario
-- El departamento de Marketing de Arcos Dorados está planificando la campaña de octubre 2025 en Ciudad de México.
-- Para esta planeación, utilizarán el agente **Analyst** en Copilot.
-- El agente ayudará a:
+- El departamento de Marketing de Arcos Dorados está planificando la Campaña Familiar de octubre 2025 en Ciudad de México, aprovechando datos históricos de campañas como Cajita Feliz: Aventuras CDMX, McFlurry Edición Pan de Muerto y Monopoly McDonald’s 2025.
+-
+- -Para esta planeación utilizarán el agente Analyst en Copilot junto con el nuevo archivo de resultados de campañas de marketing que incluye datos por canal, ROI y desempeño de promociones.
 
-  – Investigar tendencias y comportamientos de consumo.
+El agente ayudará a:
+    - Investigar tendencias y comportamientos de consumo en familias urbanas y su afinidad con licencias de entretenimiento.
 
-  – Proponer alianzas estratégicas para la Cajita Feliz.
+    - Proponer alianzas estratégicas para la Cajita Feliz (p. ej., películas de estreno o colecciones coleccionables).
 
-  – Recomendar el tipo de juguetes más relevantes para la audiencia infantil.
-- ¿Por qué usar Analyst?
+    - Recomendar el tipo de juguetes más relevantes para la audiencia infantil de 4–10 años.
 
-  – Analiza datos de mercado de forma rápida y confiable.
+¿Por qué usar Analyst?
 
-  – Detecta oportunidades y brechas en la estrategia actual.
+    - Analiza datos de mercado y de campañas pasadas de forma rápida y confiable.
 
-  – Visualiza el impacto estimado de cada recomendación.
+    - Detecta oportunidades y brechas en la estrategia actual (por ejemplo, baja inversión en canales digitales o poca activación en eventos locales).
 
-  – Reduce riesgos al evitar decisiones basadas solo en intuición.
+    - Visualiza el impacto estimado de cada recomendación en KPIs como ventas, tráfico a restaurantes y awareness.
+
+    - Reduce riesgos al evitar decisiones basadas solo en intuición y ayuda a optimizar presupuesto por canal.
 
 ---
 
