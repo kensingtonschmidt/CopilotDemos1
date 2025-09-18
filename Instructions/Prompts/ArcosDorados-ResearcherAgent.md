@@ -87,21 +87,21 @@ Analyst hará lo siguiente:
 
 1. Abre **Analyst** desde la navegación izquierda en la aplicación de Copilot. 
 
-
+    ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)  
 
 
 1. Ingresa el siguiente prompt:
 
-```text
-Genera un gráfico de barras que muestre la preferencia de tipo de juguetes 
-para niños de 4 a 10 años, comparando 2024 vs. 2025. 
-Clasifica por categoría (por ejemplo: personajes de películas, juguetes educativos, 
-juegos de mesa, juguetes de realidad aumentada). 
-Incluye el porcentaje estimado de preferencia para cada categoría y 
-destaca en color la categoría con mayor crecimiento esperado.
-```
-    ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)  
+    ```text
+    Genera un gráfico de barras que muestre la preferencia de tipo de juguetes 
+    para niños de 4 a 10 años, comparando 2024 vs. 2025. 
+    Clasifica por categoría (por ejemplo: personajes de películas, juguetes educativos, 
+    juegos de mesa, juguetes de realidad aumentada). 
+    Incluye el porcentaje estimado de preferencia para cada categoría y 
+    destaca en color la categoría con mayor crecimiento esperado.
+    ```
 
+    ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/ArcosAnalyst02.png)  
 
 1. Click **Submit**.  
 
