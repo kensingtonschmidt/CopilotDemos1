@@ -81,7 +81,7 @@ Para acceder a estos agentes:
 - [Arcos Dorados - Planificación Campaña Familiar 2024](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Arcos%20Dorados%20-%20Planificaci%C3%B3n%20Campa%C3%B1a%20Familiar%202024.docx)
 
 
-    ![Screenshot showing attach files in Researcher.](../Prompts/Media/ArcosAnalyst01.png)  
+    ![Screenshot showing attach files in Researcher.](../Prompts/Media/ArcosAnalyst05.png)  
 
 2. Haz clic en **Enviar**.  
 
