@@ -58,8 +58,7 @@ El agente ayudará a:
 2. Ingresa el siguiente prompt:
 
     ```text
-    Genera una tabla que muestre Gasto Total, Impresiones, Clics, Conversiones, CTR, Tasa de Conversión y ROAS, desglosada primero por Campaña y luego por Canal.
-    Proporciona una narrativa breve que resuma las principales tendencias observadas (por ejemplo, qué campaña tuvo el ROI más alto en general, qué canal generó la mayor cantidad de impresiones y cuál tuvo mejor desempeño en conversiones).
+    Segmenta los datos por grupo de edad y género. Para cada segmento, calcula Tasa de Conversión, Costo por Conversión y ROI general.Ordena los segmentos por ROI y recomienda los 5 segmentos con mejor desempeño en los que deberíamos invertir más, y los 5 con peor desempeño para despriorizar. Incluye gráficos de barras que muestren el ROI por segmento.
     ```
 
 1. Adjunta los archivos de referencia usando `/` (apuntando a SharePoint/OneDrive):  
@@ -88,9 +87,7 @@ Analyst hará lo siguiente:
 1. Ingresa el siguiente prompt:
 
     ```text
-    Segmenta los datos por grupo de edad y género. Para cada segmento, calcula Tasa de Conversión, Costo por Conversión y ROI general. 
-    Ordena los segmentos por ROI y recomienda los 5 segmentos con mejor desempeño en los que deberíamos invertir más,y los 5 con peor desempeño para despriorizar.
-    Incluye gráficos de barras que muestren el ROI por segmento.
+    Agrupa inversión, impresiones, clics y conversiones por mes para cada campaña principal.Traza las tendencias mensuales para identificar estacionalidad (por ejemplo, picos durante promociones navideñas).  Luego construye un modelo de pronóstico simple (por ejemplo, Holt-Winters o ARIMA) para predecir estos indicadores para el Q1 de 2025, y muestra los datos históricos vs. proyectados, junto con recomendaciones puntuales para la planificación presupuestaria del próximo trimestre.
     ```
 
 1. Click **Submit**. 
