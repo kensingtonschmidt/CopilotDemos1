@@ -88,12 +88,9 @@ Analyst hará lo siguiente:
 1. Ingresa el siguiente prompt:
 
     ```text
-    Genera un gráfico de barras que muestre la preferencia de tipo de juguetes 
-    para niños de 4 a 10 años, comparando 2024 vs. 2025. 
-    Clasifica por categoría (por ejemplo: personajes de películas, juguetes educativos, 
-    juegos de mesa, juguetes de realidad aumentada). 
-    Incluye el porcentaje estimado de preferencia para cada categoría y 
-    destaca en color la categoría con mayor crecimiento esperado.
+    Segmenta los datos por grupo de edad y género. Para cada segmento, calcula Tasa de Conversión, Costo por Conversión y ROI general. 
+    Ordena los segmentos por ROI y recomienda los 5 segmentos con mejor desempeño en los que deberíamos invertir más,y los 5 con peor desempeño para despriorizar.
+    Incluye gráficos de barras que muestren el ROI por segmento.
     ```
 
 1. Click **Submit**. 
@@ -110,20 +107,20 @@ Analyst hará lo siguiente:
 
 Después de recibir el primer análisis, puedes hacer estas dos preguntas para profundizar en el escenario:
 
-**Pregunta 1:**  
+**Pregunta 1: Análisis de Correlación y Visualización**  
 
 ```text
-Realiza un análisis de correlación entre el tipo de juguete ofrecido en la Cajita Feliz 
-y el incremento en visitas al restaurante (medido en %). 
-Identifica qué categorías tienen mayor correlación positiva con el tráfico de clientes 
-y sugiere cuáles priorizar en la próxima campaña.
+  Calcula una matriz de correlación entre inversión, impresiones, clics, conversiones, CTR, tasa de conversión y ROAS.
+  Visualiza las correlaciones más fuertes (positivas y negativas), por ejemplo, como un mapa de calor o diagramas de dispersión. 
+  Destaca patrones inesperados—como canales donde mayor inversión no se traduce en más conversiones—y sugiere hipótesis.
 ```
 
-**Pregunta 2:**  
+**Pregunta 2:Escenario de Reasignación Presupuestaria y Proyección**  
 
 ```text
-Propón una estrategia de comunicación digital que complemente la campaña,  
-incluyendo ejemplos de publicaciones en TikTok, dinámicas en Instagram y activaciones en restaurantes.
+  Basado en el ROI histórico por canal y segmento demográfico, simula una reasignación presupuestaria:
+  transfiere el 20% del presupuesto desde los canales de peor desempeño hacia los de mejor desempeño, manteniendo el presupuesto total constante. 
+  Proyecta el cambio estimado en conversiones totales y ROAS bajo esta nueva asignación, y presenta gráficos comparativos de “Antes vs. Después”.
 ```
 
 
@@ -131,18 +128,22 @@ incluyendo ejemplos de publicaciones en TikTok, dinámicas en Instagram y activa
 
 Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo patrón: **Mensaje → Adjuntar archivo → Enviar → Revisar resultados.**
 
-- **Proyección financiera**  
+- **Escenario: Reasignación de Presupuesto**  
 
     ```text
-    Construye una proyección financiera a 5 años a partir de estos datos junto con un gráfico para visualizar el crecimiento de ingresos en el tiempo.
+    Segmenta los datos por grupo de edad y género. Para cada segmento, calcula la tasa de conversión, el costo por conversión y el ROI general.
+    Clasifica los segmentos por ROI y recomienda los 5 segmentos principales donde McDonald's debería reforzar su inversión, 
+    y los 5 menos rentables que deberían ser despriorizados. Incluye gráficos de apoyo (por ejemplo, gráficos de barras de ROI por segmento).
     ```  
 
 
-- **Rendimiento de ventas**  
+- **Análisis de Series Temporales y Pronóstico*  
 
     ```text
-    Analiza el volumen de ventas por ubicación para identificar nuestras tiendas con mejor y peor rendimiento, 
-    junto con una visualización de los productos más vendidos.
+    Agrupa inversión, impresiones, clics y conversiones por mes para cada campaña principal.
+    Traza las tendencias mensuales para identificar estacionalidad (por ejemplo, picos durante promociones navideñas). 
+    Luego construye un modelo de pronóstico simple (por ejemplo, Holt-Winters o ARIMA) para predecir estos indicadores para el Q1 de 2025, 
+    y muestra los datos históricos vs. proyectados, junto con recomendaciones puntuales para la planificación presupuestaria del próximo trimestre.
     ```  
 
 
