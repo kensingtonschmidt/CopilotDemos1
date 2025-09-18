@@ -42,11 +42,8 @@ El agente ayudará a:
 
 ¿Por qué usar Analyst?
 - Analiza datos de mercado y de campañas pasadas de forma rápida y confiable.
-
 - Detecta oportunidades y brechas en la estrategia actual (por ejemplo, baja inversión en canales digitales o poca activación en eventos locales).
-  
 - Visualiza el impacto estimado de cada recomendación en KPIs como ventas, tráfico a restaurantes y awareness.
-  
 - Reduce riesgos al evitar decisiones basadas solo en intuición y ayuda a optimizar presupuesto por canal.
 
 ---
