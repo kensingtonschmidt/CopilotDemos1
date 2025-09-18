@@ -85,10 +85,10 @@ Analyst hará lo siguiente:
 
 ### Analyst: Segmentación de Clientes y Modelado Financiero
 
-1. Abre **Analyst** desde la navegación izquierda en la aplicación de Copilot.
+1. Abre **Analyst** desde la navegación izquierda en la aplicación de Copilot. 
 
 
-    ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)  
+
 
 1. Ingresa el siguiente prompt:
 
