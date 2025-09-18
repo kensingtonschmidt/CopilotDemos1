@@ -5,12 +5,12 @@ demo:
 
 [Back to Index](https://github.com/emontes07/Learning/)
 
-# Agente Analyst
+# Agente Researcher
 
-Esta demostración destaca cómo usar el agente **Analyst**, este es un agente experto integrados en la aplicación Copilot. Analyst piensa como un científico de datos experto, capaz de realizar análisis avanzados de datos y ejecutar Python, incluso si no sabes programar.
+Esta demostración destaca cómo usar el agente **Researcher**, este es un agente experto integrados en la aplicación Copilot. Researcher te ayuda a abordar tareas de investigación de múltiples pasos, combinando datos web con archivos y conocimientos de tu empresa.
 
-- **Analyst** piensa como un científico de datos experto, capaz de realizar análisis avanzados de datos y ejecutar Python, incluso si no sabes programar.  
-
+- **Researcher** te ayuda a abordar tareas de investigación de múltiples pasos, combinando datos web con los archivos y el conocimiento de tu empresa.
+  
 **Tarea 1: Realizar investigación y análisis en línea**
 
 Para completar estas demostraciones, deberás descargar lo siguientes archivos que contiene todos los archivos y recursos necesarios.
