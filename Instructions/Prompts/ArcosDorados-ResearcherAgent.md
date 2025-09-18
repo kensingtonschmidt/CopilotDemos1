@@ -71,7 +71,7 @@ Para acceder a estos agentes:
    - **/Arcos Dorados - Planificación Campaña Familiar 2024.docx**  
    - *(Opcional)* **/Arcos Dorados Resumen Visual – Campaña Familiar 2024.pptx**
 
-    ![Screenshot showing attach files in Analyst.](../Prompts/Media/ArcosAnalyst01.png.png)  
+    ![Screenshot showing attach files in Analyst.](../Prompts/Media/ArcosAnalyst01.png)  
 
 2. Haz clic en **Enviar**.  
 
