@@ -28,7 +28,7 @@ Para completar estas demostraciones, deberás descargar lo siguientes archivos q
 Para acceder a estos agentes:  
 
 - Abre la **aplicación Copilot** desde [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Usa la **navegación del panel izquierdo** para seleccionar  **Analyst**.  
+- Usa la **navegación del panel izquierdo** para seleccionar  **Reasercher**.  
 
 > **Nota:** Deberás vincular Researcher y Analyst a archivos internos (SharePoint/OneDrive) para obtener información fundamentada en datos confiables.
 
@@ -36,12 +36,12 @@ Para acceder a estos agentes:
 
 ## Escenario
 • El departamento de Marketing de Arcos Dorados está planificando la campaña de octubre 2025 en Ciudad de México.
-• Para esta planeación, utilizarán el agente **Analyst** en Copilot.
+• Para esta planeación, utilizarán el agente **Researcher** en Copilot.
 • El agente ayudará a:
   – Investigar tendencias y comportamientos de consumo.
   – Proponer alianzas estratégicas para la Cajita Feliz.
   – Recomendar el tipo de juguetes más relevantes para la audiencia infantil.
-• ¿Por qué usar Analyst?
+• ¿Por qué usar Researcher?
   – Analiza datos de mercado de forma rápida y confiable.
   – Detecta oportunidades y brechas en la estrategia actual.
   – Visualiza el impacto estimado de cada recomendación.
@@ -49,12 +49,12 @@ Para acceder a estos agentes:
 
 ---
 
-### Analyst: Construye un Plan de Marketing
+### Researcher: Construye un Plan de Marketing
 
 
-1. Abre **Analyst** desde la navegación izquierda en la aplicación de Copilot.  
+1. Abre **Researcher** desde la navegación izquierda en la aplicación de Copilot.  
 
-    ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)  
+    ![Captura de pantalla mostrando Researcher seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)  
 
 2. Ingresa el siguiente prompt:
 
@@ -74,23 +74,23 @@ Para acceder a estos agentes:
 - [Arcos Dorados - Planificación Campaña Familiar 2024](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Arcos%20Dorados%20-%20Planificaci%C3%B3n%20Campa%C3%B1a%20Familiar%202024.docx)
 
 
-    ![Screenshot showing attach files in Analyst.](../Prompts/Media/ArcosAnalyst01.png)  
+    ![Screenshot showing attach files in Researcher.](../Prompts/Media/ArcosAnalyst01.png)  
 
 2. Haz clic en **Enviar**.  
 
-Analyst hará lo siguiente:  
+Researcher hará lo siguiente:  
 
 - Combinará los hallazgos de los documentos internos con información del mercado y la web.  
 - Estructurará un plan de marketing con recomendaciones sobre la mezcla de canales y la estrategia de contenidos.  
 - Citará las fuentes para que puedas validar el análisis.  
 
-> **Nota:** Analyst muestra su ruta de razonamiento (“chain of thought”) y puede invocar otros agentes si es necesario.  
+> **Nota:** Researcher muestra su ruta de razonamiento (“chain of thought”) y puede invocar otros agentes si es necesario.  
 
-### Analyst: Segmentación de Clientes y Modelado Financiero
+### Researcher: Segmentación de Clientes y Modelado Financiero
 
-1. Abre **Analyst** desde la navegación izquierda en la aplicación de Copilot. 
+1. Abre **Researcher** desde la navegación izquierda en la aplicación de Copilot. 
 
-   ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)
+   ![Captura de pantalla mostrando Researcher seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)
 
 
 1. Ingresa el siguiente prompt:
@@ -106,15 +106,15 @@ Analyst hará lo siguiente:
 
 1. Click **Submit**. 
 
-Analyst hará lo siguiente:  
+Researcher hará lo siguiente:  
 
 - Analizará el conjunto de datos.  
 - Identificará los segmentos de clientes de mayor valor.  
 - Proporcionará visualizaciones que respalden las recomendaciones.
 
-  ![Captura de pantalla resultados del agente Analyst.](../Prompts/Media/ArcosAnalyst02.png)
+  ![Captura de pantalla resultados del agente Researcher.](../Prompts/Media/ArcosAnalyst02.png)
 
-### Preguntas de Seguimiento para el Analyst Agent
+### Preguntas de Seguimiento para el Researcher Agent
 
 Después de recibir el primer análisis, puedes hacer estas dos preguntas para profundizar en el escenario:
 
@@ -135,7 +135,7 @@ incluyendo ejemplos de publicaciones en TikTok, dinámicas en Instagram y activa
 ```
 
 
-### Escenarios adicionales para Analyst
+### Escenarios adicionales para Researcher
 
 Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo patrón: **Mensaje → Adjuntar archivo → Enviar → Revisar resultados.**
 
