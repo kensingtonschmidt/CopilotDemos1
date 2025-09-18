@@ -43,3 +43,6 @@ Hyperlinks to each of the demos are listed below.
 #### [Agents - Executives](https://emontes07.github.io/Learning/Instructions/Prompts/Exec-Agents.html)
 
 #### [Copilot Chat](https://emontes07.github.io/Learning/Instructions/Prompts/CopilotChat.html)
+
+#### [Arcos Dorados - Agente Research](https://github.com/emontes07/Learning/blob/main/Instructions/Prompts/Arcos%20Dorados%20-%20Researcher%20Agent)
+
