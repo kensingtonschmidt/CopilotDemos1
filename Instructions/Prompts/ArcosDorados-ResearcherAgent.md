@@ -69,7 +69,9 @@ Para acceder a estos agentes:
 1. Adjunta los archivos de referencia usando `/` (apuntando a SharePoint/OneDrive):  
 
    - **/Arcos Dorados - Planificación Campaña Familiar 2024.docx**  
-   - *(Opcional)* **/Arcos Dorados Resumen Visual – Campaña Familiar 2024.pptx**  
+   - *(Opcional)* **/Arcos Dorados Resumen Visual – Campaña Familiar 2024.pptx**
+
+    ![Screenshot showing attach files in Analyst.](../Prompts/Media/ArcosAnalyst01.png)  
 
 2. Haz clic en **Enviar**.  
 
