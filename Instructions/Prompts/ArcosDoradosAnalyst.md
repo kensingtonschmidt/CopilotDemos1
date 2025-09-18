@@ -72,9 +72,9 @@ El agente ayudará a:
 
 Analyst hará lo siguiente:  
 
-- Combinará los hallazgos de los documentos internos con información del mercado y la web.  
-- Estructurará un plan de marketing con recomendaciones sobre la mezcla de canales y la estrategia de contenidos.  
-- Citará las fuentes para que puedas validar el análisis.  
+- Analizará los datos de los archivos internos para identificar patrones, segmentos clave y oportunidades.  
+- Generará modelos y visualizaciones que respalden decisiones estratégicas, como segmentación de clientes o proyecciones financieras.  
+- Explicará su razonamiento de forma clara y transparente, permitiendo validar cada paso del análisis.
 
 > **Nota:** Analyst muestra su ruta de razonamiento (“chain of thought”) y puede invocar otros agentes si es necesario.  
 
