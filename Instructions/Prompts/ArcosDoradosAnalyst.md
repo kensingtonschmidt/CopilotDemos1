@@ -64,12 +64,8 @@ El agente ayudará a:
 2. Ingresa el siguiente prompt:
 
     ```text
-    Crea un plan de marketing para la próxima campaña de Cajita Feliz 
-    durante el evento en Ciudad de México (24-26 octubre 2025). 
-    Destaca posibles alianzas con franquicias infantiles, 
-    recomienda el tipo de juguetes más atractivos para niños de 4 a 10 años 
-    y sugiere la mezcla de canales más efectiva (TV, redes sociales, activaciones en restaurante). 
-    Incluye aprendizajes de campañas pasadas y referencias de competidores como Burger King y KFC.
+    Genera una tabla que muestre Gasto Total, Impresiones, Clics, Conversiones, CTR, Tasa de Conversión y ROAS, desglosada primero por Campaña y luego por Canal.
+    Proporciona una narrativa breve que resuma las principales tendencias observadas (por ejemplo, qué campaña tuvo el ROI más alto en general, qué canal generó la mayor cantidad de impresiones y cuál tuvo mejor desempeño en conversiones).
     ```
 
 1. Adjunta los archivos de referencia usando `/` (apuntando a SharePoint/OneDrive):  
