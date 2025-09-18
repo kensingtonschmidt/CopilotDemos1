@@ -3,7 +3,7 @@ demo:
     title: 'Researcher and Analyst Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+[Back to Index](https://github.com/emontes07/Learning/)
 
 # Agente Analyst
 
@@ -88,7 +88,7 @@ Analyst hará lo siguiente:
 1. Abre **Analyst** desde la navegación izquierda en la aplicación de Copilot.
 
 
-    ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/analyst.png)  
+    ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)  
 
 1. Ingresa el siguiente prompt:
 
