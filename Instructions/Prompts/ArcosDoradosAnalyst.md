@@ -66,7 +66,7 @@ El agente ayudará a:
 
 - [Arcos Dorados Datos Campaña Marketing](https://github.com/emontes07/Learning/blob/main/ResourceFiles/ArcosDorados_Marketing_Campaign_Results.xlsx)
 
-    ![Screenshot showing attach files in Analyst.](../Prompts/Media/ArcosAnalyst01.png)  
+    ![Screenshot showing attach files in Analyst.](../Prompts/Media/ArcosAnalyst10.png)  
 
 2. Haz clic en **Enviar**.  
 
@@ -104,7 +104,7 @@ Analyst hará lo siguiente:
 - Identificará los segmentos de clientes de mayor valor.  
 - Proporcionará visualizaciones que respalden las recomendaciones.
 
-  ![Captura de pantalla resultados del agente Analyst.](../Prompts/Media/ArcosAnalyst10.png)
+  ![Captura de pantalla resultados del agente Analyst.](../Prompts/Media/ArcosAnalyst02.png)
 
 ### Preguntas de Seguimiento para el Analyst Agent
 
