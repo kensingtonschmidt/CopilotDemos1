@@ -5,14 +5,10 @@ demo:
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
-# Researcher and Analyst Demo
+# Agente Analyst
 
-This demo highlights how to use **Researcher** and **Analyst**, two expert agents built into the Copilot app.  
+Esta demostración destaca cómo usar el agente **Analyst**, este es un agente experto integrados en la aplicación Copilot. Analyst piensa como un científico de datos experto, capaz de realizar análisis avanzados de datos y ejecutar Python, incluso si no sabes programar.
 
-Esta demostración destaca cómo usar **Researcher** y **Analyst**, dos agentes expertos integrados en la aplicación Copilot. Researcher te ayuda a abordar tareas de investigación de múltiples pasos, combinando datos web con archivos y conocimientos de tu empresa.
-Analyst piensa como un científico de datos experto, capaz de realizar análisis avanzados de datos y ejecutar Python, incluso si no sabes programar.
-
-- **Researcher** te ayuda a abordar tareas de investigación de múltiples pasos, combinando datos web con los archivos y el conocimiento de tu empresa.
 - **Analyst** piensa como un científico de datos experto, capaz de realizar análisis avanzados de datos y ejecutar Python, incluso si no sabes programar.  
 
 ## Demo Setup
@@ -23,9 +19,8 @@ Para completar estas demostraciones, deberás descargar lo siguientes archivos q
 
 - [Arcos Dorados - Planificación Campaña Familiar 2024](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Arcos%20Dorados%20-%20Planificaci%C3%B3n%20Campa%C3%B1a%20Familiar%202024.docx)
 
-In order to complete these demos, you will need to download the [Researcher and Analyst Demo - Content Pack](https://microsoft.sharepoint.com/:u:/r/teams/MTTCentral/Immersion%20Experience%20Source%20Control/MS-4021%20Copilot%20Immersion%20Experience/Demos/Agent%20Demo%20Sample%20Docs/Researcher%20and%20Analyst%20Demo%20-%20Content%20Pack.zip?csf=1&web=1&e=384sFW), which contains all the necessary files and resources.  
+> **CONSEJO:** Antes de realizar la demostración, puedes almacenar los archivos en un sitio de SharePoint de tu entorno de pruebas para facilitar el acceso. Alternativamente, puedes guardar los archivos localmente y hacer referencia a ellos directamente en tus indicaciones usando **/**.
 
-> **TIP:** Before delivering the demo, you can create a SharePoint site in your demo environment to store all the files for easy access. Alternatively, you can store the files locally and reference them directly in your prompts using **/**.  
 
 To access these agents:  
 
