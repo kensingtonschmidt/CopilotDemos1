@@ -76,8 +76,8 @@ El agente ayudará a:
 Analyst hará lo siguiente:  
 
 - Analizará los datos de los archivos internos para identificar patrones, segmentos clave y oportunidades.  
-- Generará modelos y visualizaciones que respalden decisiones estratégicas, como segmentación de clientes o proyecciones financieras.  
-- Explicará su razonamiento de forma clara y transparente, permitiendo validar cada paso del análisis.
+- Generará visualizaciones y modelos simples que respalden decisiones (segmentación, proyecciones)  
+- Explicará su metodología y supuestos utilizados, para facilitar la validación.
 
 > **Nota:** Analyst muestra su ruta de razonamiento (“chain of thought”) y puede invocar otros agentes si es necesario.  
 
@@ -140,7 +140,7 @@ Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo 
     ```  
 
 
-- **Análisis de Series Temporales y Pronóstico*  
+- **Análisis de Series Temporales y Pronóstico**  
 
     ```text
     Agrupa inversión, impresiones, clics y conversiones por mes para cada campaña principal.
