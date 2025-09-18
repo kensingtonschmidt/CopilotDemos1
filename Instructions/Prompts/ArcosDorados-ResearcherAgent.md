@@ -103,12 +103,14 @@ Researcher hará lo siguiente:
 1. Ingresa el siguiente prompt:
 
     ```text
-    Genera un gráfico de barras que muestre la preferencia de tipo de juguetes 
-    para niños de 4 a 10 años, comparando 2024 vs. 2025. 
-    Clasifica por categoría (por ejemplo: personajes de películas, juguetes educativos, 
-    juegos de mesa, juguetes de realidad aumentada). 
-    Incluye el porcentaje estimado de preferencia para cada categoría y 
-    destaca en color la categoría con mayor crecimiento esperado.
+    Con base en las recomendaciones identificadas para la campaña de Cajita Feliz, realiza un análisis de priorización estratégica.  
+    Clasifica cada recomendación según su ROI estimado, facilidad de implementación y alineación con los objetivos de McDonald's para 2025.  
+    Asigna una ponderación: ROI (50%), facilidad de implementación (30%) y alineación estratégica (20%).  
+    Presenta los tres principales enfoques priorizados incluyendo:
+    – Recursos necesarios y tiempos estimados  
+    – Riesgos o dependencias potenciales  
+    – KPIs sugeridos para medir el impacto inicial  
+    Incluye una matriz de acción (impacto vs. esfuerzo) y una narrativa breve que justifique cada prioridad.
     ```
 
 1. Click **Submit**. 
@@ -125,20 +127,20 @@ Researcher hará lo siguiente:
 
 Después de recibir el primer análisis, puedes hacer estas dos preguntas para profundizar en el escenario:
 
-**Pregunta 1:**  
+**Pregunta 1:Estrategia de Comunicación Digital**  
 
 ```text
-Realiza un análisis de correlación entre el tipo de juguete ofrecido en la Cajita Feliz 
-y el incremento en visitas al restaurante (medido en %). 
-Identifica qué categorías tienen mayor correlación positiva con el tráfico de clientes 
-y sugiere cuáles priorizar en la próxima campaña.
+Propón una estrategia de comunicación digital que complemente la campaña de Cajita Feliz en Ciudad de México.
+Incluye ejemplos de publicaciones para TikTok, dinámicas interactivas en Instagram y activaciones en restaurante.  
+Asegúrate de adaptar el tono y estilo al público infantil y familiar, y de integrar elementos visuales que refuercen el mensaje de la campaña.
 ```
 
-**Pregunta 2:**  
+**Pregunta 2:Alianzas Estratégicas**  
 
 ```text
-Propón una estrategia de comunicación digital que complemente la campaña,  
-incluyendo ejemplos de publicaciones en TikTok, dinámicas en Instagram y activaciones en restaurantes.
+Sugiere posibles alianzas con franquicias infantiles para la campaña de Cajita Feliz.
+Evalúa el potencial de colaboración con marcas de películas, series animadas, videojuegos o juguetes educativos.  
+Incluye ejemplos de campañas similares exitosas y justifica por qué estas alianzas podrían aumentar el alcance y la relevancia de la campaña.
 ```
 
 
@@ -146,48 +148,41 @@ incluyendo ejemplos de publicaciones en TikTok, dinámicas en Instagram y activa
 
 Puedes ejecutar estos mensajes adicionales para variar. Cada uno sigue el mismo patrón: **Mensaje → Adjuntar archivo → Enviar → Revisar resultados.**
 
-- **Proyección financiera**  
+- **Evaluación de Canales**  
 
     ```text
-    Construye una proyección financiera a 5 años a partir de estos datos junto con un gráfico para visualizar el crecimiento de ingresos en el tiempo.
+    Compara el mix de medios de campañas pasadas con el comportamiento actual de consumo de medios en familias urbanas mexicanas. Identifica si estamos sobreinvirtiendo o subinvirtiendo en algún canal y sugiere ajustes.
     ```  
 
 
-- **Rendimiento de ventas**  
+- **Mensajes y Creatividad**  
 
     ```text
-    Analiza el volumen de ventas por ubicación para identificar nuestras tiendas con mejor y peor rendimiento, 
-    junto con una visualización de los productos más vendidos.
+    Evalúa si el tono y lenguaje de las campañas pasadas siguen siendo relevantes para niños y padres en 2025.  Propón ajustes creativos o de storytelling que conecten mejor con el público objetivo.
     ```  
 
 
-- **Rendimiento de campaña**  
+- **Innovación en la Experiencia**  
 
     ```text
-    Analiza y visualiza cómo se desempeñó la campaña de marketing en cada segmento objetivo 
-    y ayúdame a decidir dónde reorientar nuestra próxima campaña.
+    Propón ideas innovadoras para que la Cajita Feliz incorpore experiencias digitales, por ejemplo juegos con realidad aumentada, códigos QR con minijuegos o coleccionables virtuales.
+
     ```  
 
 
 **💡 Tips útiles:** 
-- Asegúrate de citar fuentes confiables y recientes (ej. datos 2024-2025 de INEGI, Euromonitor, Kantar).
-- Usa los datos internos de Arcos Dorados como punto de partida: ventas pasadas, desempeño de Cajita Feliz, estudios previos, para calibrar recomendaciones.
-- Al adjuntar archivos, nómbralos de forma clara para referirse fácilmente en análisis (“Planificación Familiar 2024”, “Resumen Visual Campaña 2024”).
-- Pide gráficos comparativos año vs año (2024 vs 2025) para observar tendencias crecientes o decrecientes.
-- Itera: luego de ver los resultados iniciales, usa preguntas de seguimiento para ajustar supuestos, explorar escenarios alternativos o validar hipótesis inesperadas.
+- Cita siempre fuentes confiables y actualizadas (por ejemplo: datos 2024–2025 de INEGI, Euromonitor, Kantar).
+- Usa los datos internos de Arcos Dorados como base: ventas históricas, desempeño de productos como la Cajita Feliz, estudios previos, etc., para afinar tus recomendaciones.
+- Nombra los archivos adjuntos de forma clara para facilitar su referencia en el análisis (ej. “Planificación Familiar 2024”, “Resumen Visual Campaña 2024”).
+- Itera: después de ver los resultados iniciales, haz preguntas de seguimiento para ajustar supuestos, explorar escenarios alternativos o validar hipótesis inesperadas.
 
 ## Resultados de aprendizaje esperados
 
-- Capacidad para detectar y priorizar tendencias emergentes en el mercado infantil, particularmente en juguetes/licencias, digitales/AR, y comportamientos de consumo de familias.
-
-- Destreza para combinar datos internos (ventas previas, desempeño de campañas) con datos de mercado externos para identificar brechas estratégicas.
-
-- Habilidad para traducir esas tendencias y brechas en recomendaciones prácticas, incluyendo KPIs SMART, estimaciones de impacto, y mapas de canal.
-
-- Experiencia en generación de visualizaciones de datos (gráficos, comparaciones, proyecciones) para respaldar decisiones de campaña.
-
-- Mejora en eficiencia en el proceso de investigación de campañas: desde archivo + prompt → análisis → seguimiento → resultados accionables, ahorrando tiempo y reduciendo riesgos.
-
+- Identificar y priorizar tendencias emergentes en el mercado infantil, especialmente en juguetes/licencias, experiencias digitales/AR y hábitos de consumo familiar.
+- Combinar datos internos (ventas, campañas anteriores) con datos externos de mercado para detectar oportunidades estratégicas.
+- Traducir esas tendencias en recomendaciones accionables, incluyendo KPIs SMART, estimaciones de impacto y mapas de canal.
+- Generar visualizaciones efectivas (gráficos, comparativos, proyecciones) que respalden decisiones de campaña.
+- Optimizar el proceso de análisis de campañas: desde archivo + prompt → análisis → seguimiento → resultados accionables, ahorrando tiempo y reduciendo riesgos.
 
 Juntos, Researcher y Analyst acortan el camino de la **pregunta al conocimiento**, convirtiendo semanas de trabajo en minutos.
 
