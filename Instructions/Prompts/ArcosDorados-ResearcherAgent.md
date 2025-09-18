@@ -11,7 +11,7 @@ Esta demostración destaca cómo usar el agente **Analyst**, este es un agente e
 
 - **Analyst** piensa como un científico de datos experto, capaz de realizar análisis avanzados de datos y ejecutar Python, incluso si no sabes programar.  
 
-## Demo Setup
+**Tarea 1: Realizar investigación y análisis en línea**
 
 Para completar estas demostraciones, deberás descargar lo siguientes archivos que contiene todos los archivos y recursos necesarios.
 
@@ -22,69 +22,91 @@ Para completar estas demostraciones, deberás descargar lo siguientes archivos q
 > **CONSEJO:** Antes de realizar la demostración, puedes almacenar los archivos en un sitio de SharePoint de tu entorno de pruebas para facilitar el acceso. Alternativamente, puedes guardar los archivos localmente y hacer referencia a ellos directamente en tus indicaciones usando **/**.
 
 
-To access these agents:  
 
-- Open the **Copilot app** from [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Use the **left navigation** to select **Researcher** or **Analyst**.  
+Para acceder a estos agentes:  
 
-> **Note:** You’ll need to point Researcher and Analyst to internal files (SharePoint/OneDrive) for grounded insights.
+- Abre la **aplicación Copilot** desde [m365.cloud.microsoft](https://m365.cloud.microsoft).  
+- Usa la **navegación del panel izquierdo** para seleccionar  **Analyst**.  
 
----
-
-## Talking Points
-
-- **Researcher** acts like a highly paid consultant: it can build structured, well-cited deliverables by blending internal files, competitor intelligence, and web sources.  
-- **Analyst** is like having a data scientist on hand: it builds models, runs Python code, and visualizes trends instantly.  
-- Both agents explain their reasoning transparently so you can validate results.  
-- Together, they accelerate strategic work—marketing plans, customer segmentation, financial projections—so you can move faster with confidence.  
+> **Nota:** Deberás vincular Researcher y Analyst a archivos internos (SharePoint/OneDrive) para obtener información fundamentada en datos confiables.
 
 ---
 
-## Demo Steps
+## Escenario
+• El departamento de Marketing de Arcos Dorados está planificando la campaña de octubre 2025 en Ciudad de México.
+• Para esta planeación, utilizarán el agente **Analyst** en Copilot.
+• El agente ayudará a:
+  – Investigar tendencias y comportamientos de consumo.
+  – Proponer alianzas estratégicas para la Cajita Feliz.
+  – Recomendar el tipo de juguetes más relevantes para la audiencia infantil.
+• ¿Por qué usar Analyst?
+  – Analiza datos de mercado de forma rápida y confiable.
+  – Detecta oportunidades y brechas en la estrategia actual.
+  – Visualiza el impacto estimado de cada recomendación.
+  – Reduce riesgos al evitar decisiones basadas solo en intuición.
 
-### Researcher: Build a Marketing Plan
+---
 
-> **IMPORTANT:** Steps 1–4 should be completed at the beginning of the training (as indicated by slide 5) to give Researcher enough time to complete the first prompt.
+### Analyst: Construye un Plan de Marketing
 
-1. Open **Researcher** from the left navigation in the Copilot app.  
+> **IMPORTANTE:** Los pasos 1–4 deben completarse al inicio de la sesión de entrenamiento (como se indica en la diapositiva 5) para darle al agente **Analyst** suficiente tiempo para completar el primer prompt.
 
-    ![Screenshot showing Researcher selected in M365 Copilot menu.](../Prompts/Media/researcher.png)  
+1. Abre **Analyst** desde la navegación izquierda en la aplicación de Copilot.  
 
-1. Enter the following prompt:
+    ![Captura de pantalla mostrando Analyst seleccionado en el menú de M365 Copilot.](../Prompts/Media/researcher.png)  
+
+2. Ingresa el siguiente prompt:
 
     ```text
-    Create a marketing plan for our newest SprintCycle EV charger launch. 
-    Emphasize its AI-powered adaptive charging, modular design, and biometric access control. 
-    Make sure to include recommendations on the right digital channels and content strategy. 
-    Include insights from competitors and our past GTM campaigns.
+    Crea un plan de marketing para la próxima campaña de Cajita Feliz 
+    durante el evento en Ciudad de México (24-26 octubre 2025). 
+    Destaca posibles alianzas con franquicias infantiles, 
+    recomienda el tipo de juguetes más atractivos para niños de 4 a 10 años 
+    y sugiere la mezcla de canales más efectiva (TV, redes sociales, activaciones en restaurante). 
+    Incluye aprendizajes de campañas pasadas y referencias de competidores como Burger King y KFC.
     ```
 
-1. Attach reference files using `/` (point to SharePoint/OneDrive):  
+1. Adjunta los archivos de referencia usando `/` (apuntando a SharePoint/OneDrive):  
 
-   - **/SprintCycle Charger Product Launch.docx**  
-   - *(Optional)* **/Contoso - PedalPerks GTM Plan.docx**  
+   - **/Arcos Dorados - Planificación Campaña Familiar 2024.docx**  
+   - *(Opcional)* **/Arcos Dorados Resumen Visual – Campaña Familiar 2024.pptx**  
 
-1. Click **Submit**.  
+2. Haz clic en **Enviar**.  
 
-Researcher will:  
+Analyst hará lo siguiente:  
 
-- Combine insights from both internal files and the web.  
-- Structure a marketing plan with recommendations on channels and content strategy.  
-- Cite sources so you can validate its work.  
+- Combinará los hallazgos de los documentos internos con información del mercado y la web.  
+- Estructurará un plan de marketing con recomendaciones sobre la mezcla de canales y la estrategia de contenidos.  
+- Citará las fuentes para que puedas validar el análisis.  
 
-> **Note:** Researcher shows its reasoning path (“chain of thought”), and can call other agents when needed.  
+> **Nota:** Analyst muestra su ruta de razonamiento (“chain of thought”) y puede invocar otros agentes si es necesario.  
 
-### Analyst: Customer Segmentation & Financial Modeling
+### Analyst: Segmentación de Clientes y Modelado Financiero
 
-1. Open **Analyst** from the left navigation in the Copilot app.  
+1. Abre **Analyst** desde la navegación izquierda en la aplicación de Copilot.
+
 
     ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/analyst.png)  
 
-1. Enter the following prompt:
+1. Escribe el siguiente prompt:
 
     ```text
-    Find the right customer segment and demographic to sell our new EV charger, 
-    include a graph to show how this will maximize our market opportunity.
+**“Eres el Agente de Investigación de Arcos Dorados México (modelo ‘o’). Ingiere los dos documentos adjuntos:
+Word: Campaña Familiar Otoño 2024
+PowerPoint: Resumen Visual – Campaña Familiar Otoño 2024
+Luego incorpora el contexto del mercado mexicano para octubre 2025:
+• Datos de asistencia esperada al evento masivo en CDMX (24-26 octubre 2025).
+• Tendencias de entretenimiento y juguetes para niños en 2025 (personajes de moda, franquicias en cine/streaming).
+• Acciones de competidores (Burger King, Carl’s Jr., KFC Kids Meals).
+Entregables:
+• Análisis de Tendencias y Oportunidades: identifica 2–3 tendencias relevantes para las Cajitas Felices (ej. juguetes coleccionables de películas, juegos de realidad aumentada).
+• Recomendaciones Específicas: sugiere colaboraciones para licencias, tipo de juguetes, y mecánicas de activación digital.
+• Visualizaciones de Datos:
+– Gráfico 1: preferencia de categorías de juguetes por edad (2024 vs. 2025).
+– Gráfico 2: proyección de incremento de ventas por cada recomendación (gráfico de barras o cascada).
+• KPIs Ajustados: establece metas SMART para la campaña de octubre (ej. +20% participación en Cajita Feliz, +10 pp awareness).
+• Resumen Ejecutivo en 1 Slide: principales 3 oportunidades y su impacto estimado.
+Usa técnicas de clustering, correlación y pronóstico cuando sea necesario, cita fuentes de datos y entrega un reporte breve más la diapositiva ejecutiva.
     ```
 
 1. Attach the file using **+**:  
