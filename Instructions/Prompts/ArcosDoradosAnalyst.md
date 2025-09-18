@@ -70,10 +70,7 @@ El agente ayudará a:
 
 1. Adjunta los archivos de referencia usando `/` (apuntando a SharePoint/OneDrive):  
 
-- [Arcos Dorados Resumen Visual Campaña 2024](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Arcos%20Dorados%20Resumen%20Visual%20%E2%80%93%20Campa%C3%B1a%20Familiar%202024.pptx)
-
-- [Arcos Dorados - Planificación Campaña Familiar 2024](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Arcos%20Dorados%20-%20Planificaci%C3%B3n%20Campa%C3%B1a%20Familiar%202024.docx)
-
+- [Arcos Dorados Datos Campaña Marketing](https://github.com/emontes07/Learning/blob/main/ResourceFiles/ArcosDorados_Marketing_Campaign_Results.xlsx)
 
     ![Screenshot showing attach files in Analyst.](../Prompts/Media/ArcosAnalyst01.png)  
 
