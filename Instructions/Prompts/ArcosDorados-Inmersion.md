@@ -249,145 +249,62 @@ Crea un mapa de calor de los productos más vendidos (sin incluir fechas de comp
 
 ### Tarea 6: Perform Calculations from Excel Data  
 
-Use **Copilot Chat** to perform calculations directly from Excel data—without needing formulas or pivot tables. In this task, you’ll calculate the **total revenue** and the **average sales revenue** from a provided spreadsheet and explore how to break down those results further.
+Usa Copilot Chat para consolidar, resumir y priorizar tus pendientes a partir de correos, reuniones de Teams, mensajes de chat y mensajes de canal del último día laborable. En esta tarea crearás una tabla de accionables con propietarios y sugerencias de seguimiento, lista para compartir o convertir en plan de trabajo.
 
-This is a great use case for operations, finance, or business teams looking for fast insights without writing code or complex formulas.
+Esta práctica es ideal para equipos de operaciones, finanzas o negocio que necesitan claridad y foco al comenzar el día sin revisar hilo por hilo.
 
-**Pasos**:  
+**Pasos**:
 
-1. Save the following Excel workbook (right click "Save Link as").  
-   - [EV Charger Demo with Rev + Sales.xlsx](https://github.com/emontes07/Learning/blob/main/ResourceFiles/EV%20Charger%20Demo%20with%20Rev%20%2B%20Sales%20CSV.csv)
-2. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
-3. Select Copilot Chat and upload your `.xlsx` file  
-4. Use the following sample prompt to analyze and calculate values from the data  
-
-![screenshot showing Excel table and Copilot revenue calculation](../Prompts/Media/Task6.png)  
-
-**Ejemplo de indicación** *(after uploading your Excel file)*:
-
-```text
-Calculate the total revenue and the average sales revenue.
-```
-
-> **CONSEJO:** 
-Once the results are shown, try these follow-up prompts to dig deeper:
-> Can you break down the revenue sources by sales channel or product?
-> What are the monthly or quarterly sales trends?
-> Can you calculate revenue growth over time?
-
-> **Resultado de Aprendizaje:**
-After completing this task, you’ll be able to use Copilot Chat to quickly calculate financial metrics like total and average revenue, and follow up with deeper questions to uncover trends or performance breakdowns in your Excel data.
+- Abre una nueva pestaña del navegador y navega a [M365copilot.com](https://m365copilot.com/)
+- Ve a Copilot Chat en la pestaña Trabajo (Work).
+- (Opcional) En Teams: abre el chat de la reunión y revisa la pestaña Recapitulación para que Copilot tenga contexto de resumen; si hay grabación, también puedes referenciar Stream.
+- En Copilot Chat, pega el prompt de ejemplo (abajo) para generar la tabla con tus seguimientos del último día laborable.
+- Usa los prompts de seguimiento para priorizar, asignar responsables y preparar el plan de acción.
 
 
-### Tarea 7: Convert Files to Another Format  
-
-Use **Copilot Chat** to convert files between formats quickly and easily. This task helps you explore supported conversion types—perfect when you need to standardize formats or extract data for analysis.  
-
-**Pasos**:  
-
-1. Upload the file you want to convert to **Copilot Chat**.  
-2. Ask Copilot Chat to convert it into your desired format.  
-
-![screenshot showing a PDF converted to Word](../Prompts/Media/Task7.png)
-
-**Ejemplo de indicación**:  
+**Ejemplo de prompt**:
 
 ```text
-Convert this PDF to a Word document.
+Resumir mis correos electrónicos, reuniones de Teams y mensajes instantáneos, así como mensajes de canal del último día laborable.
+Enumere los elementos de acción en una columna dedicada. 
+Sugiera seguimientos si es posible en una columna dedicada. 
+La tabla debería verse así: Tipo (Correo/Equipos/Canal) | Tema | Resumen | Elemento de acción | Seguimiento. 
 ```
-You can also request Copilot to perform other conversions such the one mentioned in the image.
 
+   ![screenshot showing Teams.](../Prompts/Media/Arcos101.png)  
 
-> **CONSEJO:** 
-Ask follow-up questions like:
-> Can you extract tables from this PDF into Excel?
-> Save this as a downloadable file.
-> Combine multiple PDFs into one document.”
-
-> **Resultado de Aprendizaje:**
-After completing this task, you’ll know how to use Copilot Chat to convert files into various formats, making it easier to prepare data, create editable documents, and streamline workflows.
-
-
-### Tarea 8 (FYI): Create or Replace an Excel Macro with Copilot
-
-This advanced, **FYI-only** task shows two ways to handle VBA-style calculations using **Copilot Chat**—either by asking Copilot to do the equivalent calculation from an uploaded spreadsheet, or by having Copilot help author/adjust the VBA macro.  
-> **Heads-up:** VBA macros don’t run in **Excel for the web**; Copilot Chat can still perform the same calculations from your uploaded workbook.
-
-**How to use it:**  
-
-1. Open a new browser tab and go to [M365copilot.com](https://m365copilot.com/).  
-2. Select **Copilot Chat**.  
-3. Use one of the options below.
-
-![screenshot showing macro alternatives with Copilot](../Prompts/Media/Task8.png)
-
-**Option 1 – Have Copilot perform the calculation from your file**  
-
-Upload your `Revenue.xlsx` (or similar) and run:
+**Prompts de seguimiento (opcionales):**
 
 ```text
-Please create an Excel Macro script that performs the following task:
-Calculate the total and average revenue from the "Sales by Product" worksheet.
-
-For Excel web users, execute the equivalent calculation now on the uploaded file and report:
-- Total Revenue
-- Average Revenue
+Añade columnas de Prioridad (Alta/Media/Baja), Propietario sugerido y Fecha objetivo. Ordena la tabla por Prioridad y Fecha objetivo.
 ```
-
-**Option 2 – Ask Copilot to draft/modify the VBA macro**
-
 ```text
-Write a VBA macro that calculates the total and average revenue from the
-"Sales by Product" worksheet and displays the results in a message box.
+Incluye hipervínculos a las fuentes (correo, chat o recap) en la columna Tema y marca con ⭐ los elementos críticos del día.
 
-Now modify the script so it writes:
-- Total Revenue to cell J4
-- Average Revenue to cell J5
-and formats both as currency.
 ```
+```text
+Agrupa la tabla por Tipo (Correo/Equipos/Canal) y crea una versión filtrada solo con elementos donde fui mencionado directamente.
+```
+```text
+Propón próximos pasos y un mini plan de trabajo para hoy con 3 bloques de tiempo (mañana/tarde/cierre) en función de la prioridad.
+```
+```text
+Genera un borrador de mensaje para mi equipo con el resumen de decisiones y pendientes, incluyendo la tabla.
+```
+
 
 > **CONSEJO:**
-> Explain what this macro does line by line.
-> Convert this macro to a Copilot prompt that performs the same calculation without VBA.
-> Add error handling if the sheet or column is missing.”
+> También puedes referenciar la reunión desde la pestaña Trabajo en Copilot Chat (además de hacerlo desde Teams) y pedir que integre el recap, notas del facilitador y, si existe, la grabación en Stream.
+> Pide siempre la salida en tabla con columnas claras (Tipo, Tema, Resumen, Elemento de acción, Seguimiento, Prioridad, Propietario, Fecha objetivo).
+> Aclara el rango de tiempo si lo necesitas (p. ej., “ayer”, “últimas 24 horas”, “desde el lunes a las 9:00”).
+> Solicita resaltado de menciones directas (p. ej., "@Erik") y que lo marque en negritas en la columna Tema para detectar urgencias.
+> Si algo es ambiguo, pide explicaciones: “¿Por qué este seguimiento es necesario?” o “¿Qué información falta para cerrarlo?”.
 
 > **Resultado de Aprendizaje:**
-You’ll understand two practical paths to handle macro-style work: (1) let Copilot Chat run the calculation directly from your uploaded workbook, or (2) have Copilot author or refactor the VBA macro for desktop Excel, including writing results to specific cells.
+> Al completar esta tarea, podrás:
+> Consolidar en minutos la actividad del último día laborable (correo, Teams, canales) en una tabla accionable.
+> Priorizar y planificar con criterios explícitos (prioridad, propietario, fecha objetivo) y con vínculos a las fuentes.
+> Aprovechar Copilot tanto en Teams (Recapitulación/Stream/facilitador) como en Copilot Chat (pestaña Trabajo) para acelerar el seguimiento diario.
+> Comunicar de forma efectiva al equipo mediante un resumen claro con decisiones y próximos pasos.
 
-
-### Tarea 9: Create a Job Description & Evaluate a Candidate  
-
-Use **Copilot Chat** to create a professional job description based on web research, define KPIs, and then analyze a candidate’s resume for fit against the role. This task is ideal for HR teams, hiring managers, and recruiters who want to streamline job creation and resume evaluation.
-
-**Pasos**:  
-
-1. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
-2. Select **Copilot Chat**.  
-3. Start by asking Copilot to research and build a job profile.  
-4. Then, upload a candidate’s resume (in `.docx` format) and ask Copilot to perform a gap analysis.
-
-![screenshot showing job description workflow and resume evaluation](../Prompts/Media/Task9.png)
-
-**Ejemplo de indicación** *(Step 1 – Build the job description)*:
-
-```text
-In a table format perform a web analysis for a "data analyst" role for finance to include:
-- Industry job titles  
-- Basic definition  
-- Key attributes  
-- Ideal average years of education  
-- Salary range  
-- A list of 10 questions and answers to ask this role in an interview  
-
-Then provide some KPIs for the role.  
-
-Finally, based on the above information, write a job description with a competitive salary based on years of experience. This job description will serve as the guide for our hiring board.
-```
-
-> **CONSEJO:**
-> Rank the candidate from 1–10 based on fit for the role.
-> Identify skill gaps and recommend a training plan if they were hired.
-> Generate a scorecard template the hiring board can use for all candidates.
-
-> **Resultado de Aprendizaje:**
-After completing this task, you’ll be able to create a well-structured job description, identify KPIs for a role, and perform a resume gap analysis with Copilot Chat—streamlining your hiring process and improving candidate evaluation consistency.
+---
