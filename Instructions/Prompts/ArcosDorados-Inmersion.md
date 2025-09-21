@@ -72,14 +72,15 @@ Utiliza Copilot en Microsoft Teams para transformar una reunión en un resumen a
 - Haz clic en la pestaña Recapitulación.
 - Selecciona el botón Copilot para ver las opciones sugeridas.
 - Ingresa el siguiente prompt o personalízalo según tus necesidades:
-  
-    ![screenshot showing work mode tab.](../Prompts/Media/Arcos101.png)  
+
 
 **Ejemplo de prompt**:
 
 ```text
 Resuma esta reunión en una tabla con las siguientes columnas: Temas Clave, Preguntas Pendientes y Tareas con sus Responsables.
 ```
+
+   ![screenshot showing work mode tab.](../Prompts/Media/Arcos101.png)  
 
 > **CONSEJO:** Además de usar Copilot en la pestaña Recapitulación, también puedes:
 > Referenciar la reunión desde el tab Trabajo en Copilot Chat.
