@@ -98,36 +98,49 @@ Resuma esta reunión en una tabla con las siguientes columnas: Temas Clave, Preg
 
 ---
 
-### Tarea 3: Refine Results with Follow-Up Questions  
+### Tarea 3: Crear tu propia campaña de marketing 
 
-Usando **Copilot Chat**, practice enhancing your results by asking follow-up questions. This task shows how you can go beyond the first answer, structure the data, and get actionable insights for decision-making.  
+Usando **Copilot Chat**, ya sea en el navegador web [M365copilot.com](https://m365copilot.com/), la aplicación de escritorio o Teams, presione el botón "Trabajo" y luego "Pruebe GPT-5". Ingresa el primer prompt y luego itera con preguntas de seguimiento para refinar los entregables.
 
 **Pasos**:
 
-- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
-- Select Copilot Chat
-- Enter the following series of prompts to progressively refine your research results:
+- Abre una nueva pestaña del navegador y navega a [M365copilot.com](https://m365copilot.com/)
+- Selecciona Copilot Chat → pestaña Trabajo → Pruebe GPT-5.
+- Pega el prompt inicial (abajo) y solicita que la salida sea en tabla con columnas específicas (Idea, Insight cultural, Público objetivo, Canal, KPI esperados, Presupuesto estimado, Riesgos/Mitigaciones).
+- Usa preguntas de seguimiento para:
+-   Crear una matriz de priorización (p. ej., RICE o Impacto × Esfuerzo × Costo).
+-   Obtener un plan de medios (mix por canal, formatos, rango de inversión, KPIs objetivo).
+-   Generar un roadmap 30-60-90 días y un brief creativo (mensajes, tono, piezas por canal, adaptaciones ES/pt-BR).
   
     ![screenshot showing iterative follow-up questions.](../Prompts/Media/Task3.png)  
 
 **Ejemplo de indicación Sequence**:
 
 ```text
-Please identify trends in consumer preferences for grocery markets and use these insights to develop ideas for new products for our grocery market chain.
+Actúa como estratega de marketing para McDonald’s Latinoamérica. Quiero idear una campaña para “Día de Muertos” orientada a aumentar visitas en restaurante y ventas en app. Proporciona una tabla con estas columnas: Idea, Insight cultural (breve y respetuoso), Público objetivo, Mensaje clave, Canales y formatos, KPI esperados, Presupuesto estimado (bajo/medio/alto), Riesgos y mitigaciones. Incluye citas/metodología al final.
 ```
 
 ```text
-Please structure those ideas in a table format and for each idea add a column for the potential target groups and ideas for an advertising campaign.
+Genera una matriz de priorización usando RICE (Reach, Impact, Confidence, Effort) y recomienda las 3 ideas con mayor puntuación. Explica la justificación en 3–4 frases por idea.
 ```
 
 ```text
-How can I prioritize these ideas effectively?
+Propón un plan de medios por canal (TV, DOOH, Social, Influencers, App, CRM/SMS, PR) con formato, frecuencia sugerida, rango de inversión y KPI objetivo (CTR, CPA, tasa de conversión en app, ventas incrementales).
 ```
 
-> **CONSEJO:**  Follow-up questions help refine and upscale your results. Try clarifying prompts like: “Expand the table with additional product ideas based on recent market trends,” “Which ideas might have the highest ROI in the next 12 months?,” or “Create a prioritization matrix ranking these ideas by market demand, profitability, and alignment with brand values.”
+> **CONSEJO:**  Pide salidas estructuradas en tabla para comparar ideas y acciones con claridad.
+> Solicita citas y metodología para validar supuestos y reducir sesgos.
+> Incluye criterios y restricciones (objetivo de negocio, presupuesto, fechas, mercados) en el prompt inicial para mejorar la relevancia.
+> Si buscas ejecución: solicita matriz de priorización (RICE), plan de medios y roadmap 30-60-90 en la misma conversación.
+> Para adaptaciones regionales, pide versiones en español y pt-BR con guía de tono y sensibilidad cultural.
+> Si necesitas activos operativos, pide briefs listos para compartir con agencias y equipo interno.
 
 > **Resultado de Aprendizaje:**
-After completing this task, you’ll understand how to use follow-up prompts to get richer insights and actionable recommendations from Copilot Chat.
+> Al completar esta tarea serás capaz de:
+> Orquestar con Copilot un flujo de trabajo de marketing end-to-end: ideación, evaluación, priorización y plan de ejecución.
+> Diseñar prompts efectivos que produzcan salidas estructuradas (tablas, matrices, roadmaps) y que incorporen fuentes/metodología.
+> Asegurar relevancia regional para América Latina (incluyendo pt-BR) con sensibilidad cultural, tono de marca y consideraciones de cumplimiento.
+> Transformar la exploración creativa en decisiones accionables, con KPIs claros, responsables y próximos pasos.
 
 
 ### Tarea 4: Analyze Reviews & Visualize Sentiments  
