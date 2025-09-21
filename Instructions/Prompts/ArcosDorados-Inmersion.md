@@ -1,6 +1,6 @@
 ---
 demo:
-    title: 'Researcher and Analyst Demo'
+    title: 'Arcos Dorados Copilot '
 ---
 
 [Back to Index](https://github.com/emontes07/Learning/)
