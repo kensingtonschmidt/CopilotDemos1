@@ -247,7 +247,7 @@ Crea un mapa de calor de los productos más vendidos (sin incluir fechas de comp
 > Preparar visuales listos para presentaciones y toma de decisiones.
 
 
-### Tarea 6: Perform Calculations from Excel Data  
+### Tarea 6: Resumir y priorizar los seguimientos
 
 Usa Copilot Chat para consolidar, resumir y priorizar tus pendientes a partir de correos, reuniones de Teams, mensajes de chat y mensajes de canal del último día laborable. En esta tarea crearás una tabla de accionables con propietarios y sugerencias de seguimiento, lista para compartir o convertir en plan de trabajo.
 
