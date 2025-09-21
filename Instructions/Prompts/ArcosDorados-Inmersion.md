@@ -168,7 +168,7 @@ No incluyas texto ni tipografía en la imagen.
 
 Después, solicita ideas para diseño de empaque con el siguiente prompt:
 
-![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/Arcos103.png)  
+![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/Arcos103.jpeg)  
 
 **Ejemplo de prompt para empaque especial:** 
 
@@ -181,7 +181,7 @@ Ejemplo de tema:
 1. **Exploradores de CDMX:** ilustraciones de monumentos icónicos (Ángel de la Independencia, Chapultepec) y juegos para descubrir datos curiosos.
 ```
 
-![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/Arcos104.png)  
+![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/Arcos104.jpeg)  
 
 
 > **CONSEJO:**  Pide variantes de la imagen con diferentes ángulos, iluminación o estilos (p. ej., más minimalista, más tropical).
