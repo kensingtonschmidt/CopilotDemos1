@@ -199,46 +199,52 @@ Ejemplo de tema:
 > Iterar sobre diseños solicitando variantes y adaptaciones para diferentes canales y formatos.
 > Integrar Copilot en procesos creativos para campañas y activaciones especiales.
 
-### Tarea 5: Visualize Financial Data with Charts & Heat Maps  
+### Tarea 5: Visualizar datos financieros con gráficos y mapas de calor
 
-Use **Copilot Chat** to create a variety of data visualizations from Excel data, such as **monthly trends**, **product sales**, and **revenue distribution**. In this task, you'll explore the charting capabilities of Copilot with structured sales data to uncover key insights.  
+Usa Copilot Chat para crear diferentes visualizaciones a partir de datos en Excel, como tendencias mensuales, ventas por producto y distribución de ingresos. En esta tarea, explorarás las capacidades de Copilot para generar gráficos que revelen insights clave a partir de datos estructurados.
 
 **Pasos**:  
 
-1. Open your Excel workbook and select one worksheet (only one tab at a time can be used).
-
+1. Abre tu libro de Excel y selecciona una sola hoja (Copilot solo analiza una pestaña a la vez).
 - [EV Charger Demo.csv](https://github.com/emontes07/Learning/blob/main/ResourceFiles/EV%20Charger%20Demo%20(Original).csv)
-   
-3. Save the selected worksheet as a `.csv` file.  
-4. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
-5. Select Copilot Chat and upload your `.csv` file  
-6. Use the following sample prompt to analyze and visualize the data.  
+2. Guarda la hoja seleccionada como archivo .csv.
+3. Abre una nueva pestaña del navegador y navega a [M365copilot.com](https://m365copilot.com/)
+4. Selecciona Copilot Chat y sube tu archivo .csv.
+5. Usa los siguientes prompts de ejemplo para analizar y visualizar los datos.
 
 ![screenshot showing product, revenue, and sales channel chart visualizations](../Prompts/Media/Task5.png)  
 
 **Ejemplo de indicación** *(after uploading your CSV file)*:
 
 ```text
-List the visual charts you can create from the sales data and then create those charts.  
+Enumera los gráficos que puedes crear a partir de los datos de ventas y luego créalos.
 ```
 ```text
-Create a Monthly Revenue Trend chart.  
+Crea un gráfico de tendencia mensual de ingresos.
 ```
 ```text
-Create a "Units Sold Distribution by Sales Channel" pie chart.
+Crea un gráfico circular “Distribución de unidades vendidas por canal de ventas”.
 ```
 ```text
-Create a "Total Revenue by Product" chart.  
+Crea un gráfico “Ingresos totales por producto”.
 ```
 ```text
-Create a heat map of the most purchased products without purchase dates.
+Crea un mapa de calor de los productos más vendidos (sin incluir fechas de compra).
 ```
 
-> **CONSEJO:** 
-Once the visuals are generated, try these follow-up prompts to enhance your analysis: Can you add trendlines or highlight seasonal peaks in the revenue chart? What does the heat map reveal about customer preferences? Group sales by category and create a stacked bar chart.Export these charts as image files I can use in PowerPoint.
+> **CONSEJO:**
+> Una vez generadas las visualizaciones, prueba estos prompts de seguimiento para mejorar tu análisis:
+> “¿Puedes añadir líneas de tendencia o resaltar picos estacionales en el gráfico de ingresos?”
+> “¿Qué revela el mapa de calor sobre las preferencias de los clientes?”
+> “Agrupa las ventas por categoría y crea un gráfico de barras apiladas.”
+> “Exporta estos gráficos como archivos de imagen para usarlos en PowerPoint.”
 
 > **Resultado de Aprendizaje:**
-After completing this task, you’ll be able to transform numerical sales data into various visual formats using Copilot Chat—including line charts, pie charts, bar charts, and heat maps—empowering you to extract and present insights for better decision-making.
+> Al completar esta tarea, podrás:
+> Transformar datos numéricos de ventas en visualizaciones claras usando Copilot Chat.
+> Crear gráficos como líneas, circulares, barras y mapas de calor para presentar insights.
+> Identificar tendencias, patrones y oportunidades a partir de datos estructurados.
+> Preparar visuales listos para presentaciones y toma de decisiones.
 
 
 ### Tarea 6: Perform Calculations from Excel Data  
