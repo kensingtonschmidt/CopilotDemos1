@@ -114,7 +114,7 @@ Usando **Copilot Chat**, ya sea en el navegador web [M365copilot.com](https://m3
   
     ![screenshot showing iterative follow-up questions.](../Prompts/Media/Arcos102.png)  
 
-**Ejemplo de indicación Sequence**:
+**Ejemplo de secuencia de prompts:**:
 
 ```text
 Actúa como estratega de marketing para McDonald’s Latinoamérica. Quiero idear una campaña para “Día de Muertos” orientada a aumentar visitas en restaurante y ventas en app. Proporciona una tabla con estas columnas: Idea, Insight cultural (breve y respetuoso), Público objetivo, Mensaje clave, Canales y formatos, KPI esperados, Presupuesto estimado (bajo/medio/alto), Riesgos y mitigaciones. Incluye citas/metodología al final.
