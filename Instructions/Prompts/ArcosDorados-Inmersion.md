@@ -143,39 +143,61 @@ Propón un plan de medios por canal (TV, DOOH, Social, Influencers, App, CRM/SMS
 > Transformar la exploración creativa en decisiones accionables, con KPIs claros, responsables y próximos pasos.
 
 
-### Tarea 4: Analyze Reviews & Visualize Sentiments  
+### Tarea 4: Crear imágenes publicitarias y conceptos de empaque 
 
-Use **Copilot Chat** to transform raw survey or review data into actionable insights with charts and dashboards. You'll use a `.csv` file exported from Excel and ask Copilot to identify sentiment, uncover key themes, and generate visuals like a pie chart and word cloud.  
-
-This task is perfect for analyzing customer feedback or product reviews and creating compelling visuals for presentations or reports.  
+Usa Copilot Chat para generar imágenes hiperrealistas y proponer ideas creativas para empaques especiales. Esta tarea te ayudará a explorar cómo Copilot puede apoyar en diseño visual y conceptualización para campañas de marketing.
 
 **Pasos**:  
 
-1. Save the following Excel notebook (right click "Save Link as").
-- [Charger Reviews.csv](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Charger%20Reviews.csv)
-3. Save the selected worksheet as a `.csv` file.  
-4. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
-5. Select Copilot Chat and upload your `.csv` file  
-6. Use the following sample prompt to analyze and visualize the data.  
+1. Abre una nueva pestaña del navegador y navega a [M365copilot.com](https://m365copilot.com/)
+2. Selecciona Copilot Chat en la pestaña Trabajo.
+3. Ingresa el siguiente prompt para generar una imagen publicitaria:
 
-![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/Task4.png)  
 
-**Ejemplo de indicación** *(after uploading your CSV file)*:
+**Ejemplo de prompt para imagen publicitaria:** 
 
 ```text
-For each review, analyze the whole sentence and provide a sentiment analysis.  
-List the top 10 sentiments with counts based on reviews using the attached file. Analyze the column “Reviews” located in column C.
-
-Then, list the sentiment with counts on reviews and the top 10 themes in the reviews.  
-Create a pie graph with Easter-themed colors based on the sentiment count and then create a word cloud based on themes and mentions.
+Crea una imagen publicitaria para McDonald’s Latinoamérica que muestre una **bebida refrescante de mango y piña** en un vaso de McDonald’s con tapa transparente y popote. Elementos clave:
+- **Ambientación:** escena veraniega, con fondo brillante de colores cálidos (amarillo mango, naranja, dorado) y detalles tropicales como rodajas de piña, hojas de palma y cubos de hielo salpicando alrededor.  
+- **Estilo visual:** hiperrealista y vibrante, mostrando el líquido brillante y apetitoso, con gotas de condensación en el vaso para resaltar frescura.  
+- **Paleta de colores:** tonos amarillos, naranjas y verdes frescos, con acentos rojos de la marca McDonald’s (por ejemplo, el logo en el vaso).  
+- **Composición:** bebida en el centro, ligeramente en ángulo, con frutas frescas flotando o salpicando alrededor para transmitir dinamismo y energía.  
+- **Sensación:** refrescante, tropical y divertida, ideal para atraer a jóvenes y familias en verano.  
+No incluyas texto ni tipografía en la imagen.
 ```
 
+Después, solicita ideas para diseño de empaque con el siguiente prompt:
 
-> **CONSEJO:**  If you want to customize the visuals further, follow up with questions like: Can you provide a downloadable version of the word cloud? Can you generate a more vibrant color scheme for the pie chart? What software can I use to recreate these visuals manually?
+![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/Arcos103.png)  
 
-> **Resultado de Aprendizaje:** 
-After completing this task, you’ll be able to analyze qualitative data from reviews or survey feedback, extract themes and sentiment, and create visual summaries with Copilot Chat.
+**Ejemplo de prompt para empaque especial:** 
 
+```text
+Sugiere **ideas de diseño de empaque** para una edición especial de **Cajita Feliz** relacionada con el evento de octubre 2025 en Ciudad de México. La idea debe incluir:
+- **Diseño visual** (colores, ilustraciones, personajes).  
+- **Elemento interactivo** (p. ej., recortable, código QR con minijuego, sticker o parte coleccionable).  
+- **Experiencia educativa o lúdica** que conecte con el público infantil (4–10 años).  
+Ejemplo de tema: 
+1. **Exploradores de CDMX:** ilustraciones de monumentos icónicos (Ángel de la Independencia, Chapultepec) y juegos para descubrir datos curiosos.
+```
+
+![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/Arcos104.png)  
+
+
+> **CONSEJO:**  Pide variantes de la imagen con diferentes ángulos, iluminación o estilos (p. ej., más minimalista, más tropical).
+> Solicita archivos descargables o versiones optimizadas para redes sociales.
+> Para empaques, pide 3–5 conceptos con descripciones detalladas y un boceto visual si es posible.
+> Usa preguntas de seguimiento como:
+> “¿Puedes generar una versión con colores más vibrantes?”
+> “¿Cómo puedo adaptar este diseño para un display en punto de venta?”
+> “¿Puedes crear un mockup del empaque con el diseño propuesto?”
+
+> **Resultado de Aprendizaje:**
+> Al completar esta tarea, podrás:
+> Generar imágenes publicitarias hiperrealistas alineadas con la identidad de marca.
+> Explorar conceptos creativos para empaques con elementos interactivos y educativos.
+> Iterar sobre diseños solicitando variantes y adaptaciones para diferentes canales y formatos.
+> Integrar Copilot en procesos creativos para campañas y activaciones especiales.
 
 ### Tarea 5: Visualize Financial Data with Charts & Heat Maps  
 
