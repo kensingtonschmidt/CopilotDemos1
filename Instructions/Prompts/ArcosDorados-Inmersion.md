@@ -1,10 +1,11 @@
-
 ---
-task:
-    title: 'Arcos Dorados'
+demo:
+    title: 'Researcher and Analyst Demo'
 ---
 
-## Copilot Chat  
+[Back to Index](https://github.com/emontes07/Learning/)
+
+# Copilot Chat  
 
 Mejora la toma de decisiones recopilando información, realizando análisis en línea y redactando comunicaciones profesionales.  
 
