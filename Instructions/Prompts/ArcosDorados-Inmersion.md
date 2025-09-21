@@ -112,7 +112,7 @@ Usando **Copilot Chat**, ya sea en el navegador web [M365copilot.com](https://m3
 -   Obtener un plan de medios (mix por canal, formatos, rango de inversión, KPIs objetivo).
 -   Generar un roadmap 30-60-90 días y un brief creativo (mensajes, tono, piezas por canal, adaptaciones ES/pt-BR).
   
-    ![screenshot showing iterative follow-up questions.](../Prompts/Media/Task3.png)  
+    ![screenshot showing iterative follow-up questions.](../Prompts/Media/Arcos102.png)  
 
 **Ejemplo de indicación Sequence**:
 
