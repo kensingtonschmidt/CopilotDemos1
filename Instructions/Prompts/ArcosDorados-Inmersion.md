@@ -53,43 +53,46 @@ Resumen ejecutivo (≤100 palabras). Tabla comparativa de competidores. Recomend
 >   Generar resúmenes ejecutivos y tablas comparativas que faciliten la toma de decisiones estratégicas.
 >   Refinar prompts para obtener información más precisa y adaptada al contexto de McDonald’s en América Latina.
 
+**Prompt 2**:
+
+```text
+Transforme este informe en una presentacion de powerpoint con agenda, insights, recomendaciones y cytas y metodologia.
+```
+
+
 ---
 
-### Tarea 2: Summarize & Structure Meeting Notes  
+### Tarea 2: Resumir y convertir una reunión en decisiones y propietarios
 
-Usando **Copilot Chat**, transform raw meeting notes into a structured, professional summary. This will help you clearly communicate key decisions, action items, and responsibilities, ensuring alignment across teams.  
-
-If you don’t have internal meeting notes available, you can use a sample transcript or text file that contains general meeting content for practice.  
+Utiliza Copilot en Microsoft Teams para transformar una reunión en un resumen accionable con decisiones y propietarios. Esto te permitirá ahorrar tiempo y mantener a todos alineados.
 
 **Pasos**:
 
-- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
-- Select Copilot Chat
-- Upload your meeting notes transcript (text file)
+- Abre el chat de una reunión reciente en Microsoft Teams.
+- Haz clic en la pestaña Recapitulación.
+- Selecciona el botón Copilot para ver las opciones sugeridas.
+- Ingresa el siguiente prompt o personalízalo según tus necesidades:
   
     ![screenshot showing meeting notes recap prompt.](../Prompts/Media/Task2.png)  
 
 **Ejemplo de indicación** *(after uploading meeting notes)*:
 
 ```text
-Using my meeting notes, create a formal meeting notes structure and align the content with a meeting title that encapsulates the meeting goal or agenda. 
-
-The final output should format my notes with these sections:
-- Title  
-- Attendees  
-- Goal  
-- Topics to Discuss  
-- Product Details  
-- Tasks to be Completed  
-- Timelines and Responsibilities  
-- Resources  
-- Q&A and Next Pasos
+Resuma esta reunión en una tabla con las siguientes columnas: Temas Clave, Preguntas Pendientes y Tareas con sus Responsables.
 ```
 
-> **NOTE:** You can ask Copilot to adjust the level of detail (e.g., “make the summary more concise” or “expand on tasks to be completed”).
+> **CONSEJO:** Además de usar Copilot en la pestaña Recapitulación, también puedes:
+> Referenciar la reunión desde el tab Trabajo en Copilot Chat.
+> Pedir que la información se organice en tablas para mayor claridad.
+> Consultar el recap en Microsoft Stream o revisar las notas generadas por el facilitador.
+> Durante la reunión, invocar al facilitador o preguntar directamente a Copilot para capturar decisiones en tiempo real.
+> Esto te ayudará a obtener resúmenes más completos y accionables.
 
 > **Resultado de Aprendizaje:**
-After completing this task, you'll know how to turn unstructured notes into a professional, shareable meeting summary.
+> Al finalizar esta tarea, podrás:
+> Convertir notas y transcripciones en resúmenes claros y compartibles.
+> Identificar decisiones clave y asignar responsables de manera estructurada.
+> Aprovechar las capacidades de Copilot en Teams para mejorar la productividad y la colaboración en reuniones.
 
 ---
 
