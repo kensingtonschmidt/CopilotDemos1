@@ -48,7 +48,7 @@ Hyperlinks to each of the demos are listed below.
 
 #### [Arcos Dorados - Agente Analyst](https://emontes07.github.io/Learning/Instructions/Prompts/ArcosDoradosAnalyst.html)
 
-#### [Arcos Dorados - Copilot](https://github.com/emontes07/Learning/blob/main/Instructions/Prompts/ArcosDorados-Inmersion..html)
+#### [Arcos Dorados - Copilot](https://emontes07.github.io/Learning/Instructions/Prompts/ArcosDorados-Inmersion.html)
 
 
 
