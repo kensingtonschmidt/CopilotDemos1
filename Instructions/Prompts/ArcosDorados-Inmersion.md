@@ -3,9 +3,9 @@ demo:
     title: 'Arcos Dorados Copilot '
 ---
 
-[Back to Index](https://github.com/emontes07/Learning/)
+[Back to Index](https://emontes07.github.io/Learning/)
 
-# Copilot Chat  
+# Copilot  
 
 Mejora la toma de decisiones recopilando información, realizando análisis en línea y redactando comunicaciones profesionales.  
 
