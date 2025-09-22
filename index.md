@@ -51,7 +51,6 @@ Hyperlinks to each of the demos are listed below.
 #### [Arcos Dorados - Copilot](https://github.com/emontes07/Learning/blob/main/Instructions/Prompts/ArcosDorados-Inmersion..html)
 
 
-https://github.com/emontes07/Learning/blob/main/Instructions/Prompts/ArcosDorados-Inmersion.md
 
 
 
