@@ -35,25 +35,109 @@ To get the best results from Copilot, use the GCSE framework:
 
 ---
 
-## Task 1: Perform Online Research & Analysis
+## Core Exercises: Perform Online Research & Analysis
 
-Use Copilot Chat to analyze internal sources (emails, chats, SharePoint) and broaden your research with industry articles or external reports.
+### Researcher: Build a Marketing Plan
 
-**Steps:**
-- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
-- Select the Copilot agent
-- Ensure the "work mode" tab is selected in Copilot Chat:  
+> **IMPORTANT:** Steps 1–4 should be completed at the beginning of the training (as indicated by slide 5) to give Researcher enough time to complete the first prompt.
 
-    ![screenshot showing work mode tab.](../Prompts/Media/work-mode.png)  
+1. Open **Researcher** from the left navigation in the Copilot app.  
 
-**Sample Prompt:**
-Provide a comprehensive regional update for [Michigan] to assist in planning store operations. Include demographic trends, financial events, and weather impacts. Cite relevant data sources.
+    ![Screenshot showing Researcher selected in M365 Copilot menu.](../Prompts/Media/researcher.png)  
 
-> **TIP:** Use Copilot Chat for structured research and actionable insights.
+1. Enter the following prompt:
+
+    ```text
+    Create a marketing plan for our newest SprintCycle EV charger launch. 
+    Emphasize its AI-powered adaptive charging, modular design, and biometric access control. 
+    Make sure to include recommendations on the right digital channels and content strategy. 
+    Include insights from competitors and our past GTM campaigns.
+    ```
+
+1. Attach reference files using `/` (point to SharePoint/OneDrive):  
+
+   - **/SprintCycle Charger Product Launch.docx**  
+   - *(Optional)* **/Contoso - PedalPerks GTM Plan.docx**  
+
+1. Click **Submit**.  
+
+Researcher will:  
+
+- Combine insights from both internal files and the web.  
+- Structure a marketing plan with recommendations on channels and content strategy.  
+- Cite sources so you can validate its work.  
+
+> **Note:** Researcher shows its reasoning path (“chain of thought”), and can call other agents when needed.  
+
+### Analyst: Customer Segmentation & Financial Modeling
+
+1. Open **Analyst** from the left navigation in the Copilot app.  
+
+    ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/Analyst.png)  
+
+1. Enter the following prompt:
+
+    ```text
+    Find the right customer segment and demographic to sell our new EV charger, 
+    include a graph to show how this will maximize our market opportunity.
+    ```
+
+1. Attach the file using **+**:  
+
+   - **BoulderEV ebike Internal Market Forecast.xlsx**  
+
+    ![Screenshot showing attach files in Analyst.](../Prompts/Media/Analyst-attach-files.png)
+
+
+1. Click **Submit**.  
+
+Analyst will:  
+
+- Analyze the dataset.  
+- Identify high-value customer segments.  
+- Provide visualizations to back up recommendations.  
+
+### Additional Analyst Scenarios
+
+You can run these additional prompts for variety. Each follows the same pattern: **Prompt → Attach file → Submit → Review results.**
+
+- **Financial Projection**  
+
+    ```text
+    Build a 5-year financial projection from this data along with a graph to view revenue growth over time.
+    ```  
+
+    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
+
+- **Sales Performance**  
+
+    ```text
+    Analyze sales volume across locations to identify our highest and lowest performing stores, 
+    along with a visualization of the best-selling products.
+    ```  
+
+    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
+
+- **Campaign Performance**  
+
+    ```text
+    Analyze and visualize how the marketing campaign performed across each target segment 
+    and help me decide where to re-target our next campaign.
+    ```  
+
+    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
+
+## Key Takeaway
+
+- **Researcher**: accelerates strategy and planning with high-quality research.  
+- **Analyst**: delivers data-driven insights with advanced analysis and visualizations.  
+
+Together, Researcher and Analyst shorten the path from **question to insight**—turning weeks of effort into minutes.  
 
 ---
 
-## Task 2: Summarize & Structure Meeting Notes
+## Choose‑One Challenges
+## Challenges 1: Summarize & Structure Meeting Notes
 
 Transform raw meeting notes into a structured summary with Copilot Chat.
 
@@ -66,7 +150,7 @@ Using my meeting notes, create a formal summary with sections: Title, Attendees,
 
 ---
 
-## Task 3: Refine Results with Follow-Up Questions
+## Challenges 2: Refine Results with Follow-Up Questions
 
 Enhance your results by asking follow-up questions to Copilot Chat.
 
@@ -81,7 +165,7 @@ How can I prioritize these ideas effectively?
 
 ---
 
-## Task 4: Summarize and Recap Emails in Outlook
+## Challenges 3: Summarize and Recap Emails in Outlook
 
 Use Copilot Chat in Outlook to extract key requests and deadlines from email threads.
 
@@ -96,7 +180,7 @@ List dates and topics in a table.
 
 ---
 
-## Task 5: Analyze Reviews & Visualize Sentiments
+## Challenges 4: Analyze Reviews & Visualize Sentiments
 
 Transform survey or review data into insights and visuals.
 
@@ -107,7 +191,7 @@ Analyze the “Reviews” column in the attached CSV. Provide sentiment analysis
 
 ---
 
-## Task 6: Visualize Financial Data with Charts & Heat Maps
+## Challenges 5: Visualize Financial Data with Charts & Heat Maps
 
 Create charts and heat maps from sales data.
 
