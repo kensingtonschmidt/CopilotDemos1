@@ -1,6 +1,6 @@
 ---
 task:
-    title: 'Prompathon Caseys'
+    title: 'Prompt-a-Thon Caseys'
 ---
 
 ## Copilot Chat  
