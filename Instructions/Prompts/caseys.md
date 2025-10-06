@@ -210,7 +210,7 @@ Transform survey or review data into insights and visuals.
 
 Create charts and heat maps from sales data.
 
-**Sample Prompts:** 123
+**Sample Prompts:**
 ```text
 List the visual charts you can create from the sales data and then create those charts.
 ```
