@@ -74,7 +74,7 @@ Researcher will:
 
 1. Open **Analyst** from the left navigation in the Copilot app.  
 
-    ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/analyst.png)  
+    ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/Analyst.pngg)  
 
 1. Enter the following prompt:
 
