@@ -87,7 +87,8 @@ Researcher will:
 
    - **BoulderEV ebike Internal Market Forecast.xlsx**  
 
-    ![Screenshot showing attach files in Analyst.](../Prompts/Media/Analyst-Attach-Files.png)  
+    ![Screenshot showing attach files in Analyst.](../Prompts/Media/Analyst-attach-files.png)
+
 
 1. Click **Submit**.  
 
