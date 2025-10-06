@@ -211,21 +211,21 @@ Transform survey or review data into insights and visuals.
 Create charts and heat maps from sales data.
 
 **Sample Prompts:**
-    ```text
-    List the visual charts you can create from the sales data and then create those charts.
-    ```
-    ```text
-    Create a Monthly Revenue Trend chart.
-    ```
-    ```text
-    Create a "Units Sold Distribution by Sales Channel" pie chart.
-    ```
-    ```text
-    Create a "Total Revenue by Product" chart.
-    ```
-    ```text
-    Create a heat map of the most purchased products.
-    ```
+```text
+List the visual charts you can create from the sales data and then create those charts.
+```
+```text
+Create a Monthly Revenue Trend chart.
+```
+```text
+Create a "Units Sold Distribution by Sales Channel" pie chart.
+```
+```text
+Create a "Total Revenue by Product" chart.
+```
+```text
+Create a heat map of the most purchased products.
+```
 
 > **TIP:** Transform numerical data into visual formats for insights.
 
