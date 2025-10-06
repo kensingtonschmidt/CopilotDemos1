@@ -49,7 +49,7 @@ Use Copilot Chat to analyze internal sources (emails, chats, SharePoint) and bro
 **Sample Prompt:**
 Provide a comprehensive regional update for [Michigan] to assist in planning store operations. Include demographic trends, financial events, and weather impacts. Cite relevant data sources.
 
-**TIP:** Use Copilot Chat for structured research and actionable insights.
+> **TIP:** Use Copilot Chat for structured research and actionable insights.
 
 ---
 
@@ -62,7 +62,7 @@ Transform raw meeting notes into a structured summary with Copilot Chat.
 - Use a prompt like:
 Using my meeting notes, create a formal summary with sections: Title, Attendees, Goal, Topics, Product Details, Tasks, Timelines, Resources, Q&A, Next Steps.
 
-**TIP:** Turn unstructured notes into professional, shareable summaries.
+> **TIP:** Turn unstructured notes into professional, shareable summaries.
 
 ---
 
@@ -75,9 +75,9 @@ Identify trends in consumer preferences for grocery markets and develop new prod
 Structure ideas in a table with target groups and advertising campaigns.
 How can I prioritize these ideas effectively?
 
-**TIP:** Use clarifying prompts to expand, prioritize, or structure results.
+> **TIP:** Use clarifying prompts to expand, prioritize, or structure results.
 
-**TIP:** Use iterative prompts for richer insights and recommendations.
+> **TIP:** Use iterative prompts for richer insights and recommendations.
 
 ---
 
@@ -92,7 +92,7 @@ Recap my email, show me:
 3. What is being asked directly of me
 List dates and topics in a table.
 
-**TIP:** Extract key actions and deadlines from emails to stay organized.
+> **TIP:** Extract key actions and deadlines from emails to stay organized.
 
 ---
 
@@ -103,7 +103,7 @@ Transform survey or review data into insights and visuals.
 **Sample Prompt:**
 Analyze the “Reviews” column in the attached CSV. Provide sentiment analysis, top themes, and create a pie chart and word cloud.
 
-**TIP:** Analyze qualitative data and create visual summaries.
+> **TIP:** Analyze qualitative data and create visual summaries.
 
 ---
 
@@ -118,7 +118,7 @@ Create a "Units Sold Distribution by Sales Channel" pie chart.
 Create a "Total Revenue by Product" chart.
 Create a heat map of the most purchased products.
 
-**TIP:** Transform numerical data into visual formats for insights.
+> **TIP:** Transform numerical data into visual formats for insights.
 
 ---
 
@@ -130,7 +130,7 @@ Choose a scenario to apply your prompting skills:
 - **Scenario 2:** Team performance—build a framework for tracking KPIs and supporting development.
 - **Scenario 3:** Select your own business challenge and build an action plan.
 
-**TIP:** For inspiration, explore the Scenario Library: https://adoption.microsoft.com/en-us/scenario-library/
+> **TIP:** For inspiration, explore the Scenario Library: https://adoption.microsoft.com/en-us/scenario-library/
 
 ---
 
