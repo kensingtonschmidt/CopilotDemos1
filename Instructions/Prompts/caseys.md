@@ -160,15 +160,15 @@ Transform raw meeting notes into a structured summary with Copilot Chat.
 Enhance your results by asking follow-up questions to Copilot Chat.
 
 **Sample Prompt Sequence:**
-    ```text
-    Identify trends in consumer preferences for grocery markets and develop new product ideas.
-    ```  
-    ```text
-    Structure ideas in a table with target groups and advertising campaigns.
-    ```  
-    ```text
-    How can I prioritize these ideas effectively?
-    ```  
+```text
+Identify trends in consumer preferences for grocery markets and develop new product ideas.
+```   
+```text
+ Structure ideas in a table with target groups and advertising campaigns.
+```  
+```text
+How can I prioritize these ideas effectively?
+```  
 
 > **TIP:** Use clarifying prompts to expand, prioritize, or structure results.
 
@@ -181,13 +181,13 @@ Enhance your results by asking follow-up questions to Copilot Chat.
 Use Copilot Chat in Outlook to extract key requests and deadlines from email threads.
 
 **Sample Prompt:**
-    ```text
+```text
     Recap my email, show me:
     1. What is being asked
     2. What is being asked of the team
     3. What is being asked directly of me
     List dates and topics in a table.
-    ```
+```
 
 > **TIP:** Extract key actions and deadlines from emails to stay organized.
 
@@ -198,9 +198,9 @@ Use Copilot Chat in Outlook to extract key requests and deadlines from email thr
 Transform survey or review data into insights and visuals.
 
 **Sample Prompt:**
-    ```text
-    Analyze the “Reviews” column in the attached CSV. Provide sentiment analysis, top themes, and create a pie chart and word cloud.
-    ```
+ ```text
+ Analyze the “Reviews” column in the attached CSV. Provide sentiment analysis, top themes, and create a pie chart and word cloud.
+ ```
 
 > **TIP:** Analyze qualitative data and create visual summaries.
 
