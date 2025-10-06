@@ -3,7 +3,7 @@ task:
     title: 'Prompt-a-Thon Caseys'
 ---
 
-# Prompt-a-Thon: Casey’s Edition
+# **Prompt-a-Thon: Casey’s Edition**
 
 Welcome to the Prompt-a-Thon! This interactive session is designed to help you unlock the full potential of Microsoft Copilot by mastering the art and science of effective prompting. You’ll learn practical techniques to create clear, impactful prompts that drive real business value, save time, and boost productivity. Expect a hands-on, collaborative experience where you’ll experiment, iterate, and discover how Copilot can streamline your workflows and empower your team to achieve more.
 
