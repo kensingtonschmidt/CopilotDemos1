@@ -24,7 +24,9 @@ You’ll perform several tasks to build Copilot skills:
 
 ## Prompting Framework: GCSE
 
-To get the best results from Copilot, use the GCSE framework:
+To get the best results from Copilot, use the GCSE framework: 
+
+![Effective Prompt.](../Prompts/Media/Prompt%2001.png)  
 
 - **Goal**: What do you want Copilot to do?
 - **Context**: Why do you need it? Who is involved?
