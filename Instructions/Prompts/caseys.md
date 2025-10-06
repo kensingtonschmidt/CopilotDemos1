@@ -3,9 +3,9 @@ task:
     title: 'Prompt-a-Thon Caseys'
 ---
 
-## Copilot Chat  
+## Prompt-a-Thon Casey
 
-Enhance decision-making by gathering insights, conducting online analysis, and drafting professional communications.  
+Welcome to our Prompathon! This interactive session is designed to help you unlock the full potential of Microsoft Copilot by mastering the art of effective prompting. You’ll learn practical techniques to create clear, impactful prompts that drive real business value, save time, and boost productivity. Expect a hands-on, collaborative experience where you’ll experiment, iterate, and discover how Copilot can streamline your workflows and empower your team to achieve more.
 
 You'll perform three tasks:  
 
