@@ -136,7 +136,7 @@ Together, Researcher and Analyst shorten the path from **question to insight**�
 
 ---
 
-# Choose‑One Practice
+# **Choose‑One Practice**
 
 Before diving into more advanced challenges, this quick practice is designed to help you build a strong foundation in prompting. You’ll get hands-on experience with essential techniques and Copilot features, so you can confidently apply what you learn in real business scenarios later. Use this opportunity to experiment, ask questions, and get comfortable with the basics before moving on.
 
@@ -217,7 +217,7 @@ Create a heat map of the most purchased products.
 
 ---
 
-# Scenario Options
+# **Scenario Options**
 
 This next section is designed to help you practice and deepen your prompting skills. You can choose to work with Copilot Agents—such as Analyst or Researcher—or use the Copilot Agent to address a real business process. We’ve provided a list of suggested scenarios to inspire you, but if you have a specific challenge or workflow in mind, we highly encourage you to use your own. The goal is to apply what you’ve learned in a way that’s most relevant to your role and objectives.
 
