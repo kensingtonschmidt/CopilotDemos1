@@ -40,8 +40,11 @@ To get the best results from Copilot, use the GCSE framework:
 Use Copilot Chat to analyze internal sources (emails, chats, SharePoint) and broaden your research with industry articles or external reports.
 
 **Steps:**
-- Open https://m365copilot.com/
+- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
 - Select the Copilot agent
+- Ensure the "work mode" tab is selected in Copilot Chat:  
+
+    ![screenshot showing work mode tab.](../Prompts/Media/work-mode.png)  
 
 **Sample Prompt:**
 Provide a comprehensive regional update for [Michigan] to assist in planning store operations. Include demographic trends, financial events, and weather impacts. Cite relevant data sources.
