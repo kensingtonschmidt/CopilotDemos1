@@ -3,386 +3,146 @@ task:
     title: 'Prompt-a-Thon Caseys'
 ---
 
-## Prompt-a-Thon Casey
+# Prompt-a-Thon: Casey’s Edition
 
-Welcome to our Prompathon! This interactive session is designed to help you unlock the full potential of Microsoft Copilot by mastering the art of effective prompting. You’ll learn practical techniques to create clear, impactful prompts that drive real business value, save time, and boost productivity. Expect a hands-on, collaborative experience where you’ll experiment, iterate, and discover how Copilot can streamline your workflows and empower your team to achieve more.
-
-You'll perform three tasks:  
-
-- Research information using **Copilot Chat** (and optionally try GPT-5 for comparison).  
-- Conduct an analysis using **Copilot Chat**.  
-- Draft a professional communication using **Copilot in Word**.  
-
-> **NOTE:** Sample prompts are provided to help you get started. Feel free to personalize them to suit your needs—be creative and explore! If Copilot Chat doesn’t deliver the result you want, refine your prompt and try again. Enjoy the process and have fun experimenting!  
+Welcome to the Prompt-a-Thon! This interactive session is designed to help you unlock the full potential of Microsoft Copilot by mastering the art and science of effective prompting. You’ll learn practical techniques to create clear, impactful prompts that drive real business value, save time, and boost productivity. Expect a hands-on, collaborative experience where you’ll experiment, iterate, and discover how Copilot can streamline your workflows and empower your team to achieve more.
 
 ---
 
-### Task 1: Perform Online Research & Analysis  
+## What You’ll Do
 
-Using **Copilot Chat**, gather insights on relevant topics by analyzing internal sources such as emails, chat history, and SharePoint documentation. Then, broaden your research with industry articles, external reports, or relevant websites.  
+You’ll perform several tasks to build Copilot skills:
 
-If you don't have a specific topic to research, focus on gathering insights from publicly available sources on a topic of your choice, such as **technology trends, market insights, customer experience, or compliance requirements.**  
-
-**Steps**:
-
-- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
-- Select the Copilot agent:
-  
-    ![screenshot showing work mode tab.](../Prompts/Media/Task1.png)  
-
-**Sample Prompt** *(if no internal topic is available)*:
-
-```text
-Provide a comprehensive regional update for [Michigan] to assist in planning store operations. 
-The update should include the latest news and insights on the following aspects:
-
-Demographic Trends:
-- Population growth or decline
-- Age distribution
-- Income levels
-- Consumer behavior patterns
-
-Financial Events:
-- Economic indicators (e.g., employment rates, inflation, GDP growth)
-- Major business developments (e.g., new businesses opening, closures, expansions)
-- Changes in consumer spending habits
-
-Weather Events:
-- Current weather conditions and forecasts
-- Recent and upcoming severe weather events (e.g., storms, hurricanes, heatwaves)
-- Impact of weather on local infrastructure and transportation
-
-Please provide detailed information and relevant data sources for each aspect to support strategic decision-making for store operations.
-```
-
-> **TIP:**  If the first response is too broad or too shallow, refine your prompt by adding more context (e.g., specific region, industry, or time frame).
-
-> **Learning Outcome:**
-After completing this task, you'll be able to use Copilot Chat to perform structured online research and gather actionable insights.
+1. **Research & Analysis**: Use Copilot Chat to gather insights from internal and external sources.
+2. **Summarize & Structure**: Transform raw meeting notes into professional summaries.
+3. **Refine with Follow-Up**: Practice enhancing results by asking iterative questions.
+4. **Recap Emails**: Use Copilot in Outlook to extract key actions from email threads.
+5. **Analyze Reviews & Visualize Sentiments**: Turn survey or review data into actionable insights and visuals.
+6. **Visualize Financial Data**: Create charts and heat maps from sales data.
 
 ---
 
-### Task 2: Summarize & Structure Meeting Notes  
+## Prompting Framework: GCSE
 
-Using **Copilot Chat**, transform raw meeting notes into a structured, professional summary. This will help you clearly communicate key decisions, action items, and responsibilities, ensuring alignment across teams.  
+To get the best results from Copilot, use the GCSE framework:
 
-If you don’t have internal meeting notes available, you can use a sample transcript or text file that contains general meeting content for practice.  
+- **Goal**: What do you want Copilot to do?
+- **Context**: Why do you need it? Who is involved?
+- **Source**: What information or samples should Copilot use?
+- **Expectations**: How should Copilot respond? (Format, tone, detail)
 
-**Steps**:
-
-- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
-- Select Copilot Chat
-- Upload your meeting notes transcript (text file)
-  
-    ![screenshot showing meeting notes recap prompt.](../Prompts/Media/Task2.png)  
-
-**Sample Prompt** *(after uploading meeting notes)*:
-
-```text
-Using my meeting notes, create a formal meeting notes structure and align the content with a meeting title that encapsulates the meeting goal or agenda. 
-
-The final output should format my notes with these sections:
-- Title  
-- Attendees  
-- Goal  
-- Topics to Discuss  
-- Product Details  
-- Tasks to be Completed  
-- Timelines and Responsibilities  
-- Resources  
-- Q&A and Next Steps
-```
-
-> **NOTE:** You can ask Copilot to adjust the level of detail (e.g., “make the summary more concise” or “expand on tasks to be completed”).
-
-> **Learning Outcome:**
-After completing this task, you'll know how to turn unstructured notes into a professional, shareable meeting summary.
+**TIP:** If your prompt is too short, you’ll get generic results. If it’s too long, Copilot might miss instructions. Aim for clarity and specificity.
 
 ---
 
-### Task 3: Refine Results with Follow-Up Questions  
+## Task 1: Perform Online Research & Analysis
 
-Using **Copilot Chat**, practice enhancing your results by asking follow-up questions. This task shows how you can go beyond the first answer, structure the data, and get actionable insights for decision-making.  
+Use Copilot Chat to analyze internal sources (emails, chats, SharePoint) and broaden your research with industry articles or external reports.
 
-**Steps**:
+**Steps:**
+- Open https://m365copilot.com/
+- Select the Copilot agent
 
-- Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)
-- Select Copilot Chat
-- Enter the following series of prompts to progressively refine your research results:
-  
-    ![screenshot showing iterative follow-up questions.](../Prompts/Media/Task3.png)  
+**Sample Prompt:**
+Provide a comprehensive regional update for [Michigan] to assist in planning store operations. Include demographic trends, financial events, and weather impacts. Cite relevant data sources.
 
-**Sample Prompt Sequence**:
+**TIP:** Use Copilot Chat for structured research and actionable insights.
 
-```text
-Please identify trends in consumer preferences for grocery markets and use these insights to develop ideas for new products for our grocery market chain.
-```
+---
 
-```text
-Please structure those ideas in a table format and for each idea add a column for the potential target groups and ideas for an advertising campaign.
-```
+## Task 2: Summarize & Structure Meeting Notes
 
-```text
+Transform raw meeting notes into a structured summary with Copilot Chat.
+
+**Steps:**
+- Upload your meeting notes transcript
+- Use a prompt like:
+Using my meeting notes, create a formal summary with sections: Title, Attendees, Goal, Topics, Product Details, Tasks, Timelines, Resources, Q&A, Next Steps.
+
+**TIP:** Turn unstructured notes into professional, shareable summaries.
+
+---
+
+## Task 3: Refine Results with Follow-Up Questions
+
+Enhance your results by asking follow-up questions to Copilot Chat.
+
+**Sample Prompt Sequence:**
+Identify trends in consumer preferences for grocery markets and develop new product ideas.
+Structure ideas in a table with target groups and advertising campaigns.
 How can I prioritize these ideas effectively?
-```
 
-> **TIP:**  Follow-up questions help refine and upscale your results. Try clarifying prompts like: “Expand the table with additional product ideas based on recent market trends,” “Which ideas might have the highest ROI in the next 12 months?,” or “Create a prioritization matrix ranking these ideas by market demand, profitability, and alignment with brand values.”
+**TIP:** Use clarifying prompts to expand, prioritize, or structure results.
 
-> **Learning Outcome:**
-After completing this task, you’ll understand how to use follow-up prompts to get richer insights and actionable recommendations from Copilot Chat.
+**TIP:** Use iterative prompts for richer insights and recommendations.
 
+---
 
-### Task 4: Summarize and Recap Emails in Outlook  
+## Task 4: Summarize and Recap Emails in Outlook
 
-Use **Copilot Chat** in Outlook to quickly understand the content of an email and extract key actions. This task will help you summarize a long email thread and clearly identify what is being requested — both from you and from your team.  
+Use Copilot Chat in Outlook to extract key requests and deadlines from email threads.
 
-This task is perfect for staying on top of priorities, deadlines, and next steps without manually scanning through each line of an email.  
-
-**Steps**:  
-
-1. Open [Outlook on the web](https://outlook.office.com/) in your browser.  
-2. Select an email thread that contains multiple details, requests, or deadlines.  
-3. Click the **Copilot** icon on the upper-right corner of the Outlook window (see screenshot below).  
-4. In the Copilot Chat panel that appears, enter the following prompt:
-
-![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/TaskEmail.png)  
-
-
-**Sample Prompt**:  
-
-```text
+**Sample Prompt:**
 Recap my email, show me:
 1. What is being asked
 2. What is being asked of the team
 3. What is being asked directly of me
+List dates and topics in a table.
 
-If there are any dates or topics mentioned, put those in a table.
-```
+**TIP:** Extract key actions and deadlines from emails to stay organized.
 
-> **💡 Tip:**
-If your email thread is very long, try adding “summarize in 3 bullet points” or “summarize in less than 100 words” to the prompt for a quicker, more focused summary.
+---
 
-> **🎯 Learning Outcome:**
-You will learn how to use Copilot Chat in Outlook to extract key requests, action items, and deadlines from a single email or an entire thread, helping you and your team stay organized and responsive.
+## Task 5: Analyze Reviews & Visualize Sentiments
 
+Transform survey or review data into insights and visuals.
 
-### Task 5: Analyze Reviews & Visualize Sentiments  
+**Sample Prompt:**
+Analyze the “Reviews” column in the attached CSV. Provide sentiment analysis, top themes, and create a pie chart and word cloud.
 
-Use **Copilot Chat** to transform raw survey or review data into actionable insights with charts and dashboards. You'll use a `.csv` file exported from Excel and ask Copilot to identify sentiment, uncover key themes, and generate visuals like a pie chart and word cloud.  
+**TIP:** Analyze qualitative data and create visual summaries.
 
-This task is perfect for analyzing customer feedback or product reviews and creating compelling visuals for presentations or reports.  
+---
 
-**Steps**:  
+## Task 6: Visualize Financial Data with Charts & Heat Maps
 
-1. Save the following Excel notebook (right click "Save Link as").
-- [Charger Reviews.csv](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Charger%20Reviews.csv)
-3. Save the selected worksheet as a `.csv` file.  
-4. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
-5. Select Copilot Chat and upload your `.csv` file  
-6. Use the following sample prompt to analyze and visualize the data.  
+Create charts and heat maps from sales data.
 
-![screenshot showing sentiment analysis pie chart and word cloud](../Prompts/Media/Task4.png)  
-
-**Sample Prompt** *(after uploading your CSV file)*:
-
-```text
-For each review, analyze the whole sentence and provide a sentiment analysis.  
-List the top 10 sentiments with counts based on reviews using the attached file. Analyze the column “Reviews” located in column C.
-
-Then, list the sentiment with counts on reviews and the top 10 themes in the reviews.  
-Create a pie graph with Easter-themed colors based on the sentiment count and then create a word cloud based on themes and mentions.
-```
-
-
-> **TIP:**  If you want to customize the visuals further, follow up with questions like: Can you provide a downloadable version of the word cloud? Can you generate a more vibrant color scheme for the pie chart? What software can I use to recreate these visuals manually?
-
-> **Learning Outcome:** 
-After completing this task, you’ll be able to analyze qualitative data from reviews or survey feedback, extract themes and sentiment, and create visual summaries with Copilot Chat.
-
-
-### Task 6: Visualize Financial Data with Charts & Heat Maps  
-
-Use **Copilot Chat** to create a variety of data visualizations from Excel data, such as **monthly trends**, **product sales**, and **revenue distribution**. In this task, you'll explore the charting capabilities of Copilot with structured sales data to uncover key insights.  
-
-**Steps**:  
-
-1. Open your Excel workbook and select one worksheet (only one tab at a time can be used).
-
-- [EV Charger Demo.csv](https://github.com/emontes07/Learning/blob/main/ResourceFiles/EV%20Charger%20Demo%20(Original).csv)
-   
-3. Save the selected worksheet as a `.csv` file.  
-4. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
-5. Select Copilot Chat and upload your `.csv` file  
-6. Use the following sample prompt to analyze and visualize the data.  
-
-![screenshot showing product, revenue, and sales channel chart visualizations](../Prompts/Media/Task5.png)  
-
-**Sample Prompt** *(after uploading your CSV file)*:
-
-```text
-List the visual charts you can create from the sales data and then create those charts.  
-```
-```text
-Create a Monthly Revenue Trend chart.  
-```
-```text
+**Sample Prompts:**
+List the visual charts you can create from the sales data and then create those charts.
+Create a Monthly Revenue Trend chart.
 Create a "Units Sold Distribution by Sales Channel" pie chart.
-```
-```text
-Create a "Total Revenue by Product" chart.  
-```
-```text
-Create a heat map of the most purchased products without purchase dates.
-```
+Create a "Total Revenue by Product" chart.
+Create a heat map of the most purchased products.
 
-> **TIP:** 
-Once the visuals are generated, try these follow-up prompts to enhance your analysis: Can you add trendlines or highlight seasonal peaks in the revenue chart? What does the heat map reveal about customer preferences? Group sales by category and create a stacked bar chart.Export these charts as image files I can use in PowerPoint.
+**TIP:** Transform numerical data into visual formats for insights.
 
-> **Learning Outcome:**
-After completing this task, you’ll be able to transform numerical sales data into various visual formats using Copilot Chat—including line charts, pie charts, bar charts, and heat maps—empowering you to extract and present insights for better decision-making.
+---
 
+## Scenario Options
 
-### Task 7: Perform Calculations from Excel Data  
+Choose a scenario to apply your prompting skills:
 
-Use **Copilot Chat** to perform calculations directly from Excel data—without needing formulas or pivot tables. In this task, you’ll calculate the **total revenue** and the **average sales revenue** from a provided spreadsheet and explore how to break down those results further.
+- **Scenario 1:** Organizational realignment—create a 60-day plan for a new leader.
+- **Scenario 2:** Team performance—build a framework for tracking KPIs and supporting development.
+- **Scenario 3:** Select your own business challenge and build an action plan.
 
-This is a great use case for operations, finance, or business teams looking for fast insights without writing code or complex formulas.
+**TIP:** For inspiration, explore the Scenario Library: https://adoption.microsoft.com/en-us/scenario-library/
 
-**Steps**:  
+---
 
-1. Save the following Excel workbook (right click "Save Link as").  
-   - [EV Charger Demo with Rev + Sales.xlsx](https://github.com/emontes07/Learning/blob/main/ResourceFiles/EV%20Charger%20Demo%20with%20Rev%20%2B%20Sales%20CSV.csv)
-2. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
-3. Select Copilot Chat and upload your `.xlsx` file  
-4. Use the following sample prompt to analyze and calculate values from the data  
+## Prompting Best Practices
 
-![screenshot showing Excel table and Copilot revenue calculation](../Prompts/Media/Task6.png)  
+- Break down complex tasks into manageable steps.
+- Use persona-based prompting for specialized guidance.
+- Ask Copilot what information it needs for success.
+- Take a holistic approach—consider entire processes, not just tasks.
+- Be curious and experiment with prompt structures.
+- Test and refine your prompts for better results.
 
-**Sample Prompt** *(after uploading your Excel file)*:
+---
 
-```text
-Calculate the total revenue and the average sales revenue.
-```
+## Get Started
 
-> **TIP:** 
-Once the results are shown, try these follow-up prompts to dig deeper:
-> Can you break down the revenue sources by sales channel or product?
-> What are the monthly or quarterly sales trends?
-> Can you calculate revenue growth over time?
+Partner with us to build a business case, explore pre-built agents, and keep up with Copilot news on WorkLab: https://www.microsoft.com/en-us/worklab/ai-at-work/
 
-> **Learning Outcome:**
-After completing this task, you’ll be able to use Copilot Chat to quickly calculate financial metrics like total and average revenue, and follow up with deeper questions to uncover trends or performance breakdowns in your Excel data.
-
-
-### Task 8: Convert Files to Another Format  
-
-Use **Copilot Chat** to convert files between formats quickly and easily. This task helps you explore supported conversion types—perfect when you need to standardize formats or extract data for analysis.  
-
-**Steps**:  
-
-1. Upload the file you want to convert to **Copilot Chat**.  
-2. Ask Copilot Chat to convert it into your desired format.  
-
-![screenshot showing a PDF converted to Word](../Prompts/Media/Task7.png)
-
-**Sample Prompt**:  
-
-```text
-Convert this PDF to a Word document.
-```
-You can also request Copilot to perform other conversions such the one mentioned in the image.
-
-
-> **TIP:** 
-Ask follow-up questions like:
-> Can you extract tables from this PDF into Excel?
-> Save this as a downloadable file.
-> Combine multiple PDFs into one document.”
-
-> **Learning Outcome:**
-After completing this task, you’ll know how to use Copilot Chat to convert files into various formats, making it easier to prepare data, create editable documents, and streamline workflows.
-
-
-### Task 9 (FYI): Create or Replace an Excel Macro with Copilot
-
-This advanced, **FYI-only** task shows two ways to handle VBA-style calculations using **Copilot Chat**—either by asking Copilot to do the equivalent calculation from an uploaded spreadsheet, or by having Copilot help author/adjust the VBA macro.  
-> **Heads-up:** VBA macros don’t run in **Excel for the web**; Copilot Chat can still perform the same calculations from your uploaded workbook.
-
-**How to use it:**  
-
-1. Open a new browser tab and go to [M365copilot.com](https://m365copilot.com/).  
-2. Select **Copilot Chat**.  
-3. Use one of the options below.
-
-![screenshot showing macro alternatives with Copilot](../Prompts/Media/Task8.png)
-
-**Option 1 – Have Copilot perform the calculation from your file**  
-
-Upload your `Revenue.xlsx` (or similar) and run:
-
-```text
-Please create an Excel Macro script that performs the following task:
-Calculate the total and average revenue from the "Sales by Product" worksheet.
-
-For Excel web users, execute the equivalent calculation now on the uploaded file and report:
-- Total Revenue
-- Average Revenue
-```
-
-**Option 2 – Ask Copilot to draft/modify the VBA macro**
-
-```text
-Write a VBA macro that calculates the total and average revenue from the
-"Sales by Product" worksheet and displays the results in a message box.
-
-Now modify the script so it writes:
-- Total Revenue to cell J4
-- Average Revenue to cell J5
-and formats both as currency.
-```
-
-> **TIP:**
-> Explain what this macro does line by line.
-> Convert this macro to a Copilot prompt that performs the same calculation without VBA.
-> Add error handling if the sheet or column is missing.”
-
-> **Learning Outcome:**
-You’ll understand two practical paths to handle macro-style work: (1) let Copilot Chat run the calculation directly from your uploaded workbook, or (2) have Copilot author or refactor the VBA macro for desktop Excel, including writing results to specific cells.
-
-
-### Task 10: Create a Job Description & Evaluate a Candidate  
-
-Use **Copilot Chat** to create a professional job description based on web research, define KPIs, and then analyze a candidate’s resume for fit against the role. This task is ideal for HR teams, hiring managers, and recruiters who want to streamline job creation and resume evaluation.
-
-**Steps**:  
-
-1. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
-2. Select **Copilot Chat**.  
-3. Start by asking Copilot to research and build a job profile.  
-4. Then, upload a candidate’s resume (in `.docx` format) and ask Copilot to perform a gap analysis.
-
-![screenshot showing job description workflow and resume evaluation](../Prompts/Media/Task9.png)
-
-**Sample Prompt** *(Step 1 – Build the job description)*:
-
-```text
-In a table format perform a web analysis for a "data analyst" role for finance to include:
-- Industry job titles  
-- Basic definition  
-- Key attributes  
-- Ideal average years of education  
-- Salary range  
-- A list of 10 questions and answers to ask this role in an interview  
-
-Then provide some KPIs for the role.  
-
-Finally, based on the above information, write a job description with a competitive salary based on years of experience. This job description will serve as the guide for our hiring board.
-```
-
-> **TIP:**
-> Rank the candidate from 1–10 based on fit for the role.
-> Identify skill gaps and recommend a training plan if they were hired.
-> Generate a scorecard template the hiring board can use for all candidates.
-
-> **Learning Outcome:**
-After completing this task, you’ll be able to create a well-structured job description, identify KPIs for a role, and perform a resume gap analysis with Copilot Chat—streamlining your hiring process and improving candidate evaluation consistency.
