@@ -212,7 +212,7 @@ Create charts and heat maps from sales data.
 
 **Sample Prompts:**
 ```text
-List the visual charts you can create from the sales data and then create those charts.
+ List the visual charts you can create from the sales data and then create those charts.
 ```
 ```text
 Create a Monthly Revenue Trend chart.
