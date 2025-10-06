@@ -147,7 +147,9 @@ Transform raw meeting notes into a structured summary with Copilot Chat.
 **Steps:**
 - Upload your meeting notes transcript
 - Use a prompt like:
-Using my meeting notes, create a formal summary with sections: Title, Attendees, Goal, Topics, Product Details, Tasks, Timelines, Resources, Q&A, Next Steps.
+   ```text
+    Using my meeting notes, create a formal summary with sections: Title, Attendees, Goal, Topics, Product Details, Tasks, Timelines, Resources, Q&A,         Next Steps.
+   ```  
 
 > **TIP:** Turn unstructured notes into professional, shareable summaries.
 
