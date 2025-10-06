@@ -160,11 +160,11 @@ Transform raw meeting notes into a structured summary with Copilot Chat.
 Enhance your results by asking follow-up questions to Copilot Chat.
 
 **Sample Prompt Sequence:**
-```text
-Identify trends in consumer preferences for grocery markets and develop new product ideas.
-Structure ideas in a table with target groups and advertising campaigns.
-How can I prioritize these ideas effectively?
-```  
+    ```text
+    Identify trends in consumer preferences for grocery markets and develop new product ideas.
+    Structure ideas in a table with target groups and advertising campaigns.
+    How can I prioritize these ideas effectively?
+    ```  
 
 > **TIP:** Use clarifying prompts to expand, prioritize, or structure results.
 
@@ -177,13 +177,13 @@ How can I prioritize these ideas effectively?
 Use Copilot Chat in Outlook to extract key requests and deadlines from email threads.
 
 **Sample Prompt:**
-```text
-Recap my email, show me:
-1. What is being asked
-2. What is being asked of the team
-3. What is being asked directly of me
-List dates and topics in a table.
-```
+    ```text
+    Recap my email, show me:
+    1. What is being asked
+    2. What is being asked of the team
+    3. What is being asked directly of me
+    List dates and topics in a table.
+    ```
 
 > **TIP:** Extract key actions and deadlines from emails to stay organized.
 
@@ -194,9 +194,9 @@ List dates and topics in a table.
 Transform survey or review data into insights and visuals.
 
 **Sample Prompt:**
-```text
-Analyze the “Reviews” column in the attached CSV. Provide sentiment analysis, top themes, and create a pie chart and word cloud.
-```
+    ```text
+    Analyze the “Reviews” column in the attached CSV. Provide sentiment analysis, top themes, and create a pie chart and word cloud.
+    ```
 
 > **TIP:** Analyze qualitative data and create visual summaries.
 
@@ -207,13 +207,13 @@ Analyze the “Reviews” column in the attached CSV. Provide sentiment analysis
 Create charts and heat maps from sales data.
 
 **Sample Prompts:**
-```text
-List the visual charts you can create from the sales data and then create those charts.
-Create a Monthly Revenue Trend chart.
-Create a "Units Sold Distribution by Sales Channel" pie chart.
-Create a "Total Revenue by Product" chart.
-Create a heat map of the most purchased products.
-```
+    ```text
+    List the visual charts you can create from the sales data and then create those charts.
+    Create a Monthly Revenue Trend chart.
+    Create a "Units Sold Distribution by Sales Channel" pie chart.
+    Create a "Total Revenue by Product" chart.
+    Create a heat map of the most purchased products.
+    ```
 
 > **TIP:** Transform numerical data into visual formats for insights.
 
