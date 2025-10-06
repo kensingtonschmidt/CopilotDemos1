@@ -162,7 +162,11 @@ Enhance your results by asking follow-up questions to Copilot Chat.
 **Sample Prompt Sequence:**
     ```text
     Identify trends in consumer preferences for grocery markets and develop new product ideas.
+    ```  
+    ```text
     Structure ideas in a table with target groups and advertising campaigns.
+    ```  
+    ```text
     How can I prioritize these ideas effectively?
     ```  
 
@@ -209,9 +213,17 @@ Create charts and heat maps from sales data.
 **Sample Prompts:**
     ```text
     List the visual charts you can create from the sales data and then create those charts.
+    ```
+    ```text
     Create a Monthly Revenue Trend chart.
+    ```
+    ```text
     Create a "Units Sold Distribution by Sales Channel" pie chart.
+    ```
+    ```text
     Create a "Total Revenue by Product" chart.
+    ```
+    ```text
     Create a heat map of the most purchased products.
     ```
 
