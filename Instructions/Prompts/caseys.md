@@ -136,11 +136,11 @@ Together, Researcher and Analyst shorten the path from **question to insight**�
 
 ---
 
-# Choose‑One Challenges
+# Choose‑One Practice
 
-This next section is designed to help you practice and deepen your prompting skills. You can choose to work with Copilot Agents—such as Analyst or Researcher—or use the Copilot Agent to address a real business process. We’ve provided a list of suggested scenarios to inspire you, but if you have a specific challenge or workflow in mind, we highly encourage you to use your own. The goal is to apply what you’ve learned in a way that’s most relevant to your role and objectives.
+Before diving into more advanced challenges, this quick practice is designed to help you build a strong foundation in prompting. You’ll get hands-on experience with essential techniques and Copilot features, so you can confidently apply what you learn in real business scenarios later. Use this opportunity to experiment, ask questions, and get comfortable with the basics before moving on.
 
-## Challenges 1: Summarize & Structure Meeting Notes
+## Practice 1: Summarize & Structure Meeting Notes
 
 Transform raw meeting notes into a structured summary with Copilot Chat.
 
@@ -153,7 +153,7 @@ Using my meeting notes, create a formal summary with sections: Title, Attendees,
 
 ---
 
-## Challenges 2: Refine Results with Follow-Up Questions
+## Practice 2: Refine Results with Follow-Up Questions
 
 Enhance your results by asking follow-up questions to Copilot Chat.
 
@@ -170,7 +170,7 @@ How can I prioritize these ideas effectively?
 
 ---
 
-## Challenges 3: Summarize and Recap Emails in Outlook
+## Practice 3: Summarize and Recap Emails in Outlook
 
 Use Copilot Chat in Outlook to extract key requests and deadlines from email threads.
 
@@ -187,7 +187,7 @@ List dates and topics in a table.
 
 ---
 
-## Challenges 4: Analyze Reviews & Visualize Sentiments
+## Practice 4: Analyze Reviews & Visualize Sentiments
 
 Transform survey or review data into insights and visuals.
 
@@ -200,7 +200,7 @@ Analyze the “Reviews” column in the attached CSV. Provide sentiment analysis
 
 ---
 
-## Challenges 5: Visualize Financial Data with Charts & Heat Maps
+## Practice 5: Visualize Financial Data with Charts & Heat Maps
 
 Create charts and heat maps from sales data.
 
@@ -217,9 +217,11 @@ Create a heat map of the most purchased products.
 
 ---
 
-## Scenario Options
+# Scenario Options
 
-Choose a scenario to apply your prompting skills:
+This next section is designed to help you practice and deepen your prompting skills. You can choose to work with Copilot Agents—such as Analyst or Researcher—or use the Copilot Agent to address a real business process. We’ve provided a list of suggested scenarios to inspire you, but if you have a specific challenge or workflow in mind, we highly encourage you to use your own. The goal is to apply what you’ve learned in a way that’s most relevant to your role and objectives.
+
+## Choose a scenario to apply your prompting skills:
 
 - **Scenario 1:** Organizational realignment—create a 60-day plan for a new leader.
 - **Scenario 2:** Team performance—build a framework for tracking KPIs and supporting development.
