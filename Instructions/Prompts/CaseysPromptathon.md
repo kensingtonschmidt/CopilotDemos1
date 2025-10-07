@@ -140,7 +140,7 @@ Together, Researcher and Analyst shorten the path from **question to insight**â€
 
 ## **Guided Excercise #2**
 
-## Immersion Experience â€“ Agents (Business Users)
+## Create your first Agent
 
 Discover how Microsoft 365 Copilot and Copilot Studio can help you solve everyday productivity challenges by designing a simple **retrieval-based agent**. This streamlined exercise will walk you through identifying a common issue, exploring how AI could help, and then creating a simple agent to test.  
 
