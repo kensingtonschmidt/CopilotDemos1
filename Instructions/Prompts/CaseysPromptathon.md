@@ -228,7 +228,41 @@ Now, create a simple retrieval agent in **Copilot Studio** to address your chall
 
 > **TIP:** Even a very simple agent—like one that helps you find recent project files—can show the power of retrieval in your daily work.
 
+## **Guided Excercise #3**
 
+## Business Problem & Solution 
+
+Casey’s is growing fast, but customers struggle to find answers quickly on their public website. Job seekers want details on careers and benefits, communities need info on donations and grants, and customers look for EV charging, gift cards, and store locations. Partners also need easy access to corporate and real estate opportunities. 
+
+Right now, this information is scattered across multiple pages, creating frustration and missed engagement. 
+
+**Solution:** A virtual assistant that: 
+
+Answers questions about careers, community programs, and products & services. 
+
+Help users find store locations, EV charging info, and gift card details. 
+
+Shares corporate and real estate opportunities. 
+
+Maintains a friendly, helpful tone to guide users to the right resources. 
+
+This assistant will streamline access, improve customer experience, and strengthen Casey’s brand. 
+
+Shape 
+
+**Step-by-Step Guide to Create the Agent **
+
+- Step 1: Access Copilot Studio 
+
+Open a new browser tab and navigate to m365.cloud.microsoft/chat (or however you usually navigate to copilot) 
+
+Shape 
+
+- Step 2: Create a New Agent 
+
+Click “Create New Agent”. 
+
+Find the “Configure Toggle” 
 
 
 # **Scenario Options**
