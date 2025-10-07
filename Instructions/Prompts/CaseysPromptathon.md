@@ -259,6 +259,8 @@ Click “Create New Agent”.
 
 Find the “Configure Toggle”.
 
+![Effective Prompt.](../Prompts/Media/Caseys100.png)  
+
 You’ll see fields for Name, Description, and Instructions. You will be inputting this information in Steps 3-5; examples are provided below.
 
 ## Step 3: Name Your Agent
@@ -288,13 +290,19 @@ Casey’s Assistant helps customers find store locations, check promotions, and 
 4. Always confirm user intent before sharing details.
 5. Never share personal data or sensitive info.
 
+![Effective Prompt.](../Prompts/Media/Caseys101.png)  
+
 ## Step 6: Insert Knowledge Source
 
 Insert https://www.caseys.com/ into the knowledge source.
 
+![Effective Prompt.](../Prompts/Media/Caseys102.png)  
+
 ## Step 7: Add Starter Prompts
 
 Go ahead and add some starter prompts; you can add up to 6.
+
+![Effective Prompt.](../Prompts/Media/Caseys103.png)  
 
 **Here are some suggestions:**
 
@@ -320,10 +328,13 @@ Go ahead and add some starter prompts; you can add up to 6.
 
 Test your agent on the right-hand side of the screen by asking it a question. You can use a starter prompt or type any question you can think of!
 
+![Effective Prompt.](../Prompts/Media/Caseys104.png)  
+
 ## Step 9: Create Your Agent
 
 Click create agent and congratulations on building the agent.
 
+![Effective Prompt.](../Prompts/Media/Caseys105.png)  
 
 
 
