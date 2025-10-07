@@ -230,39 +230,101 @@ Now, create a simple retrieval agent in **Copilot Studio** to address your chall
 
 ## **Guided Excercise #3**
 
-## Business Problem & Solution 
+# Business Problem & Solution
 
-Casey’s is growing fast, but customers struggle to find answers quickly on their public website. Job seekers want details on careers and benefits, communities need info on donations and grants, and customers look for EV charging, gift cards, and store locations. Partners also need easy access to corporate and real estate opportunities. 
+Casey’s is growing fast, but customers struggle to find answers quickly on their public website. Job seekers want details on careers and benefits, communities need info on donations and grants, and customers look for EV charging, gift cards, and store locations. Partners also need easy access to corporate and real estate opportunities.
 
-Right now, this information is scattered across multiple pages, creating frustration and missed engagement. 
+Right now, this information is scattered across multiple pages, creating frustration and missed engagement.
 
-**Solution:** A virtual assistant that: 
+**Solution:**  
+A virtual assistant that:
+- Answers questions about careers, community programs, and products & services.
+- Helps users find store locations, EV charging info, and gift card details.
+- Shares corporate and real estate opportunities.
+- Maintains a friendly, helpful tone to guide users to the right resources.
 
-Answers questions about careers, community programs, and products & services. 
+This assistant will streamline access, improve customer experience, and strengthen Casey’s brand.
 
-Help users find store locations, EV charging info, and gift card details. 
+---
 
-Shares corporate and real estate opportunities. 
+# Step-by-Step Guide to Create the Agent
 
-Maintains a friendly, helpful tone to guide users to the right resources. 
+## Step 1: Access Copilot Studio
 
-This assistant will streamline access, improve customer experience, and strengthen Casey’s brand. 
+Open a new browser tab and navigate to m365.cloud.microsoft/chat (or however you usually navigate to Copilot).
 
-Shape 
+## Step 2: Create a New Agent
 
-**Step-by-Step Guide to Create the Agent **
+Click “Create New Agent”.
 
-- Step 1: Access Copilot Studio 
+Find the “Configure Toggle”.
 
-Open a new browser tab and navigate to m365.cloud.microsoft/chat (or however you usually navigate to copilot) 
+You’ll see fields for Name, Description, and Instructions. You will be inputting this information in Steps 3-5; examples are provided below.
 
-Shape 
+## Step 3: Name Your Agent
 
-- Step 2: Create a New Agent 
+Enter:  
+**Name:** Casey’s Assistant
 
-Click “Create New Agent”. 
+## Step 4: Add Description
 
-Find the “Configure Toggle” 
+**Example:**  
+Casey’s Assistant helps customers find store locations, check promotions, and place online orders quickly and easily.
+
+## Step 5: Write Instructions
+
+**Example:**  
+
+**Purpose:** Assist customers with store info, promotions, and online ordering.
+
+**Capabilities:**
+1. Answer questions about:
+   - Careers (store positions, benefits, life at Casey’s)
+   - Community programs (donations, fundraising, grants)
+   - Products & services (pizza & fresh food, fuels, EV charging, gift cards)
+   - Corporate info (about us, investor relations, real estate opportunities)
+2. Provide links to relevant Casey’s pages when possible.
+3. Avoid discussing online orders or transactions.
+4. Always confirm user intent before sharing details.
+5. Never share personal data or sensitive info.
+
+## Step 6: Insert Knowledge Source
+
+Insert https://www.caseys.com/ into the knowledge source.
+
+## Step 7: Add Starter Prompts
+
+Go ahead and add some starter prompts; you can add up to 6.
+
+**Here are some suggestions:**
+
+**Careers**
+- What store positions are currently available near me?
+- What makes “Life at Casey’s” different from other convenience stores?
+- What benefits do Casey’s employees receive after 90 days?
+
+**Community**
+- How can I submit a donation request for my local nonprofit?
+- Does Casey’s offer fundraising opportunities for schools or sports teams?
+- What is the “Cash for Classrooms” grant program and how do I apply?
+
+**Products & More**
+- What are Casey’s most popular pizza and fresh food options?
+- Where can I find Casey’s EV charging stations in [insert state]?
+- Can I buy Casey’s gift cards online or only in-store?
+
+**Corporate & Real Estate**
+- How can I learn more about Casey’s real estate opportunities or selling my convenience store?
+
+## Step 8: Test Pane
+
+Test your agent on the right-hand side of the screen by asking it a question. You can use a starter prompt or type any question you can think of!
+
+## Step 9: Create Your Agent
+
+Click create agent and congratulations on building the agent.
+
+
 
 
 # **Scenario Options**
