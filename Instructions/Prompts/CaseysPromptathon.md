@@ -37,7 +37,7 @@ To get the best results from Copilot, use the GCSE framework:
 
 ---
 
-## Core Exercises: Perform Online Research & Analysis
+## Guided Exercises: Perform Online Research & Analysis
 
 ### Researcher: Build a Marketing Plan
 
@@ -138,100 +138,98 @@ Together, Researcher and Analyst shorten the path from **question to insight**�
 
 ---
 
-# **Choose‑One Practice**
+## **Guided Excerce 2**
 
-Before diving into more advanced challenges, this quick practice is designed to help you build a strong foundation in prompting. You’ll get hands-on experience with essential techniques and Copilot features, so you can confidently apply what you learn in real business scenarios later. Use this opportunity to experiment, ask questions, and get comfortable with the basics before moving on.
+## Immersion Experience – Agents (Business Users)
 
-## Practice 1: Summarize & Structure Meeting Notes
+Discover how Microsoft 365 Copilot and Copilot Studio can help you solve everyday productivity challenges by designing a simple **retrieval-based agent**. This streamlined exercise will walk you through identifying a common issue, exploring how AI could help, and then creating a simple agent to test.  
 
-Transform raw meeting notes into a structured summary with Copilot Chat.
+You'll perform three tasks:
 
-**Steps:**
-- Upload your meeting notes transcript
-- Use a prompt like:
+- Identify a productivity pain point  
+- Explore how AI could help with retrieval and organization  
+- Build and test a simple agent in **Copilot Studio**  
+
+> **NOTE:** Sample prompts are provided to help you get started—feel free to personalize them to fit your situation.  
+>
+> If you’d like help generating or refining prompts, try the <a href="https://appsource.microsoft.com/en-us/product/office/WA200007578" target="_blank">Prompt Coach agent</a>, which can suggest, improve, and evaluate prompts so you get better results with Copilot.
+
+### Task 1: Identify a Productivity Challenge  
+
+Think about a common issue in your day-to-day work—something that slows you down or makes it harder to find or organize information. You can reflect individually, or use **Copilot Chat** as a partner to help generate ideas and surface common pain points.
+
+Examples:
+
+- Finding the latest version of a document  
+- Gathering updates from multiple emails or chats  
+- Remembering details from past projects or meetings  
+
+**Steps:**  
+
+- Open a new browser tab and navigate to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat). 
+
+- Ensure the **Work mode** tab is selected in **Copilot Chat**.  
+
+   ![Screenshot showing Work mode tab in Copilot Chat.](../Prompts/Media/work-mode.png)  
+
+    **Sample Prompt:**
+
+    ```text
+    Summarize the top challenges I face in my daily work, based on recent emails, chats, and documents. Show results in a simple list with: 
+    
+    - Title (short label for the issue) 
+    - Description (1–2 sentences) 
+    ```  
+
+### Task 2: Explore AI Solution Ideas with Researcher  
+
+Use the **Researcher Agent** to explore how Copilot or agents might help with your chosen challenge.
+
+**Steps:**  
+
+- In the Copilot Chat menu, expand **Agents** and select **Researcher**.  
+
+   ![Screenshot showing Researcher selected in M365 Copilot menu.](../Prompts/Media/researcher.png)  
+
+- Try a sample prompt like this:  
+
    ```text
-    Using my meeting notes, create a formal summary with sections: Title, Attendees, Goal, Topics, Product Details, Tasks, Timelines, Resources, Q&A,         Next Steps.
+   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
    ```  
 
-> **TIP:** Turn unstructured notes into professional, shareable summaries.
+    > **TIP:** Keep the focus on practical, everyday use cases—like quickly surfacing a doc or pulling updates from multiple sources.
+  
+    > **NOTE:** Researcher may take 5–10 minutes to complete, depending on your request. Its responses are highly detailed, so while it’s working, try running the same prompt in Copilot Chat. Comparing the two outputs is a great way to see how each tool approaches the task.
+    
+### Task 3: Build and Test Your Agent  
 
----
+Now, create a simple retrieval agent in **Copilot Studio** to address your challenge.  
 
-## Practice 2: Refine Results with Follow-Up Questions
+**Steps:**  
 
-Enhance your results by asking follow-up questions to Copilot Chat.
+1. In the **Copilot Chat** menu, select **Create agent**.
 
-**Sample Prompt Sequence:**
-```text
-Identify trends in consumer preferences for grocery markets and develop new product ideas.
-```   
-```text
- Structure ideas in a table with target groups and advertising campaigns.
-```  
-```text
-How can I prioritize these ideas effectively?
-```  
+   ![Screenshot showing create an agent link.](../Prompts/Media/create-agent.png)  
 
-> **TIP:** Use clarifying prompts to expand, prioritize, or structure results.
+1. In the **Describe** tab, draft your agent’s role. For example:  
 
-> **TIP:** Use iterative prompts for richer insights and recommendations.
+   ```text
+   You’re a virtual assistant that helps me with [key task]. Be concise and always reference my recent files or resources when possible.
+   ```  
 
----
+   ![Screenshot showing describe agent with sample prompt filled in.](../Prompts/Media/create-agent-through-describe.png)  
 
-## Practice 3: Summarize and Recap Emails in Outlook
+1. Select the **Configure** Tab and add one knowledge source (e.g., **My Emails** or **My Teams chats and meetings**).
 
-Use Copilot Chat in Outlook to extract key requests and deadlines from email threads.
+    ![Screenshot showing knowledge sources section in agent builder.](../Prompts/Media/knowledge-sources.png)
 
-**Sample Prompt:**
-```text
-    Recap my email, show me:
-    1. What is being asked
-    2. What is being asked of the team
-    3. What is being asked directly of me
-    List dates and topics in a table.
-```
+1. Test your agent using the **Test** pane and refine as needed.  
+1. Select **Create** to publish your agent and start using it.  
 
-> **TIP:** Extract key actions and deadlines from emails to stay organized.
+> **TIP:** Even a very simple agent—like one that helps you find recent project files—can show the power of retrieval in your daily work.
 
----
 
-## Practice 4: Analyze Reviews & Visualize Sentiments
 
-Transform survey or review data into insights and visuals.
-
-**Sample Prompt:**
- ```text
- Analyze the “Reviews” column in the attached CSV. Provide sentiment analysis, top themes, and create a pie chart and word cloud.
- ```
-
-> **TIP:** Analyze qualitative data and create visual summaries.
-
----
-
-## Practice 5: Visualize Financial Data with Charts & Heat Maps
-
-Create charts and heat maps from sales data.
-
-**Sample Prompts:**
-```text
-List the visual charts you can create from the sales data and then create those charts.
-```
-```text
-Create a Monthly Revenue Trend chart.
-```
-```text
-Create a "Units Sold Distribution by Sales Channel" pie chart.
-```
-```text
-Create a "Total Revenue by Product" chart.
-```
-```text
-Create a heat map of the most purchased products.
-```
-
-> **TIP:** Transform numerical data into visual formats for insights.
-
----
 
 # **Scenario Options**
 
