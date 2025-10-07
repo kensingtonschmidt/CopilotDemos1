@@ -37,7 +37,7 @@ To get the best results from Copilot, use the GCSE framework:
 
 ---
 
-## Guided Exercises: Perform Online Research & Analysis
+## Guided Exercise #1: Perform Online Research & Analysis
 
 ### Researcher: Build a Marketing Plan
 
@@ -138,7 +138,7 @@ Together, Researcher and Analyst shorten the path from **question to insight**â€
 
 ---
 
-## **Guided Excerce 2**
+## **Guided Excercise #2**
 
 ## Immersion Experience â€“ Agents (Business Users)
 
