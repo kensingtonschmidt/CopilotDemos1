@@ -28,7 +28,7 @@ This next section is designed to help you practice and deepen your prompting ski
 
 ## Template
 Feel free to use this template to capture and organize your ideas throughout the session.
-Download the following file by right-clicking the link, selecting ‘Save Link As,’ and saving it to your local drive:
+Download the following file by right-clicking then 'Open link in new tab' to download the file to your local drive:
 - [Copilot Prompathon Template](https://livesend.microsoft.com/i/k4q___WIdiFKfaj1vqFypZjU5j0Iof9fdA1CiqKWm1bhkM6jfQsFqv___JH9i87lPLUSSIGNG9We88zkqSPLUSSIGNyrwTdtK9XLIePSQ7S7kakS90rQ1TNQrPFHbpNYxfO5oeso___rRYZTLohh)
 
 ## Choose a scenario to apply your prompting skills:
@@ -123,7 +123,7 @@ Researcher will:
     ![Screenshot showing attach files in Analyst.](../Prompts/Media/Analyst-attach-files.png)
 
 
-Download the following file by right-clicking the link, selecting 'Save Link As,' and saving it to your local drive:
+Download the following file by right-clicking then 'Open link in new tab' to download the file to your local drive:
 - [Caseys_Marketing_Campaign_Results](https://livesend.microsoft.com/i/k4q___WIdiFKfaj1vqFypZjU5j0Iof9fdA1CiqKWm1bhkzCPyfw7TQjZevloWeJfvrXbwZLv3f5cKeLYSvRWdiqLn0WYJzhvNDJJZp___N0CB___u7nj9HBwCYrIcgisJ81RP___)
 
 
