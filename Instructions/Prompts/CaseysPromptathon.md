@@ -50,18 +50,16 @@ To get the best results from Copilot, use the GCSE framework:
 1. Enter the following prompt:
 
     ```text
-    Create a marketing plan for our newest SprintCycle EV charger launch. 
-    Emphasize its AI-powered adaptive charging, modular design, and biometric access control. 
-    Make sure to include recommendations on the right digital channels and content strategy. 
-    Include insights from competitors and our past GTM campaigns.
+    You are the Casey’s U.S. Retail & Foodservice Research Agent (model ‘o’). Ingest the two attached files, then incorporate the latest U.S. convenience and holiday retail data (NACS, NRF, Adobe Digital Economy Index), 2024 shopper trends (mobile ordering, loyalty engagement, sustainable packaging, social commerce), and competitive activations (7-Eleven, Kwik Trip, Circle K). Deliver a concise analysis identifying 2–3 emerging trends or gaps in Casey’s current holiday plan—such as missed mobile-first, loyalty, or social opportunities—and recommend actionable shifts (e.g., in-app bundles, fuel-plus-food rewards, or AR holiday engagement).
+
+    Use clustering, correlation, and forecasting as needed. Include two brief visualizations (trend adoption rates and projected lift from recommendations) and suggest revised SMART KPIs aligned to 2024 benchmarks (e.g., +15% app order frequency). Conclude with a one-slide executive summary highlighting top opportunities and expected business impact.
     ```
 
-1. Attach reference files using `/` (point to SharePoint/OneDrive):  
+If you have any supporting reference files, attach them using `/` (for example, **/Caseys Holiday Marketing Plan.docx** or **/Retail Trends 2024.xlsx).** This allows Copilot to use those documents as context.
+For this specific scenario, we don’t have any supporting files to attach — simply run the prompt as-is.
 
-   - **/SprintCycle Charger Product Launch.docx**  
-   - *(Optional)* **/Contoso - PedalPerks GTM Plan.docx**  
 
-1. Click **Submit**.  
+2. Click **Submit**.  
 
 Researcher will:  
 
@@ -77,13 +75,13 @@ Researcher will:
 
     ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/Analyst.png)
 
-1. Enter the following prompt:
+2. Enter the following prompt:
 
     ```text
     Load the attached files. Produce a table of total Spend, Impressions, Clicks, Conversions, CTR, Conversion Rate, and ROAS, broken out first by Campaign and then by Channel. Provide a concise narrative summarizing the top‐level trends you observe (e.g., which campaign had the highest overall ROI, which channel drove the most impressions
     ```
 
-1. Attach the file using **+**:  
+3. Attach the file using **+**:  
 
    - **Caseys_Marketing_Campaign_Results.xlsx**  
 
@@ -94,7 +92,7 @@ Download the following file by right-clicking the link, selecting 'Save Link As,
 - [Caseys_Marketing_Campaign_Results](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Caseys_Marketing_Campaign_Results.csv)
 
 
-1. Click **Submit**.  
+4. Click **Submit**.  
 
 Analyst will:  
 
