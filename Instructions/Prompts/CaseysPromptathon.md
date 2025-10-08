@@ -55,7 +55,7 @@ To get the best results from Copilot, use the GCSE framework:
     Use clustering, correlation, and forecasting as needed. Include two brief visualizations (trend adoption rates and projected lift from recommendations) and suggest revised SMART KPIs aligned to 2025 benchmarks (e.g., +15% app order frequency). Conclude with a one-slide executive summary highlighting top opportunities and expected business impact. (If reference files are provided, incorporate them into your analysis.)
     ```
 
-If you have any supporting reference files, attach them using `/` (for example, **/Caseys Holiday Marketing Plan.docx** or **/Retail Trends 2024.xlsx).** This allows Copilot to use those documents as context.
+    If you have any supporting reference files, attach them using `/` (for example, **/Caseys Holiday Marketing Plan.docx** or **/Retail Trends     2024.xlsx).** This allows Copilot to use those documents as context.
 For this specific scenario, we don’t have any supporting files to attach — simply run the prompt as-is.
 
 
