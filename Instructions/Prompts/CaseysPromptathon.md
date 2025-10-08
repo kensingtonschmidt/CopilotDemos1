@@ -75,7 +75,7 @@ Researcher will:
 
 1. Open **Analyst** from the left navigation in the Copilot app.  
 
-    ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/Analyst.png)  
+    ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/Analyst.png)
 
 1. Enter the following prompt:
 
@@ -86,9 +86,11 @@ Researcher will:
 
 1. Attach the file using **+**:  
 
-   - **BoulderEV ebike Internal Market Forecast.xlsx**  
+   - **Caseys_Marketing_Campaign_Results.xlsx**  
 
     ![Screenshot showing attach files in Analyst.](../Prompts/Media/Analyst-attach-files.png)
+   ![Caseys_Marketing_Campaign_Results.xlsx](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Caseys_Marketing_Campaign_Results.xlsx)
+
 
 
 1. Click **Submit**.  
