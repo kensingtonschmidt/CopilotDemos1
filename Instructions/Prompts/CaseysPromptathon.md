@@ -47,7 +47,7 @@ To get the best results from Copilot, use the GCSE framework:
 
     ![Screenshot showing Researcher selected in M365 Copilot menu.](../Prompts/Media/researcher.png)  
 
-1. Enter the following prompt:
+2. Enter the following prompt:
 
     ```text
     You are the Casey’s U.S. Retail & Foodservice Research Agent (model ‘o’). Ingest the two attached files, then incorporate the latest U.S. convenience and holiday retail data (NACS, NRF, Adobe Digital Economy Index), 2024 shopper trends (mobile ordering, loyalty engagement, sustainable packaging, social commerce), and competitive activations (7-Eleven, Kwik Trip, Circle K). Deliver a concise analysis identifying 2–3 emerging trends or gaps in Casey’s current holiday plan—such as missed mobile-first, loyalty, or social opportunities—and recommend actionable shifts (e.g., in-app bundles, fuel-plus-food rewards, or AR holiday engagement).
@@ -59,7 +59,7 @@ If you have any supporting reference files, attach them using `/` (for example, 
 For this specific scenario, we don’t have any supporting files to attach — simply run the prompt as-is.
 
 
-2. Click **Submit**.  
+3. Click **Submit**.  
 
 Researcher will:  
 
