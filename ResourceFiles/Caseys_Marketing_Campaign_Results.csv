@@ -1,0 +1,281 @@
+Campaign,Channel,Age Group,Gender,Impressions,Clicks,CTR (%),Conversions,Conversion Rate (%),Cost (USD)
+Casey’s Pizza Party Nights,Facebook,18-25,Male,15283,166,1.1,5,3,83
+Casey’s Pizza Party Nights,Facebook,18-25,Female,46281,626,1.4,20,3.2,313
+Casey’s Pizza Party Nights,Facebook,26-35,Male,26800,245,0.9,9,3.7,122.5
+Casey’s Pizza Party Nights,Facebook,26-35,Female,31289,342,1.1,14,4.1,171
+Casey’s Pizza Party Nights,Facebook,36-50,Male,46875,443,0.9,18,4.1,221.5
+Casey’s Pizza Party Nights,Facebook,36-50,Female,43700,412,0.9,19,4.6,206
+Casey’s Pizza Party Nights,Facebook,50+,Male,36267,295,0.8,9,3.1,147.5
+Casey’s Pizza Party Nights,Facebook,50+,Female,34737,313,0.9,10,3.2,156.5
+Casey’s Pizza Party Nights,Instagram,18-25,Male,18156,198,1.1,5,2.5,118.8
+Casey’s Pizza Party Nights,Instagram,18-25,Female,37909,598,1.6,17,2.8,358.8
+Casey’s Pizza Party Nights,Instagram,26-35,Male,21298,205,1,5,2.4,123
+Casey’s Pizza Party Nights,Instagram,26-35,Female,48638,595,1.2,18,3,357
+Casey’s Pizza Party Nights,Instagram,36-50,Male,26419,251,1,8,3.2,150.6
+Casey’s Pizza Party Nights,Instagram,36-50,Female,56741,722,1.3,25,3.5,433.2
+Casey’s Pizza Party Nights,Instagram,50+,Male,14643,131,0.9,3,2.3,78.6
+Casey’s Pizza Party Nights,Instagram,50+,Female,27986,270,1,7,2.6,162
+Casey’s Pizza Party Nights,Twitter,18-25,Male,13053,95,0.7,1,1.1,28.5
+Casey’s Pizza Party Nights,Twitter,18-25,Female,14475,115,0.8,2,1.7,34.5
+Casey’s Pizza Party Nights,Twitter,26-35,Male,10554,85,0.8,1,1.2,25.5
+Casey’s Pizza Party Nights,Twitter,26-35,Female,21734,175,0.8,3,1.7,52.5
+Casey’s Pizza Party Nights,Twitter,36-50,Male,18967,138,0.7,2,1.4,41.4
+Casey’s Pizza Party Nights,Twitter,36-50,Female,23141,179,0.8,3,1.7,53.7
+Casey’s Pizza Party Nights,Twitter,50+,Male,8960,41,0.5,0,0,12.3
+Casey’s Pizza Party Nights,Twitter,50+,Female,10988,78,0.7,1,1.3,23.4
+Casey’s Pizza Party Nights,TikTok,18-25,Male,21637,339,1.6,6,1.8,135.6
+Casey’s Pizza Party Nights,TikTok,18-25,Female,36018,573,1.6,12,2.1,229.2
+Casey’s Pizza Party Nights,TikTok,26-35,Male,17832,261,1.5,5,1.9,104.4
+Casey’s Pizza Party Nights,TikTok,26-35,Female,30675,483,1.6,10,2.1,193.2
+Casey’s Pizza Party Nights,TikTok,36-50,Male,15947,230,1.4,4,1.7,92
+Casey’s Pizza Party Nights,TikTok,36-50,Female,28941,453,1.6,9,2,181.2
+Casey’s Pizza Party Nights,TikTok,50+,Male,12054,162,1.3,2,1.2,64.8
+Casey’s Pizza Party Nights,TikTok,50+,Female,22809,323,1.4,5,1.5,129.2
+Casey’s Pizza Party Nights,YouTube,18-25,Male,25741,156,0.6,3,1.9,124.8
+Casey’s Pizza Party Nights,YouTube,18-25,Female,27519,179,0.7,4,2.2,143.2
+Casey’s Pizza Party Nights,YouTube,26-35,Male,36629,241,0.7,6,2.5,192.8
+Casey’s Pizza Party Nights,YouTube,26-35,Female,38052,262,0.7,7,2.7,209.6
+Casey’s Pizza Party Nights,YouTube,36-50,Male,50584,296,0.6,7,2.4,236.8
+Casey’s Pizza Party Nights,YouTube,36-50,Female,49218,289,0.6,7,2.4,231.2
+Casey’s Pizza Party Nights,YouTube,50+,Male,23497,128,0.5,2,1.6,102.4
+Casey’s Pizza Party Nights,YouTube,50+,Female,27269,148,0.5,3,2,118.4
+Casey’s Pizza Party Nights,Google Ads,18-25,Male,37367,695,1.9,48,6.9,695
+Casey’s Pizza Party Nights,Google Ads,18-25,Female,43044,844,2,54,6.4,844
+Casey’s Pizza Party Nights,Google Ads,26-35,Male,40101,785,2,69,8.8,785
+Casey’s Pizza Party Nights,Google Ads,26-35,Female,48716,1001,2.1,92,9.2,1001
+Casey’s Pizza Party Nights,Google Ads,36-50,Male,43558,811,1.9,72,8.9,811
+Casey’s Pizza Party Nights,Google Ads,36-50,Female,51318,1017,2,96,9.4,1017
+Casey’s Pizza Party Nights,Google Ads,50+,Male,32479,604,1.9,50,8.3,604
+Casey’s Pizza Party Nights,Google Ads,50+,Female,39866,742,1.9,60,8.1,742
+Casey’s Pizza Party Nights,Email,18-25,Male,8250,257,3.1,11,4.3,25.7
+Casey’s Pizza Party Nights,Email,18-25,Female,11237,385,3.4,17,4.4,38.5
+Casey’s Pizza Party Nights,Email,26-35,Male,9341,294,3.1,15,5.1,29.4
+Casey’s Pizza Party Nights,Email,26-35,Female,14891,488,3.3,27,5.5,48.8
+Casey’s Pizza Party Nights,Email,36-50,Male,7596,255,3.4,15,5.9,25.5
+Casey’s Pizza Party Nights,Email,36-50,Female,11103,399,3.6,24,6,39.9
+Casey’s Pizza Party Nights,Email,50+,Male,5384,176,3.3,9,5.1,17.6
+Casey’s Pizza Party Nights,Email,50+,Female,7120,243,3.4,13,5.3,24.3
+Casey’s Fall Flavor Fest,Facebook,18-25,Male,22712,230,1,8,3.5,115
+Casey’s Fall Flavor Fest,Facebook,18-25,Female,37020,414,1.1,15,3.6,207
+Casey’s Fall Flavor Fest,Facebook,26-35,Male,47834,469,1,20,4.3,234.5
+Casey’s Fall Flavor Fest,Facebook,26-35,Female,55274,633,1.1,26,4.1,316.5
+Casey’s Fall Flavor Fest,Facebook,36-50,Male,59470,556,0.9,23,4.1,278
+Casey’s Fall Flavor Fest,Facebook,36-50,Female,62719,591,0.9,27,4.6,295.5
+Casey’s Fall Flavor Fest,Facebook,50+,Male,32129,210,0.7,8,3.8,105
+Casey’s Fall Flavor Fest,Facebook,50+,Female,33779,255,0.8,9,3.5,127.5
+Casey’s Fall Flavor Fest,Instagram,18-25,Male,20834,212,1,5,2.4,127.2
+Casey’s Fall Flavor Fest,Instagram,18-25,Female,46803,636,1.4,18,2.8,381.6
+Casey’s Fall Flavor Fest,Instagram,26-35,Male,26798,246,0.9,6,2.4,147.6
+Casey’s Fall Flavor Fest,Instagram,26-35,Female,57321,685,1.2,21,3.1,411
+Casey’s Fall Flavor Fest,Instagram,36-50,Male,30880,276,0.9,8,2.9,165.6
+Casey’s Fall Flavor Fest,Instagram,36-50,Female,70945,852,1.2,29,3.4,511.2
+Casey’s Fall Flavor Fest,Instagram,50+,Male,16789,140,0.8,3,2.1,84
+Casey’s Fall Flavor Fest,Instagram,50+,Female,30505,279,0.9,8,2.9,167.4
+Casey’s Fall Flavor Fest,Twitter,18-25,Male,18530,136,0.7,2,1.5,40.8
+Casey’s Fall Flavor Fest,Twitter,18-25,Female,20283,152,0.7,3,2,45.6
+Casey’s Fall Flavor Fest,Twitter,26-35,Male,16148,126,0.8,2,1.6,37.8
+Casey’s Fall Flavor Fest,Twitter,26-35,Female,27330,218,0.8,4,1.8,65.4
+Casey’s Fall Flavor Fest,Twitter,36-50,Male,20875,158,0.8,3,1.9,47.4
+Casey’s Fall Flavor Fest,Twitter,36-50,Female,29054,235,0.8,4,1.7,70.5
+Casey’s Fall Flavor Fest,Twitter,50+,Male,13460,91,0.7,1,1.1,27.3
+Casey’s Fall Flavor Fest,Twitter,50+,Female,14889,113,0.8,2,1.8,33.9
+Casey’s Fall Flavor Fest,TikTok,18-25,Male,28756,436,1.5,8,1.8,174.4
+Casey’s Fall Flavor Fest,TikTok,18-25,Female,47420,753,1.6,16,2.1,301.2
+Casey’s Fall Flavor Fest,TikTok,26-35,Male,24105,375,1.6,8,2.1,150
+Casey’s Fall Flavor Fest,TikTok,26-35,Female,44398,704,1.6,15,2.1,281.6
+Casey’s Fall Flavor Fest,TikTok,36-50,Male,21111,313,1.5,6,1.9,125.2
+Casey’s Fall Flavor Fest,TikTok,36-50,Female,39179,613,1.6,12,2,245.2
+Casey’s Fall Flavor Fest,TikTok,50+,Male,15866,210,1.3,3,1.4,84
+Casey’s Fall Flavor Fest,TikTok,50+,Female,28438,430,1.5,7,1.6,172
+Casey’s Fall Flavor Fest,YouTube,18-25,Male,35298,212,0.6,5,2.4,169.6
+Casey’s Fall Flavor Fest,YouTube,18-25,Female,37679,232,0.6,5,2.2,185.6
+Casey’s Fall Flavor Fest,YouTube,26-35,Male,47134,293,0.6,8,2.7,234.4
+Casey’s Fall Flavor Fest,YouTube,26-35,Female,49253,306,0.6,8,2.6,244.8
+Casey’s Fall Flavor Fest,YouTube,36-50,Male,62269,352,0.6,9,2.6,281.6
+Casey’s Fall Flavor Fest,YouTube,36-50,Female,64215,378,0.6,10,2.6,302.4
+Casey’s Fall Flavor Fest,YouTube,50+,Male,29408,168,0.6,3,1.8,134.4
+Casey’s Fall Flavor Fest,YouTube,50+,Female,33841,187,0.6,4,2.1,149.6
+Casey’s Fall Flavor Fest,Google Ads,18-25,Male,47162,926,2,69,7.4,926
+Casey’s Fall Flavor Fest,Google Ads,18-25,Female,55139,1126,2,80,7.1,1126
+Casey’s Fall Flavor Fest,Google Ads,26-35,Male,55288,1104,2,97,8.8,1104
+Casey’s Fall Flavor Fest,Google Ads,26-35,Female,65105,1318,2,118,9,1318
+Casey’s Fall Flavor Fest,Google Ads,36-50,Male,59344,1138,1.9,100,8.8,1138
+Casey’s Fall Flavor Fest,Google Ads,36-50,Female,69762,1350,1.9,123,9.1,1350
+Casey’s Fall Flavor Fest,Google Ads,50+,Male,42196,824,2,70,8.5,824
+Casey’s Fall Flavor Fest,Google Ads,50+,Female,50518,1004,2,82,8.2,1004
+Casey’s Fall Flavor Fest,Email,18-25,Male,9662,326,3.4,15,4.6,32.6
+Casey’s Fall Flavor Fest,Email,18-25,Female,14254,490,3.4,22,4.5,49
+Casey’s Fall Flavor Fest,Email,26-35,Male,10351,356,3.4,19,5.3,35.6
+Casey’s Fall Flavor Fest,Email,26-35,Female,18522,639,3.5,34,5.3,63.9
+Casey’s Fall Flavor Fest,Email,36-50,Male,8160,295,3.6,18,6.1,29.5
+Casey’s Fall Flavor Fest,Email,36-50,Female,13050,478,3.7,30,6.3,47.8
+Casey’s Fall Flavor Fest,Email,50+,Male,5792,188,3.2,9,4.8,18.8
+Casey’s Fall Flavor Fest,Email,50+,Female,8352,301,3.6,16,5.3,30.1
+Breakfast at Casey’s,Facebook,18-25,Male,23945,248,1,9,3.6,124
+Breakfast at Casey’s,Facebook,18-25,Female,42520,456,1.1,17,3.7,228
+Breakfast at Casey’s,Facebook,26-35,Male,50431,498,1,22,4.4,249
+Breakfast at Casey’s,Facebook,26-35,Female,58497,645,1.1,28,4.3,322.5
+Breakfast at Casey’s,Facebook,36-50,Male,61078,570,0.9,24,4.2,285
+Breakfast at Casey’s,Facebook,36-50,Female,67302,634,0.9,29,4.6,317
+Breakfast at Casey’s,Facebook,50+,Male,33720,222,0.7,9,4.1,111
+Breakfast at Casey’s,Facebook,50+,Female,35685,270,0.8,10,3.7,135
+Breakfast at Casey’s,Instagram,18-25,Male,23501,241,1,5,2.1,144.6
+Breakfast at Casey’s,Instagram,18-25,Female,52086,697,1.3,20,2.9,418.2
+Breakfast at Casey’s,Instagram,26-35,Male,28901,282,1,7,2.5,169.2
+Breakfast at Casey’s,Instagram,26-35,Female,63486,773,1.2,24,3.1,463.8
+Breakfast at Casey’s,Instagram,36-50,Male,33327,310,0.9,9,2.9,186
+Breakfast at Casey’s,Instagram,36-50,Female,78332,939,1.2,33,3.5,563.4
+Breakfast at Casey’s,Instagram,50+,Male,17844,151,0.8,4,2.6,90.6
+Breakfast at Casey’s,Instagram,50+,Female,34203,320,0.9,9,2.8,192
+Breakfast at Casey’s,Twitter,18-25,Male,21650,159,0.7,3,1.9,47.7
+Breakfast at Casey’s,Twitter,18-25,Female,23793,176,0.7,3,1.7,52.8
+Breakfast at Casey’s,Twitter,26-35,Male,18841,147,0.8,2,1.4,44.1
+Breakfast at Casey’s,Twitter,26-35,Female,31741,252,0.8,4,1.6,75.6
+Breakfast at Casey’s,Twitter,36-50,Male,24098,182,0.8,3,1.6,54.6
+Breakfast at Casey’s,Twitter,36-50,Female,33324,266,0.8,4,1.5,79.8
+Breakfast at Casey’s,Twitter,50+,Male,15576,109,0.7,1,0.9,32.7
+Breakfast at Casey’s,Twitter,50+,Female,17346,132,0.8,2,1.5,39.6
+Breakfast at Casey’s,TikTok,18-25,Male,31241,476,1.5,9,1.9,190.4
+Breakfast at Casey’s,TikTok,18-25,Female,53743,858,1.6,18,2.1,343.2
+Breakfast at Casey’s,TikTok,26-35,Male,26647,406,1.5,8,2,162.4
+Breakfast at Casey’s,TikTok,26-35,Female,51712,813,1.6,17,2.1,325.2
+Breakfast at Casey’s,TikTok,36-50,Male,23806,357,1.5,7,2,142.8
+Breakfast at Casey’s,TikTok,36-50,Female,47293,757,1.6,15,2,302.8
+Breakfast at Casey’s,TikTok,50+,Male,17645,242,1.4,3,1.2,96.8
+Breakfast at Casey’s,TikTok,50+,Female,43622,670,1.5,12,1.8,268
+Breakfast at Casey’s,YouTube,18-25,Male,38055,229,0.6,5,2.2,183.2
+Breakfast at Casey’s,YouTube,18-25,Female,40777,248,0.6,6,2.4,198.4
+Breakfast at Casey’s,YouTube,26-35,Male,52143,312,0.6,8,2.6,249.6
+Breakfast at Casey’s,YouTube,26-35,Female,55106,334,0.6,9,2.7,267.2
+Breakfast at Casey’s,YouTube,36-50,Male,68974,393,0.6,10,2.5,314.4
+Breakfast at Casey’s,YouTube,36-50,Female,71563,420,0.6,11,2.6,336
+Breakfast at Casey’s,YouTube,50+,Male,33729,186,0.6,4,2.2,148.8
+Breakfast at Casey’s,YouTube,50+,Female,39492,212,0.5,5,2.4,169.6
+Breakfast at Casey’s,Google Ads,18-25,Male,49551,964,1.9,68,7.1,964
+Breakfast at Casey’s,Google Ads,18-25,Female,57969,1187,2,81,6.8,1187
+Breakfast at Casey’s,Google Ads,26-35,Male,58029,1156,2,104,9,1156
+Breakfast at Casey’s,Google Ads,26-35,Female,69950,1404,2,124,8.8,1404
+Breakfast at Casey’s,Google Ads,36-50,Male,62274,1177,1.9,105,8.9,1177
+Breakfast at Casey’s,Google Ads,36-50,Female,75955,1454,1.9,130,8.9,1454
+Breakfast at Casey’s,Google Ads,50+,Male,45044,870,1.9,73,8.4,870
+Breakfast at Casey’s,Google Ads,50+,Female,55720,1086,1.9,86,7.9,1086
+Breakfast at Casey’s,Email,18-25,Male,10140,343,3.4,16,4.7,34.3
+Breakfast at Casey’s,Email,18-25,Female,16427,566,3.4,26,4.6,56.6
+Breakfast at Casey’s,Email,26-35,Male,11021,369,3.3,20,5.4,36.9
+Breakfast at Casey’s,Email,26-35,Female,21276,733,3.4,39,5.3,73.3
+Breakfast at Casey’s,Email,36-50,Male,8840,316,3.6,19,6,31.6
+Breakfast at Casey’s,Email,36-50,Female,14480,520,3.6,31,6,52
+Breakfast at Casey’s,Email,50+,Male,6412,212,3.3,11,5.2,21.2
+Breakfast at Casey’s,Email,50+,Female,9814,348,3.5,18,5.2,34.8
+Casey’s Coffee & Donut Days,Facebook,18-25,Male,25134,264,1,10,3.8,132
+Casey’s Coffee & Donut Days,Facebook,18-25,Female,46643,507,1.1,19,3.7,253.5
+Casey’s Coffee & Donut Days,Facebook,26-35,Male,54727,548,1,24,4.4,274
+Casey’s Coffee & Donut Days,Facebook,26-35,Female,64576,712,1.1,30,4.2,356
+Casey’s Coffee & Donut Days,Facebook,36-50,Male,67499,624,0.9,26,4.2,312
+Casey’s Coffee & Donut Days,Facebook,36-50,Female,74481,698,0.9,32,4.6,349
+Casey’s Coffee & Donut Days,Facebook,50+,Male,37117,244,0.7,9,3.7,122
+Casey’s Coffee & Donut Days,Facebook,50+,Female,39812,296,0.7,11,3.7,148
+Casey’s Coffee & Donut Days,Instagram,18-25,Male,24958,258,1,6,2.3,154.8
+Casey’s Coffee & Donut Days,Instagram,18-25,Female,55862,750,1.3,22,2.9,450
+Casey’s Coffee & Donut Days,Instagram,26-35,Male,30652,300,1,8,2.7,180
+Casey’s Coffee & Donut Days,Instagram,26-35,Female,68960,825,1.2,27,3.3,495
+Casey’s Coffee & Donut Days,Instagram,36-50,Male,35326,337,1,10,3,202.2
+Casey’s Coffee & Donut Days,Instagram,36-50,Female,85031,973,1.1,35,3.6,583.8
+Casey’s Coffee & Donut Days,Instagram,50+,Male,18858,153,0.8,4,2.6,91.8
+Casey’s Coffee & Donut Days,Instagram,50+,Female,36699,341,0.9,10,2.9,204.6
+Casey’s Coffee & Donut Days,Twitter,18-25,Male,23406,172,0.7,3,1.7,51.6
+Casey’s Coffee & Donut Days,Twitter,18-25,Female,25798,189,0.7,4,2.1,56.7
+Casey’s Coffee & Donut Days,Twitter,26-35,Male,20304,160,0.8,3,1.9,48
+Casey’s Coffee & Donut Days,Twitter,26-35,Female,34213,271,0.8,5,1.8,81.3
+Casey’s Coffee & Donut Days,Twitter,36-50,Male,26032,199,0.8,3,1.5,59.7
+Casey’s Coffee & Donut Days,Twitter,36-50,Female,36043,288,0.8,5,1.7,86.4
+Casey’s Coffee & Donut Days,Twitter,50+,Male,17369,121,0.7,1,0.8,36.3
+Casey’s Coffee & Donut Days,Twitter,50+,Female,19325,146,0.8,2,1.4,43.8
+Casey’s Coffee & Donut Days,TikTok,18-25,Male,33384,509,1.5,10,2,203.6
+Casey’s Coffee & Donut Days,TikTok,18-25,Female,57685,930,1.6,19,2,372
+Casey’s Coffee & Donut Days,TikTok,26-35,Male,28436,433,1.5,9,2.1,173.2
+Casey’s Coffee & Donut Days,TikTok,26-35,Female,56335,902,1.6,19,2.1,360.8
+Casey’s Coffee & Donut Days,TikTok,36-50,Male,25348,382,1.5,8,2.1,152.8
+Casey’s Coffee & Donut Days,TikTok,36-50,Female,51864,806,1.6,17,2.1,322.4
+Casey’s Coffee & Donut Days,TikTok,50+,Male,18526,254,1.4,3,1.2,101.6
+Casey’s Coffee & Donut Days,TikTok,50+,Female,46944,721,1.5,13,1.8,288.4
+Casey’s Coffee & Donut Days,YouTube,18-25,Male,41457,249,0.6,6,2.4,199.2
+Casey’s Coffee & Donut Days,YouTube,18-25,Female,44765,270,0.6,6,2.2,216
+Casey’s Coffee & Donut Days,YouTube,26-35,Male,56933,338,0.6,9,2.7,270.4
+Casey’s Coffee & Donut Days,YouTube,26-35,Female,60358,362,0.6,10,2.8,289.6
+Casey’s Coffee & Donut Days,YouTube,36-50,Male,75021,432,0.6,11,2.5,345.6
+Casey’s Coffee & Donut Days,YouTube,36-50,Female,78777,464,0.6,12,2.6,371.2
+Casey’s Coffee & Donut Days,YouTube,50+,Male,36611,207,0.6,5,2.4,165.6
+Casey’s Coffee & Donut Days,YouTube,50+,Female,42103,238,0.6,6,2.5,190.4
+Casey’s Coffee & Donut Days,Google Ads,18-25,Male,53746,1054,2,78,7.4,1054
+Casey’s Coffee & Donut Days,Google Ads,18-25,Female,62613,1253,2,90,7.2,1253
+Casey’s Coffee & Donut Days,Google Ads,26-35,Male,63559,1269,2,113,8.9,1269
+Casey’s Coffee & Donut Days,Google Ads,26-35,Female,75838,1515,2,134,8.8,1515
+Casey’s Coffee & Donut Days,Google Ads,36-50,Male,68485,1303,1.9,117,9,1303
+Casey’s Coffee & Donut Days,Google Ads,36-50,Female,82295,1564,1.9,140,9,1564
+Casey’s Coffee & Donut Days,Google Ads,50+,Male,49451,958,1.9,81,8.5,958
+Casey’s Coffee & Donut Days,Google Ads,50+,Female,60001,1161,1.9,89,7.7,1161
+Casey’s Coffee & Donut Days,Email,18-25,Male,10760,364,3.4,18,4.9,36.4
+Casey’s Coffee & Donut Days,Email,18-25,Female,17569,607,3.5,28,4.6,60.7
+Casey’s Coffee & Donut Days,Email,26-35,Male,11530,385,3.3,21,5.5,38.5
+Casey’s Coffee & Donut Days,Email,26-35,Female,22992,788,3.4,42,5.3,78.8
+Casey’s Coffee & Donut Days,Email,36-50,Male,9335,336,3.6,20,6,33.6
+Casey’s Coffee & Donut Days,Email,36-50,Female,15921,579,3.6,35,6,57.9
+Casey’s Coffee & Donut Days,Email,50+,Male,7016,231,3.3,12,5.2,23.1
+Casey’s Coffee & Donut Days,Email,50+,Female,11094,389,3.5,20,5.1,38.9
+Casey’s Game Day Grub ,Facebook,18-25,Male,30016,303,1,12,4,151.5
+Casey’s Game Day Grub ,Facebook,18-25,Female,57530,625,1.1,23,3.7,312.5
+Casey’s Game Day Grub ,Facebook,26-35,Male,65384,617,0.9,27,4.4,308.5
+Casey’s Game Day Grub ,Facebook,26-35,Female,75380,811,1.1,34,4.2,405.5
+Casey’s Game Day Grub ,Facebook,36-50,Male,79988,724,0.9,30,4.1,362
+Casey’s Game Day Grub ,Facebook,36-50,Female,86532,777,0.9,36,4.6,388.5
+Casey’s Game Day Grub ,Facebook,50+,Male,43948,290,0.7,11,3.8,87
+Casey’s Game Day Grub ,Facebook,50+,Female,47411,343,0.7,13,3.8,102.9
+Casey’s Game Day Grub ,Instagram,18-25,Male,29751,304,1,7,2.3,182.4
+Casey’s Game Day Grub ,Instagram,18-25,Female,67645,866,1.3,26,3,519.6
+Casey’s Game Day Grub ,Instagram,26-35,Male,36450,346,0.9,9,2.6,207.6
+Casey’s Game Day Grub ,Instagram,26-35,Female,82039,962,1.2,32,3.3,577.2
+Casey’s Game Day Grub ,Instagram,36-50,Male,41911,384,0.9,12,3.1,230.4
+Casey’s Game Day Grub ,Instagram,36-50,Female,96623,1111,1.1,39,3.5,666.6
+Casey’s Game Day Grub ,Instagram,50+,Male,21546,167,0.8,5,3,100.2
+Casey’s Game Day Grub ,Instagram,50+,Female,41552,377,0.9,12,3.2,226.2
+Casey’s Game Day Grub ,Twitter,18-25,Male,27804,203,0.7,4,2,60.9
+Casey’s Game Day Grub ,Twitter,18-25,Female,30524,224,0.7,5,2.2,67.2
+Casey’s Game Day Grub ,Twitter,26-35,Male,23879,179,0.7,3,1.7,53.7
+Casey’s Game Day Grub ,Twitter,26-35,Female,39711,301,0.8,6,2,90.3
+Casey’s Game Day Grub ,Twitter,36-50,Male,30019,227,0.8,4,1.8,68.1
+Casey’s Game Day Grub ,Twitter,36-50,Female,42817,320,0.7,6,1.9,96
+Casey’s Game Day Grub ,Twitter,50+,Male,20073,133,0.7,2,1.5,39.9
+Casey’s Game Day Grub ,Twitter,50+,Female,22417,159,0.7,3,1.9,47.7
+Casey’s Game Day Grub ,TikTok,18-25,Male,39639,603,1.5,12,2,361.8
+Casey’s Game Day Grub ,TikTok,18-25,Female,69346,1112,1.6,23,2.1,444.8
+Casey’s Game Day Grub ,TikTok,26-35,Male,34123,520,1.5,11,2.1,312
+Casey’s Game Day Grub ,TikTok,26-35,Female,68576,1088,1.6,23,2.1,435.2
+Casey’s Game Day Grub ,TikTok,36-50,Male,30395,470,1.5,10,2.1,282
+Casey’s Game Day Grub ,TikTok,36-50,Female,64741,1017,1.6,21,2.1,406.8
+Casey’s Game Day Grub ,TikTok,50+,Male,23418,322,1.4,4,1.2,128.8
+Casey’s Game Day Grub ,TikTok,50+,Female,60194,925,1.5,17,1.8,370
+Casey’s Game Day Grub ,YouTube,18-25,Male,47941,292,0.6,7,2.4,233.6
+Casey’s Game Day Grub ,YouTube,18-25,Female,50889,312,0.6,7,2.2,249.6
+Casey’s Game Day Grub ,YouTube,26-35,Male,63677,378,0.6,10,2.6,302.4
+Casey’s Game Day Grub ,YouTube,26-35,Female,67593,406,0.6,11,2.7,324.8
+Casey’s Game Day Grub ,YouTube,36-50,Male,83359,470,0.6,12,2.6,376
+Casey’s Game Day Grub ,YouTube,36-50,Female,87584,498,0.6,13,2.6,398.4
+Casey’s Game Day Grub ,YouTube,50+,Male,40780,227,0.6,5,2.2,170.3
+Casey’s Game Day Grub ,YouTube,50+,Female,47362,263,0.6,6,2.3,197.3
+Casey’s Game Day Grub ,Google Ads,18-25,Male,63516,1246,2,93,7.5,1246
+Casey’s Game Day Grub ,Google Ads,18-25,Female,74360,1472,2,106,7.2,1472
+Casey’s Game Day Grub ,Google Ads,26-35,Male,75084,1498,2,134,8.9,1498
+Casey’s Game Day Grub ,Google Ads,26-35,Female,89653,1793,2,156,8.7,1793
+Casey’s Game Day Grub ,Google Ads,36-50,Male,80805,1553,1.9,138,8.9,1553
+Casey’s Game Day Grub ,Google Ads,36-50,Female,96966,1864,1.9,161,8.6,1864
+Casey’s Game Day Grub ,Google Ads,50+,Male,58359,1133,1.9,94,8.3,1133
+Casey’s Game Day Grub ,Google Ads,50+,Female,70913,1380,1.9,107,7.8,1380
+Casey’s Game Day Grub ,Email,18-25,Male,12654,423,3.3,21,5,42.3
+Casey’s Game Day Grub ,Email,18-25,Female,20289,700,3.4,32,4.6,70
+Casey’s Game Day Grub ,Email,26-35,Male,13579,459,3.4,25,5.4,45.9
+Casey’s Game Day Grub ,Email,26-35,Female,27090,914,3.4,49,5.4,91.4
+Casey’s Game Day Grub ,Email,36-50,Male,10953,388,3.5,23,5.9,38.8
+Casey’s Game Day Grub ,Email,36-50,Female,19118,691,3.6,41,5.9,69.1
+Casey’s Game Day Grub ,Email,50+,Male,7812,260,3.3,13,5,26
+Casey’s Game Day Grub ,Email,50+,Female,12340,436,3.5,21,4.8,43.6
