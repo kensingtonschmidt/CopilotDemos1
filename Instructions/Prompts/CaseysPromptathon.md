@@ -47,6 +47,7 @@ The Learning & Development team is tasked with accelerating employee upskilling 
 **Scenario #6 Overview:**  
 The Internal Communications team is tasked with driving clarity and engagement during a major organizational shift. The goal is to build a framework that uses AI to monitor employee sentiment across multiple channels, segment audiences for tailored messaging, and automate timely updates that reinforce transparency and trust. This activity will help leaders maintain alignment, reduce uncertainty, and create a two-way communication loop that fosters confidence and collaboration.
 
+**Scenario #7 Overview:** Select your own business challenge and build an Action plan/ supporting resources that will guide you toward improvements.
 > **TIP:** For inspiration, explore the Scenario Library: https://adoption.microsoft.com/en-us/scenario-library/
 
 ---
