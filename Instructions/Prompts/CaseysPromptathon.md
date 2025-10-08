@@ -104,7 +104,7 @@ Analyst will:
 
 ### Additional Analyst Scenarios
 
-You can run these additional prompts for variety. Each follows the same pattern: **Prompt → Attach file → Submit → Review results.**
+You can run these additional prompts for variety. Each follows the same pattern: **Prompt → Attach file → Submit → Review results.** But you don't have to attach the file again if you will be using the same input data.
 
 - **Budget Reallocation Scenario & Projection**  
 
