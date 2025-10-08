@@ -233,7 +233,7 @@ Now, create a simple retrieval agent in **Copilot Studio Lite** to address your 
 
 **Steps:**  
 
-1. In the **Copilot Chat** menu, select **Create agent**.
+1. In the **Copilot** menu, select **Create agent**.
 
    ![Screenshot showing create an agent link.](../Prompts/Media/create-agent.png)  
 
