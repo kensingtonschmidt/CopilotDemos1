@@ -106,22 +106,17 @@ Analyst will:
 
 You can run these additional prompts for variety. Each follows the same pattern: **Prompt → Attach file → Submit → Review results.**
 
-- **Financial Projection**  
+- **Budget Reallocation Scenario & Projection**  
 
     ```text
-    Build a 5-year financial projection from this data along with a graph to view revenue growth over time.
+    Based on historical ROI per channel and demographic segment, simulate a budget reallocation: shift 20% of spend away from the bottom-performing channel(s) into the top-performing one(s) while keeping total budget constant. Project the estimated change in total Conversions and overall ROAS under this new allocation, and present side-by-side charts of “Before vs. After.”    
     ```  
 
-    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
-
-- **Sales Performance**  
+- **Audience Segment Analysis**  
 
     ```text
-    Analyze sales volume across locations to identify our highest and lowest performing stores, 
-    along with a visualization of the best-selling products.
+    Segment the data by Age Group and Gender. For each segment, calculate Conversion Rate, Cost per Conversion, and overall ROI. Rank segments by ROI and recommend the top 5 segments where Ross Stores should double down, and the bottom 5 to deprioritize, with supporting charts (e.g., bar-charts of ROI by segment).
     ```  
-
-    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Campaign Performance**  
 
@@ -130,7 +125,6 @@ You can run these additional prompts for variety. Each follows the same pattern:
     and help me decide where to re-target our next campaign.
     ```  
 
-    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
 
 ## Key Takeaway
 
