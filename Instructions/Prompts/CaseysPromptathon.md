@@ -15,7 +15,7 @@ Welcome to the Prompt-a-Thon! This interactive session is designed to help you u
    Use Copilot to address a real-world challenge or workflow in your organization.
 
 2. **Research & Analysis:**  
-   Use Copilot Chat to gather insights from internal and external sources, helping you make informed decisions.
+   Use Copilot to gather insights from internal and external sources, helping you make informed decisions.
 
 3. **Create Your First Agent: (Copilot Studio Lite)**  
    Practice building and testing a Copilot Agent from scratch. You'll learn how to set up instructions, add knowledge sources, and refine your agent by iterating on prompts and responses.
@@ -168,13 +168,13 @@ Together, Researcher and Analyst shorten the path from **question to insight**�
 
 ## Create your first Agent
 
-Discover how Microsoft 365 Copilot and Copilot Studio can help you solve everyday productivity challenges by designing a simple **retrieval-based agent**. This streamlined exercise will walk you through identifying a common issue, exploring how AI could help, and then creating a simple agent to test.  
+Discover how Microsoft 365 Copilot and Copilot Studio lite can help you solve everyday productivity challenges by designing a simple **retrieval-based agent**. This streamlined exercise will walk you through identifying a common issue, exploring how AI could help, and then creating a simple agent to test.  
 
 You'll perform three tasks:
 
 - Identify a productivity pain point  
 - Explore how AI could help with retrieval and organization  
-- Build and test a simple agent in **Copilot Studio**  
+- Build and test a simple agent in **Copilot Studio Lite**  
 
 > **NOTE:** Sample prompts are provided to help you get started—feel free to personalize them to fit your situation.  
 >
@@ -229,7 +229,7 @@ Use the **Researcher Agent** to explore how Copilot or agents might help with yo
     
 ### Task 3: Build and Test Your Agent  
 
-Now, create a simple retrieval agent in **Copilot Studio** to address your challenge.  
+Now, create a simple retrieval agent in **Copilot Studio Lite** to address your challenge.  
 
 **Steps:**  
 
@@ -275,7 +275,7 @@ This assistant will streamline access, improve customer experience, and strength
 
 # Step-by-Step Guide to Create the Agent
 
-## Step 1: Access Copilot Studio
+## Step 1: Access Copilot Studio Lite
 
 Open a new browser tab and navigate to m365.cloud.microsoft/chat (or however you usually navigate to Copilot).
 
