@@ -91,8 +91,8 @@ Researcher will:
     ![Screenshot showing attach files in Analyst.](../Prompts/Media/Analyst-attach-files.png)
 
 
-   ![Caseys_Marketing_Campaign_Results.xlsx](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Caseys_Marketing_Campaign_Results.csv)
-
+Download the following file by right-clicking the link, selecting 'Save As,' and saving it to your local drive:
+- [Caseys_Marketing_Campaign_Results](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Caseys_Marketing_Campaign_Results.xlsx)
 
 
 1. Click **Submit**.  
