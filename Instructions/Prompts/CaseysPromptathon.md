@@ -11,14 +11,43 @@ Welcome to the Prompt-a-Thon! This interactive session is designed to help you u
 
 ## What You’ll Do
 
-You’ll perform several tasks to build Copilot skills:
+1. **Solve a Business Problem:**  
+   Use Copilot to address a real-world challenge or workflow in your organization.
 
-1. **Research & Analysis**: Use Copilot Chat to gather insights from internal and external sources.
-2. **Summarize & Structure**: Transform raw meeting notes into professional summaries.
-3. **Refine with Follow-Up**: Practice enhancing results by asking iterative questions.
-4. **Recap Emails**: Use Copilot in Outlook to extract key actions from email threads.
-5. **Analyze Reviews & Visualize Sentiments**: Turn survey or review data into actionable insights and visuals.
-6. **Visualize Financial Data**: Create charts and heat maps from sales data.
+2. **Research & Analysis:**  
+   Use Copilot Chat to gather insights from internal and external sources, helping you make informed decisions.
+
+3. **Create Your First Agent: (Copilot Studio Lite)**  
+   Practice building and testing a Copilot Agent from scratch. You'll learn how to set up instructions, add knowledge sources, and refine your agent by iterating on prompts and responses.
+
+
+---
+
+# **Scenario Options**
+
+This next section is designed to help you practice and deepen your prompting skills. You can choose to work with Copilot Agents—such as Analyst or Researcher—or use the Copilot Agent to address a real business process. We’ve provided a list of suggested scenarios to inspire you, but if you have a specific challenge or workflow in mind, we highly encourage you to use your own. The goal is to apply what you’ve learned in a way that’s most relevant to your role and objectives.
+
+## Choose a scenario to apply your prompting skills:
+
+**Scenario #1 Overview:**
+We have just announced an organizational realignment within the Customer Solutions-Operations team. Many leaders will have new direct reports, a new leader, and possibly a new business to learn. The goal of this activity is to create a framework and supporting tools that will help the leader navigate this change effectively, develop a 60-day plan to assimilate into the new business, analyze the business operations, and get to know the team. Leverage Copilot to build resources (60-day plan, meet and greet templates, etc.).
+
+**Scenario #2 Overview:**  
+A manager is looking to effectively inspire and improve the performance of their team. The goal is to create a structured approach that helps the manager evaluate performance, provide constructive feedback, and support employee development. Your challenge is to create a framework that will support this manager with a 60-day plan to track KPI performance, build effective gameplans for underperformers, recognize and reward top performance, and communicate progress to their leader along the way.
+
+**Scenario #3 Overview:**  
+HR is focused on strengthening talent acquisition by leveraging data and structured processes. The goal is to research market trends to identify competitive compensation and emerging skills, create a role template that defines responsibilities and success metrics, and design an interview guide that ensures consistency and fairness. This activity will help HR leaders make informed decisions, attract top talent, and streamline hiring.
+
+**Scenario #4 Overview:**  
+Casey’s is planning an expansion into new markets and needs a strategic approach. The goal is to use AI to craft clear communications for internal and external stakeholders, research potential markets to understand demographics, regulations, and competition, and identify operational requirements such as supply chain and compliance needs. This activity will enable Casey’s to make data-driven decisions and execute a smooth expansion strategy.
+
+**Scenario #5 Overview:**  
+The Learning & Development team is tasked with accelerating employee upskilling in emerging technologies. The goal is to design a structured 90-day learning roadmap that includes curated training resources, hands-on projects, and mentorship opportunities, while leveraging AI to personalize learning paths based on role and skill gaps. This activity will help employees stay competitive and drive innovation across the organization.
+
+**Scenario #6 Overview:**  
+The Internal Communications team is tasked with driving clarity and engagement during a major organizational shift. The goal is to build a framework that uses AI to monitor employee sentiment across multiple channels, segment audiences for tailored messaging, and automate timely updates that reinforce transparency and trust. This activity will help leaders maintain alignment, reduce uncertainty, and create a two-way communication loop that fosters confidence and collaboration.
+
+> **TIP:** For inspiration, explore the Scenario Library: https://adoption.microsoft.com/en-us/scenario-library/
 
 ---
 
@@ -331,34 +360,6 @@ Test your agent on the right-hand side of the screen by asking it a question. Yo
 Click create agent and congratulations on building the agent.
 
 ![Effective Prompt.](../Prompts/Media/Caseys105.png)  
-
-
-
-# **Scenario Options**
-
-This next section is designed to help you practice and deepen your prompting skills. You can choose to work with Copilot Agents—such as Analyst or Researcher—or use the Copilot Agent to address a real business process. We’ve provided a list of suggested scenarios to inspire you, but if you have a specific challenge or workflow in mind, we highly encourage you to use your own. The goal is to apply what you’ve learned in a way that’s most relevant to your role and objectives.
-
-## Choose a scenario to apply your prompting skills:
-
-**Scenario #1 Overview:**
-We have just announced an organizational realignment within the Customer Solutions-Operations team. Many leaders will have new direct reports, a new leader, and possibly a new business to learn. The goal of this activity is to create a framework and supporting tools that will help the leader navigate this change effectively, develop a 60-day plan to assimilate into the new business, analyze the business operations, and get to know the team. Leverage Copilot to build resources (60-day plan, meet and greet templates, etc.).
-
-**Scenario #2 Overview:**  
-A manager is looking to effectively inspire and improve the performance of their team. The goal is to create a structured approach that helps the manager evaluate performance, provide constructive feedback, and support employee development. Your challenge is to create a framework that will support this manager with a 60-day plan to track KPI performance, build effective gameplans for underperformers, recognize and reward top performance, and communicate progress to their leader along the way.
-
-**Scenario #3 Overview:**  
-HR is focused on strengthening talent acquisition by leveraging data and structured processes. The goal is to research market trends to identify competitive compensation and emerging skills, create a role template that defines responsibilities and success metrics, and design an interview guide that ensures consistency and fairness. This activity will help HR leaders make informed decisions, attract top talent, and streamline hiring.
-
-**Scenario #4 Overview:**  
-Casey’s is planning an expansion into new markets and needs a strategic approach. The goal is to use AI to craft clear communications for internal and external stakeholders, research potential markets to understand demographics, regulations, and competition, and identify operational requirements such as supply chain and compliance needs. This activity will enable Casey’s to make data-driven decisions and execute a smooth expansion strategy.
-
-**Scenario #5 Overview:**  
-The Learning & Development team is tasked with accelerating employee upskilling in emerging technologies. The goal is to design a structured 90-day learning roadmap that includes curated training resources, hands-on projects, and mentorship opportunities, while leveraging AI to personalize learning paths based on role and skill gaps. This activity will help employees stay competitive and drive innovation across the organization.
-
-**Scenario #6 Overview:**  
-The Internal Communications team is tasked with driving clarity and engagement during a major organizational shift. The goal is to build a framework that uses AI to monitor employee sentiment across multiple channels, segment audiences for tailored messaging, and automate timely updates that reinforce transparency and trust. This activity will help leaders maintain alignment, reduce uncertainty, and create a two-way communication loop that fosters confidence and collaboration.
-
-> **TIP:** For inspiration, explore the Scenario Library: https://adoption.microsoft.com/en-us/scenario-library/
 
 ---
 
