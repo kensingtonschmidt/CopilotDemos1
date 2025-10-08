@@ -69,7 +69,8 @@ Researcher will:
 
 > **Note:** Researcher shows its reasoning path (“chain of thought”), and can call other agents when needed.  
 
-### Analyst: Customer Segmentation & Financial Modeling
+
+## Analyst: Customer Segmentation & Financial Modeling
 
 1. Open **Analyst** from the left navigation in the Copilot app.  
 
