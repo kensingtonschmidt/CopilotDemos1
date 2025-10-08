@@ -20,12 +20,16 @@ Welcome to the Prompt-a-Thon! This interactive session is designed to help you u
 3. **Create Your First Agent: (Copilot Studio Lite)**  
    Practice building and testing a Copilot Agent from scratch. You'll learn how to set up instructions, add knowledge sources, and refine your agent by iterating on prompts and responses.
 
-
 ---
 
 # **Scenario Options**
 
 This next section is designed to help you practice and deepen your prompting skills. You can choose to work with Copilot Agents—such as Analyst or Researcher—or use the Copilot Agent to address a real business process. We’ve provided a list of suggested scenarios to inspire you, but if you have a specific challenge or workflow in mind, we highly encourage you to use your own. The goal is to apply what you’ve learned in a way that’s most relevant to your role and objectives.
+
+## Template
+Feel free to use this template to capture and organize your ideas throughout the session.
+Download the following file by right-clicking the link, selecting ‘Save Link As,’ and saving it to your local drive:
+- [Copilot Prompathon Template](https://github.com/emontes07/Learning/blob/main/ResourceFiles/CopilotPromptathonTemplate.pptx)
 
 ## Choose a scenario to apply your prompting skills:
 
