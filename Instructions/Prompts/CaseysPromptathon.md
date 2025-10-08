@@ -80,8 +80,7 @@ Researcher will:
 1. Enter the following prompt:
 
     ```text
-    Find the right customer segment and demographic to sell our new EV charger, 
-    include a graph to show how this will maximize our market opportunity.
+    Load the attached files. Produce a table of total Spend, Impressions, Clicks, Conversions, CTR, Conversion Rate, and ROAS, broken out first by Campaign and then by Channel. Provide a concise narrative summarizing the top‐level trends you observe (e.g., which campaign had the highest overall ROI, which channel drove the most impressions
     ```
 
 1. Attach the file using **+**:  
