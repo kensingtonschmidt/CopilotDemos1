@@ -7,6 +7,7 @@ demo:
 
 # Niagara Onsite Nov 2025
 ## Search
+Find the file you someone sent you last week that you don’t remember what it is called or where it is saved.
 
 ## Prompting
 ### GCSE in Action
@@ -28,6 +29,7 @@ Recap the [/Contoso and Fabrikam Sustainability] meeting creating a table for ac
 Write a follow up e-mail to the attendees of the /Contoso and Fabrikam Sustainability meeting with a table showing decisions made, another showing actions and owners and lastly a list of considerations for the next meeting
 ```
 ### Top 10 example prompts for M365 Copilot
+####Chat with GPT-5
 > **Note:** Please make sure GPT-5 is Enabled for the following prompts
 ```text
 What are my top priorities today?
@@ -47,54 +49,18 @@ Help me identify colleagues with expertise in [topic]. Summarize their current r
 ```text
 Create a 360-degree overview of [customer] for an upcoming meeting based on recent emails, meetings, and status report, along with recent company news. Share recommendations for the meeting and potential questions I should ask. 
 ```
+####Researcher
+>**Note:** Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.
+```text
+Based on the internal meeting discussion on [topic], draft a comprehensive research report evaluating the ideas proposed. Incorporate relevant insights from external market research, customer meetings and internal intelligence.
+```
+```text
+Create an action item tracker based on all communication channels and other information you can find from the past 7 days. Split it into two categories - actions pending on me, sorted by urgency (and relevance) and actions that I have asked others to do, categorized by if they have a follow up or not, and how long has it been since my request. Recommend who I need to follow up with or send a reminder to. 
+```
+####Analyst
+Help me understand the best market to launch a new flavored water based on fastest growing market
 
-The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
-The specific files needed for this demo are:
-
-- [Contoso_CipherGuard_Product_Specification.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_CipherGuard_Product_Specification.docx)
-
-> **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
-
-## Demos
-
-### Copilot Chat
-
-Let’s start by asking Copilot to create a project implementation plan.
-
-1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
-
-1. Ensure Web mode is selected.
-
-    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
-
-1. In the prompt window, type the following:
-
-    ```text
-    You are an IT infrastructure manager at Contoso. Your task is to create a detailed project implementation plan for installing a new network security product in your corporate network. Your plan should include key milestones, resource allocation, potential risks, and a timeline to ensure successful deployment and minimal disruption to operations.
-    ```
-
-    > **NOTE:** Role-based prompts help Copilot understand the user's responsibilities and context, improving the relevance and specificity of the output.
-
-1. Now we'll refine the project plan by asking Copilot to add new sections to the project plan:
-
-    Input the following prompt:
-
-    ```text
-    Please add the following sections to the existing plan: testing and QA, training, communication, documentation and reporting, stakeholder analysis, project timeline, and risk assessment and mitigation. Ensure these sections provide detailed action steps and align with the existing content. Avoid duplicating any items already included in the original plan.
-    ```
-
-1. Lastly, have Copilot output the proposed project plan to a Word document:
-
-    Input the following prompt:
-
-    ```text
-    Please export the project plan to a Word document.
-    ```
-
-1. Save the generated Word document as **Project_Implementation_Plan.docx**. Copy the shared URL from the document (enable AutoSave and select your OneDrive account if prompted).
-
-    ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
 ### Copilot in Word
 
