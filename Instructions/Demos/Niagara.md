@@ -1,17 +1,52 @@
 ---
 demo:
-    title: 'IT Demo'
+    title: 'Niagara Onsite Nov 2025'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
-# IT Demo
+# Niagara Onsite Nov 2025
+## Search
 
-**Scenario:**  
-
-As an IT Infrastructure Manager, you're planning to install a new network security product into your corporate network.
-
-## Demo Setup
+## Prompting
+### GCSE in Action
+Prompt 1
+```text
+Write a job description for a senior project manager
+```
+Prompt 2
+```text
+Generate a comprehensive job description for a senior project manager focused on technical project management for consumer electronic hardware. This role is urgent, and the candidate will join a dynamic team. Reference our company’s standard specs and industry norms. The description should be concise, max two pages, including responsibilities, qualifications.
+```
+### Extending the Prompt's Purpose
+Prompt 1
+> **Note:** Anytime we use [] , please replace the object with something relevant from your environment and your work life. 
+```text
+Recap the [/Contoso and Fabrikam Sustainability] meeting creating a table for action items, owners and due dates.
+```
+```text
+Write a follow up e-mail to the attendees of the /Contoso and Fabrikam Sustainability meeting with a table showing decisions made, another showing actions and owners and lastly a list of considerations for the next meeting
+```
+### Top 10 example prompts for M365 Copilot
+> **Note:** Please make sure GPT-5 is Enabled for the following prompts
+```text
+What are my top priorities today?
+```
+```text
+Analyze my calendar for conflicts and recommend how to resolve each conflict
+```
+```text
+Based on prior interactions I’ve had with [/person], give me 5 things that will be top of mind for our next interaction
+```
+```text
+Identify all tasks or action items assigned to me from my manager in this week’s emails, Teams chats, and meeting notes, and compile them into a checklist with due dates.
+```
+```text
+Help me identify colleagues with expertise in [topic]. Summarize their current role, key skills, and how their experience aligns with this topic.
+```
+```text
+Create a 360-degree overview of [customer] for an upcoming meeting based on recent emails, meetings, and status report, along with recent company news. Share recommendations for the meeting and potential questions I should ask. 
+```
 
 The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
