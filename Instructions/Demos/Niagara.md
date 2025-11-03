@@ -32,6 +32,7 @@ Write a follow up e-mail to the attendees of the /Contoso and Fabrikam Sustainab
 ### Favorite example prompts for M365 Copilot
 #### Chat with GPT-5
 > Please make sure GPT-5 is Enabled for the following prompts
+
 ##### Prompt 1
 ```text
 What are my top priorities today?
