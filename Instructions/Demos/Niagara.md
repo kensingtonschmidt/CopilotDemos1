@@ -90,6 +90,7 @@ Feel free to reference the second excel spreadsheet called Zava Sales data valid
 3. Go back to the main page for the Quarterly Business Review notebook.
 4. Select "Get audio overview" and then click Generate audio.
 5. Select your style preferences. Add any specific instructions you would like
+
 ---
 ## Create
 > Open M365copilot.com in a web browser and use the file Zava Sales Data.xlsx sent to you.
@@ -100,6 +101,7 @@ Feel free to reference the second excel spreadsheet called Zava Sales data valid
    Create an infographic showing the most popular flavors of water
    ```
 3. Edit the suggested text as desired. Run the creation process and view the result.
+
 ---
 ## Copilot in the flow of work with the M365 Apps
 Your researcher prompts should now be completed. Go take a look.
@@ -120,6 +122,8 @@ Create an executive summary presentation for the board on the research from [/Re
 12. Open Outlook.
 13. Find a lengthy email chain and ask it to summarize.
 14. Reply to the email thread using Copilot to help you draft by using "word vomit".
+
+---
 ## Copilot Studio Lite
 
 
