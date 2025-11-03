@@ -3,7 +3,7 @@ demo:
     title: 'Niagara Onsite Nov 2025'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+[Back to Index](https://kensingtonschmidt.github.io/CopilotDemos1/)
 
 # Niagara Onsite Nov 2025
 ## Search
