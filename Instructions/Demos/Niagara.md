@@ -120,6 +120,7 @@ Create an executive summary presentation for the board on the research from [/Re
 12. Open Outlook.
 13. Find a lengthy email chain and ask it to summarize.
 14. Reply to the email thread using Copilot to help you draft by using "word vomit".
+## Copilot Studio Lite
 
 
 
