@@ -32,8 +32,7 @@ Write a follow up e-mail to the attendees of the /Contoso and Fabrikam Sustainab
 
 ### Favorite example prompts for M365 Copilot
 #### Chat with GPT-5
-> [!Note]
-> Please make sure GPT-5 is Enabled for the following prompts    
+> [!Note] Please make sure GPT-5 is Enabled for the following prompts    
 ##### Prompt 1
 ```text
 What are my top priorities today?
@@ -59,8 +58,7 @@ Help me identify colleagues with expertise in [topic]. Summarize their current r
 Create a 360-degree overview of [customer] for an upcoming meeting based on recent emails, meetings, and status report, along with recent company news. Share recommendations for the meeting and potential questions I should ask. 
 ```
 #### Researcher
->[!Note]
-> Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.    
+>[!Note] Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.    
 ##### Prompt 1
 ```text
 Based on the internal meeting discussion on [topic], draft a comprehensive research report evaluating the ideas proposed. Incorporate relevant insights from external market research, customer meetings and internal intelligence.
@@ -70,8 +68,7 @@ Based on the internal meeting discussion on [topic], draft a comprehensive resea
 Create an action item tracker based on all communication channels and other information you can find from the past 7 days. Split it into two categories - actions pending on me, sorted by urgency (and relevance) and actions that I have asked others to do, categorized by if they have a follow up or not, and how long has it been since my request. Recommend who I need to follow up with or send a reminder to. 
 ```
 #### Analyst
->[!Note]
-> Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.    
+>[!Note] Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.    
 ``` text
 Help me understand the best market to launch a new flavored water based on fastest growing market
 ```
