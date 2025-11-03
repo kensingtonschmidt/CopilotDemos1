@@ -116,6 +116,11 @@ Create an executive summary presentation for the board on the research from [/Re
 8. Select the 'Creative' style.
 9. View the length options and select your preference.
 10. Run the prompt and view the results.
+11. Translate the presentation into the language of your choice.
+12. Open Outlook.
+13. Find a lengthy email chain and ask it to summarize.
+14. Reply to the email thread using Copilot to help you draft by using "word vomit".
+
 
 
 
