@@ -84,12 +84,12 @@ Feel free to reference the second excel spreadsheet called Zava Sales data valid
 
 1. Create a new notebook called "Quarterly Business Reports" and add the 6 files.
 2. Use the following prompt:
-    ```text
-    Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25Q2 and include a list of the top 5 business outcomes for an annual report.    
-    ```
+```text
+Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25Q2 and include a list of the top 5 business outcomes for an annual report.    
+```
 3. Go back to the main page for the Quarterly Business Review notebook.
 4. Select "Get audio overview" and then click Generate audio.
-5. Select your style preferences. Add any specific instructions you would like
+5. Select your style preferences. Add any specific instructions you would like.
 
 ---
 ## Create
