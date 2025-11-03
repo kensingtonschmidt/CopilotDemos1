@@ -60,8 +60,15 @@ Based on the internal meeting discussion on [topic], draft a comprehensive resea
 ```text
 Create an action item tracker based on all communication channels and other information you can find from the past 7 days. Split it into two categories - actions pending on me, sorted by urgency (and relevance) and actions that I have asked others to do, categorized by if they have a follow up or not, and how long has it been since my request. Recommend who I need to follow up with or send a reminder to. 
 ```
-####Analyst
+Analyst
+
 Help me understand the best market to launch a new flavored water based on fastest growing market
+
+
+
+
+
+
 
 
 
