@@ -77,6 +77,7 @@ I need help answering the following 10 sales insights questions. Create a 2-colu
 ```
 ## Notebooks
 > Use all of the Zava Sales Org QBR Word files sent to you
+
 1. Create a new notebook called "Quarterly Business Reports" and add the 6 files.
 2. Use the following prompt:
 ```text
