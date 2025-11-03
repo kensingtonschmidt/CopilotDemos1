@@ -10,7 +10,7 @@ demo:
 Find the file you someone sent you last week that you don’t remember what it is called or where it is saved.
 
 ## Prompting
-### GCSE in Action
+**GCSE in Action**
 Prompt 1
 ```text
 Write a job description for a senior project manager
@@ -19,7 +19,7 @@ Prompt 2
 ```text
 Generate a comprehensive job description for a senior project manager focused on technical project management for consumer electronic hardware. This role is urgent, and the candidate will join a dynamic team. Reference our company’s standard specs and industry norms. The description should be concise, max two pages, including responsibilities, qualifications.
 ```
-### Extending the Prompt's Purpose
+**Extending the Prompt's Purpose**
 Prompt 1
 > **Note:** Anytime we use [] , please replace the object with something relevant from your environment and your work life. 
 ```text
@@ -28,7 +28,7 @@ Recap the [/Contoso and Fabrikam Sustainability] meeting creating a table for ac
 ```text
 Write a follow up e-mail to the attendees of the /Contoso and Fabrikam Sustainability meeting with a table showing decisions made, another showing actions and owners and lastly a list of considerations for the next meeting
 ```
-### Top 10 example prompts for M365 Copilot
+**Top 10 example prompts for M365 Copilot**
 ####Chat with GPT-5
 > **Note:** Please make sure GPT-5 is Enabled for the following prompts
 ```text
