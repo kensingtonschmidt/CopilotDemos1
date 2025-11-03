@@ -11,6 +11,7 @@ Find the file you someone sent you last week that you don’t remember what it i
 
 ## Prompting
 **GCSE in Action**
+
 Prompt 1
 ```text
 Write a job description for a senior project manager
@@ -20,6 +21,7 @@ Prompt 2
 Generate a comprehensive job description for a senior project manager focused on technical project management for consumer electronic hardware. This role is urgent, and the candidate will join a dynamic team. Reference our company’s standard specs and industry norms. The description should be concise, max two pages, including responsibilities, qualifications.
 ```
 **Extending the Prompt's Purpose**
+
 Prompt 1
 > **Note:** Anytime we use [] , please replace the object with something relevant from your environment and your work life. 
 ```text
@@ -29,7 +31,8 @@ Recap the [/Contoso and Fabrikam Sustainability] meeting creating a table for ac
 Write a follow up e-mail to the attendees of the /Contoso and Fabrikam Sustainability meeting with a table showing decisions made, another showing actions and owners and lastly a list of considerations for the next meeting
 ```
 **Top 10 example prompts for M365 Copilot**
-####Chat with GPT-5
+
+Chat with GPT-5
 > **Note:** Please make sure GPT-5 is Enabled for the following prompts
 ```text
 What are my top priorities today?
@@ -49,7 +52,7 @@ Help me identify colleagues with expertise in [topic]. Summarize their current r
 ```text
 Create a 360-degree overview of [customer] for an upcoming meeting based on recent emails, meetings, and status report, along with recent company news. Share recommendations for the meeting and potential questions I should ask. 
 ```
-####Researcher
+Researcher
 >**Note:** Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.
 ```text
 Based on the internal meeting discussion on [topic], draft a comprehensive research report evaluating the ideas proposed. Incorporate relevant insights from external market research, customer meetings and internal intelligence.
