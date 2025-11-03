@@ -101,11 +101,21 @@ Feel free to reference the second excel spreadsheet called Zava Sales data valid
 
 
 
-### Copilot in Word
-
-We'll now ask Copilot to expand on these strategies and draft proposals on how to implement them.
-
-1. Open Word (either in your browser or desktop application).
+## Copilot in the flow of work with the M365 Apps
+Your researcher prompts should now be completed. Go take a look.
+1. Open the results of the first researcher prompt with the research report on the topic you chose.
+2. Click edit in pages.
+3. You want help from a colleague on a portion of this. @mention someone sitting next to you. Make sure you click on their name to allow access.
+4. Open the pages in Word.
+5. Save the word document as "Research Report on [Your Topic]" to your OneDrive.
+6. Open Powerpoint and select "Create a presentation with Copilot"
+7. Use the following prompt:
+    ```text
+  Create an executive summary presentation for the board on the research from [/Research Report on [Your topic]].
+   ```
+8. Select the 'Creative' style.
+9. View the length options and select your preference.
+10. Run the prompt and view the results
 
 1. In the **describe what you’d like to write** prompt box, type the following:
 
