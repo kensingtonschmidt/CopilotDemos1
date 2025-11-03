@@ -72,8 +72,9 @@ Create an action item tracker based on all communication channels and other info
 #### Analyst
 >[!Note]
 > Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.    
+``` text
 Help me understand the best market to launch a new flavored water based on fastest growing market
-
+```
 
 
 
