@@ -10,7 +10,7 @@ demo:
 Find the file you someone sent you last week that you don’t remember what it is called or where it is saved.
 
 ## Prompting
-**GCSE in Action**
+###**GCSE in Action**
 
 Prompt 1
 ```text
