@@ -20,7 +20,7 @@ Generate a comprehensive job description for a senior project manager focused on
 ```
 ### Extending the Prompt's Purpose
 #### Prompt 1
-> Anytime we use [] , please replace the object with something relevant from your environment and your work life.
+> [!Note] Anytime we use [] , please replace the object with something relevant from your environment and your work life.
 
 ```text
 Recap the [/Contoso and Fabrikam Sustainability] meeting creating a table for action items, owners and due dates.
