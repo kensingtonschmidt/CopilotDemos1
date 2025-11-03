@@ -8,6 +8,8 @@ demo:
 # Niagara Onsite Nov 2025
 ## Search
 Find the file you someone sent you last week that you don’t remember what it is called or where it is saved.
+
+---
 ## Prompting
 ### GCSE in Action
 #### Prompt 1
@@ -76,6 +78,7 @@ I need help answering the following 10 sales insights questions. Create a 2-colu
 ```
 Feel free to reference the second excel spreadsheet called Zava Sales data validation.xslx to check your answers. How long would it have taken you to do this manually?
 
+---
 ## Notebooks
 > Use all of the Zava Sales Org QBR Word files sent to you
 
@@ -87,7 +90,7 @@ Feel free to reference the second excel spreadsheet called Zava Sales data valid
 3. Go back to the main page for the Quarterly Business Review notebook.
 4. Select "Get audio overview" and then click Generate audio.
 5. Select your style preferences. Add any specific instructions you would like
-
+---
 ## Create
 > Open M365copilot.com in a web browser and use the file Zava Sales Data.xlsx sent to you.
   
@@ -97,10 +100,7 @@ Feel free to reference the second excel spreadsheet called Zava Sales data valid
    Create an infographic showing the most popular flavors of water
    ```
 3. Edit the suggested text as desired. Run the creation process and view the result.
-
-
-
-
+---
 ## Copilot in the flow of work with the M365 Apps
 Your researcher prompts should now be completed. Go take a look.
 1. Open the results of the first researcher prompt with the research report on the topic you chose.
@@ -110,12 +110,17 @@ Your researcher prompts should now be completed. Go take a look.
 5. Save the word document as "Research Report on [Your Topic]" to your OneDrive.
 6. Open Powerpoint and select "Create a presentation with Copilot"
 7. Use the following prompt:
-    ```text
-  Create an executive summary presentation for the board on the research from [/Research Report on [Your topic]].
-   ```
+ ```text
+Create an executive summary presentation for the board on the research from [/Research Report on [Your topic]].
+```
 8. Select the 'Creative' style.
 9. View the length options and select your preference.
-10. Run the prompt and view the results
+10. Run the prompt and view the results.
+
+
+
+
+---
 
 1. In the **describe what you’d like to write** prompt box, type the following:
 
