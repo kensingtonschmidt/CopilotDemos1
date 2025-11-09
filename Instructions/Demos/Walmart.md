@@ -56,12 +56,12 @@ Help me identify colleagues with expertise in [topic]. Summarize their current r
 Create a 360-degree overview of [supplier] for an upcoming meeting based on recent emails, meetings, and status report, along with recent company news. Share recommendations for the meeting and potential questions I should ask. 
 ```
 ## Promptathon Contest
-We are holding a prompting contest! Please play around and submit your most useful prompt here: https://forms.microsoft.com/r/peinC8uvBv
+We are holding a prompting contest! Please play around and submit your most useful prompt here: [https://forms.microsoft.com/r/peinC8uvBv](https://forms.microsoft.com/r/peinC8uvBv)
 
 <img width="1306" height="777" alt="image" src="https://github.com/user-attachments/assets/03f64042-ad44-4dc4-bf02-6667602ff1db" />
 
 ## Feedback on this Session   
-Your feedback is important to us! Please click the following link to let us know what you think about the session: https://aka.ms/CopilotWeekFeedback
+Your feedback is important to us! Please click the following link to let us know what you think about the session: [https://aka.ms/CopilotWeekFeedback](https://aka.ms/CopilotWeekFeedback)
 
 <img width="1433" height="706" alt="image" src="https://github.com/user-attachments/assets/39c6d917-d495-4552-9e96-78534623c27d" />
 
