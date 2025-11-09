@@ -6,7 +6,7 @@ demo:
 [Back to Index](https://kensingtonschmidt.github.io/CopilotDemos1/)
 
 # Walmart Promptathon Training Nov 2025
-## Prompting
+## Prompting Lesson and Best Practices
 ### GCSE in Action
 #### Prompt 1
 ```text
