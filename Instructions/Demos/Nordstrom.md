@@ -17,7 +17,7 @@ demo:
 What are my top priorities today?
 ```
 ##### 2.Scheduling prompts
-In the same chat window as Prompt 1, tell Copilot to schedule that prompt
+In the same chat window as Prompt 1, click on the three dots below the response and click "Schedule this prompt". 
 ##### 3.Calendar conflicts prompt  
 ```text
 Analyze my calendar for conflicts and recommend how to resolve each conflict
