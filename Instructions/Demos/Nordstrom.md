@@ -7,6 +7,16 @@ demo:
 
 # Nordstrom Onsite - Hands on with M365 Copilot Nov 2025
 
+## Reference Material
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ee6f71fc-7a4e-45b4-8639-7f150568c945" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6b32d55e-2012-4ee9-b14a-d8aa310374e7" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5319c085-533d-4681-bd10-36bba5345f13" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b8178f8b-b65c-4b0d-9eef-8d8488db979b" />
+
+## Prep Work
+> Copy all of the Word files and the Excel file provided to you in the Slack channel into a folder in your OneDrive.
+
+
 ## Top Advanced Prompts
 ### Favorite example prompts for M365 Copilot
 #### Chat with GPT-5
@@ -63,7 +73,7 @@ Feel free to reference the second excel spreadsheet called Zava Sales data valid
 ##### Notebooks
 > Use all of the Zava Sales Org QBR Word files sent to you
 
-1. Create a new notebook called "Quarterly Business Reports" and add the 6 files.
+1. Create a new notebook called "Quarterly Business Reports" and add the 6 files by finding them in your OneDrive folder you created earlier.
 2. Use the following prompt:
 ```text
 Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25Q2 and include a list of the top 5 business outcomes for an annual report.    
