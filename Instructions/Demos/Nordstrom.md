@@ -1,6 +1,6 @@
 ---
 demo:
-    title: 'Nordstrom Onsite Nov 2025'
+    title: 'Nordstrom Onsite Dec 2025'
 ---
 
 [Back to Index](https://kensingtonschmidt.github.io/CopilotDemos1/)
