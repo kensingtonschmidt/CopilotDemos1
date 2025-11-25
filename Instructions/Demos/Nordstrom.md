@@ -8,7 +8,7 @@ demo:
 # Nordstrom Onsite - Hands on with M365 Copilot Nov 2025
 
 ## Reference Material
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ee6f71fc-7a4e-45b4-8639-7f150568c945" />
+<img width="1600" height=auto alt="image" src="https://github.com/user-attachments/assets/ee6f71fc-7a4e-45b4-8639-7f150568c945" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6b32d55e-2012-4ee9-b14a-d8aa310374e7" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5319c085-533d-4681-bd10-36bba5345f13" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b8178f8b-b65c-4b0d-9eef-8d8488db979b" />
