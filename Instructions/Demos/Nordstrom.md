@@ -29,7 +29,7 @@ demo:
   - When I want to narrow the scope to a specific set of data inside M365 or web to create better results
   - When I want to dictate the output to look a certain way or templatize it.
   - When I want to extend an agent with AgentIQ data to unlicensed users
-- **Copilot Studio Full** - accessed via http://copilotstudio.microsoft.com. It is the core low-code authoring tool for developers, IT Pros, and power users.
+- **Copilot Studio Full** - accessed via [http://copilotstudio.microsoft.com]. It is the core low-code authoring tool for developers, IT Pros, and power users.
   - All Copilot Studio Lite situations AND
   - When I want a company sanctioned agent that can be used by anybody in the org (ie larger possible scope to rollout than a Studio Lite agent)
   - When I want to use third party connectors to data sources
