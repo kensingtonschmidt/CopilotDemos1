@@ -17,7 +17,7 @@ demo:
 > Agents built with these tools can be published to M365 Copilot app, any M365 Copilot experience inside Word, Excel, PPT, Outlook, OneNote, etc. You can also use Copilot Studio Full to publish agents to many other channels (Ex: Web).
 
 - **Copilot Studio Lite** - Built into M365 Copilot app directly as a quick, easy way to build declarative agents for business users and anyone else who wants to template a prompt to share.
-- **Copilot Studio Full** - Main Low Code authoring tool for developers, IT Pros, and power users. (Access Copilot Studio Full here and bookmark)[http://copilotstudio.microsoft.com/]
+- **Copilot Studio Full** - Main Low Code authoring tool for developers, IT Pros, and power users. [Access Copilot Studio Full here and bookmark](http://copilotstudio.microsoft.com/)
 
 #### When to use a prompt or build an agent?
 - **M365 Copilot** - Microsoft's 'super agent' if you will. It has tremendous and ever expanding capabilities that can be unlocked with good prompting from a chat window in the M365 Copilot app or in the core M365 Apps themselves, such as Word, Excel, PPT, Outlook, OneNote and more.
@@ -29,7 +29,7 @@ demo:
   - When I want to narrow the scope to a specific set of data inside M365 or web to create better results
   - When I want to dictate the output to look a certain way or templatize it.
   - When I want to extend an agent with AgentIQ data to unlicensed users
-- **Copilot Studio Full** - accessed via [http://copilotstudio.microsoft.com]. It is the core low-code authoring tool for developers, IT Pros, and power users.
+- **Copilot Studio Full** - accessed via (http://copilotstudio.microsoft.com). It is the core low-code authoring tool for developers, IT Pros, and power users.
   - All Copilot Studio Lite situations AND
   - When I want a company sanctioned agent that can be used by anybody in the org (ie larger possible scope to rollout than a Studio Lite agent)
   - When I want to use third party connectors to data sources
@@ -40,7 +40,7 @@ demo:
 
 ## Prep Work
 > Copy all of the Word files and the Excel file provided to you in the Slack channel into a folder in your OneDrive.
-> View (Anthropic Joins the Mulit-Modal Lineup in Microsoft Copilot Studio) [https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/anthropic-joins-the-multi-model-lineup-in-microsoft-copilot-studio/]
+> View [Anthropic Joins the Mulit-Modal Lineup in Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/anthropic-joins-the-multi-model-lineup-in-microsoft-copilot-studio/)
 
 ## Top Advanced Prompts
 ### Favorite example prompts for M365 Copilot
