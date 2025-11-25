@@ -8,11 +8,6 @@ demo:
 # Nordstrom Onsite - Hands on with M365 Copilot Nov 2025
 
 ## Reference Material
-<img width="1600" height=auto alt="image" src="https://github.com/user-attachments/assets/ee6f71fc-7a4e-45b4-8639-7f150568c945" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6b32d55e-2012-4ee9-b14a-d8aa310374e7" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5319c085-533d-4681-bd10-36bba5345f13" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b8178f8b-b65c-4b0d-9eef-8d8488db979b" />
-
 ### Copilot Disambiguation
 #### Main User Experiences or App
 - **M365 Copilot** - name of the central app, experience, and license that enables the full, rich Copilot experience inside M365. It is accessed via the M365 Copilot app as well as in Word, Excel, PPT, Outlook, OneNote and other M365 apps. You are all licensed users in this training. Note: Some of the people you build agents for may end up not being licensed users.
@@ -20,6 +15,7 @@ demo:
 
 #### Main Agent Authoring Tools
 > Agents built with these tools can be published to M365 Copilot app, any M365 Copilot experience inside Word, Excel, PPT, Outlook, OneNote, etc. You can also use Copilot Studio Full to publish agents to many other channels (Ex: Web).
+
 - **Copilot Studio Lite** - Built into M365 Copilot app directly as a quick, easy way to build declarative agents for business users and anyone else who wants to template a prompt to share.
 - **Copilot Studio Full** - Main Low Code authoring tool for developers, IT Pros, and power users. http://copilotstudio.microsoft.com/
 
