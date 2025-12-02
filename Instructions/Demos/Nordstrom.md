@@ -40,7 +40,7 @@ demo:
 
 ## Prep Work
 > - Copy all of the Word files and the Excel file provided to you in the Slack channel into a folder in your OneDrive.
-> - [View Anthropic Joins the Mulit-Modal Lineup in Microsoft Copilot Studio]([url]https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/anthropic-joins-the-multi-model-lineup-in-microsoft-copilot-studio/)
+> - [View Anthropic Joins the Mulit-Modal Lineup in Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/anthropic-joins-the-multi-model-lineup-in-microsoft-copilot-studio/)
 
 ## Top Advanced Prompts
 ### Favorite example prompts for M365 Copilot
