@@ -5,7 +5,7 @@ demo:
 
 [Back to Index](https://kensingtonschmidt.github.io/CopilotDemos1/)
 
-# Nordstrom Onsite - Hands on with M365 Copilot Nov 2025
+# Nordstrom Onsite - Hands on with M365 Copilot Nov/Dec 2025
 
 ## Reference Material
 ### Copilot Disambiguation
