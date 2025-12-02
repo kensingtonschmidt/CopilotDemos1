@@ -149,5 +149,6 @@ Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25
 5. Send the email if you want to do so.
 6. Find that same lengthy email chain and click the "Schedule with Copilot" button in New Outlook.
 7. View and insert the Copilot generated summary and agenda.
+8. Send the meeting invite.
 
 ---
