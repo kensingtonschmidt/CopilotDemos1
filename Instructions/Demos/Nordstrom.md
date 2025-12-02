@@ -131,7 +131,7 @@ Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25
 ## Copilot in the flow of work with the M365 Apps
 > Your researcher prompts should now be completed. Go take a look.
 
-Scenario: You need to research something with a colleague and submit a report.
+**Scenario:** You need to research something with a colleague and submit a report.
 1. Open the results of the first researcher prompt with the research report on the topic you chose.
 2. Click edit in pages.
 3. You want help from a colleague on a portion of this. @mention someone sitting next to you. Make sure you click on their name to allow access.
@@ -140,8 +140,8 @@ Scenario: You need to research something with a colleague and submit a report.
 6. Save the word document as "Research Report on [Your Topic]" to your OneDrive.
 
 >The following scenario and instructions assume you are using New Outlook and not Outlook (classic).
-
-Scenario: You need to reply to a lengthy email chain and schedule a follow up meeting to spare everyone's inboxes.
+   
+**Scenario:** You need to reply to a lengthy email chain and schedule a follow up meeting to spare everyone's inboxes.
 1. Open Outlook.
 2. Find a lengthy email chain from your actual inbox and click on "Summary by Copilot" to ask it to summarize.
 3. Click 'Reply' to reply to the email chain.
@@ -149,4 +149,5 @@ Scenario: You need to reply to a lengthy email chain and schedule a follow up me
 5. Send the email if you want to do so.
 6. Find that same lengthy email chain and click the "Schedule with Copilot" button in New Outlook.
 7. View and insert the Copilot generated summary and agenda.
+
 ---
