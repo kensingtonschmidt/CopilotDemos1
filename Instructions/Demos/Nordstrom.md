@@ -69,30 +69,50 @@ Identify all tasks or action items assigned to me from my manager in this week�
 ```text
 Help me identify colleagues with expertise in [topic]. Summarize their current role, key skills, and how their experience aligns with this topic.
 ```
-##### 7. Customer overview prompt
+##### 7. Dev issue overview prompt
 ```text
-Create a 360-degree overview of [customer] for an upcoming meeting based on recent emails, meetings, and status report, along with recent company news. Share recommendations for the meeting and potential questions I should ask. 
+Create a 360-degree overview of [dev issue] for an upcoming meeting based on recent emails, meetings, and status report, along with recent company news. Share recommendations for the meeting and potential questions I should ask. 
 ```
+##### 8. You try and share!
+Ideate on what we have learned here and your GCSE framework for prompting to craft a prompt relevant to your role. Here is a theoretical example:
+```text
+Create a feature spec for [feature name] using /[Word template] based on the discussion in /[meeting 1] /[meeting 2]
+```
+Share any prompts you have learned in the chat so everyone can use them!
+
 #### Researcher
 > Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.
 
 ##### 1. Research report on specific meeting topic prompt
 ```text
-Based on the internal meeting discussion on [topic], draft a comprehensive research report evaluating the ideas proposed. Incorporate relevant insights from external market research, customer meetings and internal intelligence.
+Based on the internal meeting discussion on [topic], draft a comprehensive research report evaluating the ideas proposed. Incorporate relevant insights from external market research, meetings, and internal intelligence.
 ```
 ##### 2. Action item prompt with Researcher
 ```text
-Create an action item tracker based on all communication channels and other information you can find from the past 7 days. Split it into two categories - actions pending on me, sorted by urgency (and relevance) and actions that I have asked others to do, categorized by if they have a follow up or not, and how long has it been since my request. Recommend who I need to follow up with or send a reminder to. 
+Create an action item tracker based on all communication channels and other information you can find from the past 7 days. Split it into two categories - actions pending on me, sorted by urgency (and relevance) and actions that I have asked others to do, categorized by if they have a follow up or not, and how long has it been since my request. Recommend who I need to follow up with or send a reminder to. Draft the follow ups you recommend for me.
 ```
 #### Analyst
 > Open M365copilot.com in a web browser and use the file Zava Sales Data.xlsx sent to you.
 
 ##### 1. Sales insights prompt
+Scenario: You are a data analyst and get an email from your manager asking you to answer the following 10 questions based on the sales from Zava (fake Microsoft brand). They want the response ASAP. You could do this by hand... or.... you could use your trusty Analyst agent in Copilot.
+
+1. What are the top 3 products by total sales, and how do their profit margins compare?
+2. Which country generated the highest sales, and what was its average discount rate?
+3. How did the sales and profit for the product “Paseo” trend month-over-month in 2024?
+4. What is the weighted average selling price (ASP) for each product group, and which group has the highest ASP?
+5. Which customer segment achieved the highest average profit per unit sold?
+6. What was the best and worst month for total sales, and what were the main drivers?
+7. How does the gross margin % for “Paseo” compare to other products in the same segment?
+8. What is the share of total sales and units for “Paseo” compared to all products?
+9. Which segment had the highest average discount %, and how did that impact their profit?
+10. Are there any segments or countries with negative profit or margin, and what’s causing it?
+
 ``` text
 I need help answering the following 10 sales insights questions. Create a 2-column table with the question & response, and use [/Zava Sales Data.xlsx]. Here are the questions: 1. What are the top 3 products by total sales, and how do their profit margins compare? 2. Which country generated the highest sales, and what was its average discount rate? 3. How did the sales and profit for the product “Paseo” trend month-over-month in 2024? 4. What is the weighted average selling price (ASP) for each product group, and which group has the highest ASP? 5. Which customer segment achieved the highest average profit per unit sold? 6. What was the best and worst month for total sales, and what were the main drivers? 7. How does the gross margin % for “Paseo” compare to other products in the same segment? 8. What is the share of total sales and units for “Paseo” compared to all products? 9. Which segment had the highest average discount %, and how did that impact their profit? 10. Are there any segments or countries with negative profit or margin, and what’s causing it?
 ```
 ##### 2. Check your answers
-Feel free to reference the second excel spreadsheet called Zava Sales data validation.xslx to check your answers. How long would it have taken you to do this manually?
+Feel free to reference the second excel spreadsheet called [Zava Sales data validation.xslx] to check your answers. How long would it have taken you to do this manually?
 
 ---
 ##### Notebooks
