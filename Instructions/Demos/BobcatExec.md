@@ -13,12 +13,6 @@ demo:
 - **M365 Copilot** - name of the central app, experience, and license that enables the full, rich Copilot experience inside M365. It is accessed via the M365 Copilot app as well as in Word, Excel, PPT, Outlook, OneNote and other M365 apps. You are all licensed users in this training. Note: Some of the people you build agents for may end up not being licensed users.
 -  **M365 Copilot Chat** - name of the free/included experience that **all** M365 users can access. Can reason over web data and can access agents you deploy.
 
-#### Main Agent Authoring Tools
-> Agents built with these tools can be published to M365 Copilot app, any M365 Copilot experience inside Word, Excel, PPT, Outlook, OneNote, etc. You can also use Copilot Studio Full to publish agents to many other channels (Ex: Web).
-
-- **Copilot Studio Lite** - Built into M365 Copilot app directly as a quick, easy way to build declarative agents for business users and anyone else who wants to template a prompt to share.
-- **Copilot Studio Full** - Main Low Code authoring tool for developers, IT Pros, and power users. [Access Copilot Studio Full here and bookmark](http://copilotstudio.microsoft.com/).
-
 #### When to use a prompt or build an agent?
 - **M365 Copilot** - Microsoft's 'super agent' if you will. It has tremendous and ever expanding capabilities that can be unlocked with good prompting from a chat window in the M365 Copilot app or in the core M365 Apps themselves, such as Word, Excel, PPT, Outlook, OneNote and more.
   - Try prompt first with GCSE best practices
@@ -29,18 +23,9 @@ demo:
   - When I want to narrow the scope to a specific set of data inside M365 or web to create better results
   - When I want to dictate the output to look a certain way or templatize it.
   - When I want to extend an agent with AgentIQ data to unlicensed users
-- **Copilot Studio Full** - accessed via (http://copilotstudio.microsoft.com). It is the core low-code authoring tool for developers, IT Pros, and power users.
-  - All Copilot Studio Lite situations AND
-  - When I want a company sanctioned agent that can be used by anybody in the org (ie larger possible scope to rollout than a Studio Lite agent)
-  - When I want to use third party connectors to data sources
-  - When I want an agent to be able to take an action
-  - When I want to create a fully autonomous agent
-  - When I want to use MCP or A2A capabilities
-  - When I want to leverage and access models built in Azure AI Foundry
 
 ## Prep Work
-> - Copy all of the Word files and the Excel file provided to you in the Slack channel into a folder in your OneDrive.
-> - [View Anthropic Joins the Mulit-Modal Lineup in Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/anthropic-joins-the-multi-model-lineup-in-microsoft-copilot-studio/)
+> - Copy all of the Word files and the Excel files provided to you into a folder on your OneDrive
 
 ## Top Advanced Prompts
 ### Favorite example prompts for M365 Copilot
@@ -61,24 +46,6 @@ Analyze my calendar for conflicts and recommend how to resolve each conflict
 ```text
 Based on prior interactions I’ve had with [/person], give me 5 things that will be top of mind for our next interaction
 ```
-##### 5. Tasks from my manager prompt
-```text
-Identify all tasks or action items assigned to me from my manager in this week’s emails, Teams chats, and meeting notes, and compile them into a checklist with due dates.
-```
-##### 6. Find people with expertise prompt
-```text
-Help me identify colleagues with expertise in [topic]. Summarize their current role, key skills, and how their experience aligns with this topic.
-```
-##### 7. Dev issue overview prompt
-```text
-Create a 360-degree overview of [dev issue] for an upcoming meeting based on recent emails, meetings, and status report, along with recent company news. Share recommendations for the meeting and potential questions I should ask. 
-```
-##### 8. You try and share!
-Ideate on what we have learned here and your GCSE framework for prompting to craft a prompt relevant to your role. Here is a theoretical example:
-```text
-Create a feature spec for [feature name] using /[Word template] based on the discussion in /[meeting 1] /[meeting 2]
-```
-Share any prompts you have learned in the chat so everyone can use them!
 
 #### Researcher
 > Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.
