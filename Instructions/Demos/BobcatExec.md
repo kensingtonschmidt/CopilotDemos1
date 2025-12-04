@@ -40,7 +40,7 @@ What are my top priorities today?
 In the same chat window as Prompt 1, click on the three dots below the response and click "Schedule this prompt". 
 ##### 3. Calendar conflicts prompt  
 ```text
-Analyze my calendar for conflicts and recommend how to resolve each conflict
+Analyze my calendar for conflicts this week and recommend how to resolve each conflict
 ```
 ##### 4. One on One Meeting prep prompt
 ```text
@@ -50,9 +50,13 @@ Based on prior interactions I’ve had with [/person], give me 5 things that wil
 #### Researcher
 > Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.
 
-##### 1. Research report on specific meeting topic prompt
+##### 1. Research report on my common day to day issues
 ```text
-Based on the internal meeting discussion on [topic], draft a comprehensive research report evaluating the ideas proposed. Incorporate relevant insights from external market research, meetings, and internal intelligence.
+I’m researching common day-to-day issues I face at work, such as processes, collaboration, or time management. Look at recent conversations from Teams chats, Outlook emails, or other collaboration tools related to [your role focus]. Summarize the key issues or pain points mentioned in the last 6 months. Show the results in a table with:  
+
+ - Title: Short label for the issue  
+ - Description: Brief summary of the challenge  
+ - Frequency: How often it comes up (e.g., number of mentions)
 ```
 ##### 2. Action item prompt with Researcher
 ```text
