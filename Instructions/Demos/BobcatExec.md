@@ -6,6 +6,8 @@ demo:
 [Back to Index](https://kensingtonschmidt.github.io/CopilotDemos1/)
 
 # Bobcat Onsite - Hands on with M365 Copilot
+## Prep Work
+> - Copy all of the Word files and the Excel files provided to you into a folder on your OneDrive
 
 ## Reference Material
 ### Copilot Disambiguation
@@ -23,9 +25,6 @@ demo:
   - When I want to narrow the scope to a specific set of data inside M365 or web to create better results
   - When I want to dictate the output to look a certain way or templatize it.
   - When I want to extend an agent with AgentIQ data to unlicensed users
-
-## Prep Work
-> - Copy all of the Word files and the Excel files provided to you into a folder on your OneDrive
 
 ## Top Advanced Prompts
 ### Favorite example prompts for M365 Copilot
