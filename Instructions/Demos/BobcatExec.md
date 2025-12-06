@@ -27,7 +27,7 @@ demo:
   - When I want to extend an agent with AgentIQ data to unlicensed users
 ---
 ## Day in the Life
-### Mobile Device
+### At home on your mobile device
 #### M365 Mobile App
 > Please make sure you have installed the app titled "M365 Copilot" and not just "Copilot". The latter is the **consumer** app that is a substantially different experience and will not work with your work account.
 
@@ -72,8 +72,7 @@ demo:
 8. Click the "Generate" button at the bottom of the screen.
 9. You have now created an audio podcast for your missed meetings! After it has finished processing, you will be notified and can find the audio recaps under the Headphones icon. These are excellent to listen in to in the car, on a run/walk, at the gym, and many other times!
 
-#### 
-### Favorite example prompts for M365 Copilot
+### Start your day on your laptop at work
 #### Chat with GPT-5
 > Please make sure GPT-5 is Enabled for the following prompts
 
@@ -95,7 +94,8 @@ Based on prior interactions I’ve had with [/person], give me 5 things that wil
 > Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser. Currently, we are in the process of updating the desktop app to allow you to navigate away from the prompt and have it still continue processing. For now, we are using a new tab on web for each prompt in order to kick off a series of prompts that take time to run.
 ##### 1. Research report on my common day to day issues
 1. Open a new tab in your web browser and go to M365 Copilot.com.
-2. Copy and run the following prompt.
+2. Select Researcher from the list of agents in the menu.
+3. Copy and run the following prompt.
 ```text
 I’m researching common day-to-day issues I face at work, such as processes, collaboration, or time management. Look at recent conversations from Teams chats, Outlook emails, or other collaboration tools related to [your role focus]. Summarize the key issues or pain points mentioned in the last 6 months. Show the results in a table with:  
 
@@ -107,14 +107,15 @@ I’m researching common day-to-day issues I face at work, such as processes, co
    
 ##### 2. Action item prompt with Researcher
 1. Open a new tab in your web browser and go to M365 Copilot.com.
-2. Copy and run the following prompt.
+2. Select Researcher from the list of agents in the menu.
+3. Copy and run the following prompt.
 ```text
 Create an action item tracker based on all communication channels and other information you can find from the past 7 days. Split it into two categories - actions pending on me, sorted by urgency (and relevance) and actions that I have asked others to do, categorized by if they have a follow up or not, and how long has it been since my request. Recommend who I need to follow up with or send a reminder to. Draft the follow ups you recommend for me.
 ```
 3. Researcher will ask you follow up questions to better understand what you want. Answer with whatever feels most useful to you.
    
 #### Analyst
-> Open M365copilot.com in a web browser and use the file Zava Sales Data.xlsx sent to you.
+> Open M365copilot.com in a web browser. We will be using the file Zava Sales Data.xlsx that has previously been saved to a SharePoint site for you for this training.
 
 ##### 1. Sales insights prompt
 **Scenario:** You are a data analyst and get an email from your manager asking you to answer the following 10 questions based on the sales from Zava (fake Microsoft brand). They want the response ASAP. You could do this by hand... or.... you could use your trusty Analyst agent in Copilot.
@@ -157,7 +158,7 @@ Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25
 5. Select your style preferences. Add any specific instructions you would like.
 
 ---
-## Copilot in the flow of work with the M365 Apps
+## Copilot in the M365 Apps
 > Your researcher prompts should now be completed. Go take a look.
 
 **Scenario:** You need to research something with a colleague and submit a report.
