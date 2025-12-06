@@ -8,7 +8,7 @@ demo:
 # Bobcat Onsite - Hands on with M365 Copilot
 ## Prep Work
 > - **Mobile Devices** - Make sure the M365 Copilot app (Note: NOT the Copilot app - that is consumer), Outlook, and Teams apps are installed and that you have signed in at least once.
-
+---
 ## Reference Material
 ### Copilot Disambiguation
 #### Main User Experiences or App
@@ -25,7 +25,7 @@ demo:
   - When I want to narrow the scope to a specific set of data inside M365 or web to create better results
   - When I want to dictate the output to look a certain way or templatize it.
   - When I want to extend an agent with AgentIQ data to unlicensed users
-
+---
 ## Day in the Life
 ### Mobile Device
 #### M365 Mobile App
@@ -52,7 +52,7 @@ demo:
 
 ##### Tour the app
 1. Click on the menu button in the upper left of the screen to open the full M365 Copilot navigation menu and see you have access to **Chat, Agents, Conversations, Search, Notebooks, Library, and Create**.
-2. We will be going through each of these capabilities in more detail on your PC/Mac, but know they are all available on mobile as well with the history sync'ing across devices.
+2. We will be going through each of these capabilities in more detail on your PC/Mac, but know you have access to the key features even from your mobile device, including your chat history sync'ing across devices.
 
 #### Outlook Mobile - Triage my inbox, Voice catch up, Find quick wins, and more.
 1. Open the Outlook app on your mobile device.
@@ -91,11 +91,11 @@ Analyze my calendar for conflicts this week and recommend how to resolve each co
 ```text
 Based on prior interactions I’ve had with [/person], give me 5 things that will be top of mind for our next interaction
 ```
-
 #### Researcher
-> Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser.
-
+> Open M365copilot.com in a web browser and run this prompt. Run each subsequent prompt in a new tab in your browser. Currently, we are in the process of updating the desktop app to allow you to navigate away from the prompt and have it still continue processing. For now, we are using a new tab on web for each prompt in order to kick off a series of prompts that take time to run.
 ##### 1. Research report on my common day to day issues
+1. Open a new tab in your web browser and go to M365 Copilot.com.
+2. Copy and run the following prompt.
 ```text
 I’m researching common day-to-day issues I face at work, such as processes, collaboration, or time management. Look at recent conversations from Teams chats, Outlook emails, or other collaboration tools related to [your role focus]. Summarize the key issues or pain points mentioned in the last 6 months. Show the results in a table with:  
 
@@ -103,15 +103,25 @@ I’m researching common day-to-day issues I face at work, such as processes, co
  - Description: Brief summary of the challenge  
  - Frequency: How often it comes up (e.g., number of mentions)
 ```
+3. Researcher will ask you follow up questions to better understand what you want. Answer with whatever feels most useful to you.
+   
 ##### 2. Action item prompt with Researcher
+1. Open a new tab in your web browser and go to M365 Copilot.com.
+2. Copy and run the following prompt.
 ```text
 Create an action item tracker based on all communication channels and other information you can find from the past 7 days. Split it into two categories - actions pending on me, sorted by urgency (and relevance) and actions that I have asked others to do, categorized by if they have a follow up or not, and how long has it been since my request. Recommend who I need to follow up with or send a reminder to. Draft the follow ups you recommend for me.
 ```
+3. Researcher will ask you follow up questions to better understand what you want. Answer with whatever feels most useful to you.
+   
 #### Analyst
 > Open M365copilot.com in a web browser and use the file Zava Sales Data.xlsx sent to you.
 
 ##### 1. Sales insights prompt
-Scenario: You are a data analyst and get an email from your manager asking you to answer the following 10 questions based on the sales from Zava (fake Microsoft brand). They want the response ASAP. You could do this by hand... or.... you could use your trusty Analyst agent in Copilot.
+**Scenario:** You are a data analyst and get an email from your manager asking you to answer the following 10 questions based on the sales from Zava (fake Microsoft brand). They want the response ASAP. You could do this by hand... or.... you could use your trusty Analyst agent in Copilot.
+
+John/Jane Doe,
+
+I need the answers to the following questions ASAP.
 
 1. What are the top 3 products by total sales, and how do their profit margins compare?
 2. Which country generated the highest sales, and what was its average discount rate?
@@ -123,12 +133,15 @@ Scenario: You are a data analyst and get an email from your manager asking you t
 8. What is the share of total sales and units for “Paseo” compared to all products?
 9. Which segment had the highest average discount %, and how did that impact their profit?
 10. Are there any segments or countries with negative profit or margin, and what’s causing it?
+- Your boss
 
+1. Select the Analyst agent from the left navigation pane.
+2. Copy the follow prompt. Be sure to replace the information in brackets with the "/" command to search for the file Zava Sales Data.xlsx that has been saved to a SharePoint site in the Bobcat environment for use for this demo.
 ``` text
 I need help answering the following 10 sales insights questions. Create a 2-column table with the question & response, and use [/Zava Sales Data.xlsx]. Here are the questions: 1. What are the top 3 products by total sales, and how do their profit margins compare? 2. Which country generated the highest sales, and what was its average discount rate? 3. How did the sales and profit for the product “Paseo” trend month-over-month in 2024? 4. What is the weighted average selling price (ASP) for each product group, and which group has the highest ASP? 5. Which customer segment achieved the highest average profit per unit sold? 6. What was the best and worst month for total sales, and what were the main drivers? 7. How does the gross margin % for “Paseo” compare to other products in the same segment? 8. What is the share of total sales and units for “Paseo” compared to all products? 9. Which segment had the highest average discount %, and how did that impact their profit? 10. Are there any segments or countries with negative profit or margin, and what’s causing it?
 ```
 ##### 2. Check your answers
-Feel free to reference the second excel spreadsheet called [Zava Sales data validation.xslx] to check your answers. How long would it have taken you to do this manually?
+One the prompt is finished, Feel free to reference the second excel spreadsheet called [Zava Sales data validation.xslx] to check your answers. How long would it have taken you to do this manually?
 
 ---
 ##### Notebooks
