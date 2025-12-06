@@ -7,13 +7,13 @@ demo:
 
 # Bobcat Onsite - Hands on with M365 Copilot
 ## Prep Work
-> - Copy all of the Word files and the Excel files provided to you into a folder on your OneDrive
+> - **Mobile Devices** - Make sure the M365 Copilot app (Note: NOT the Copilot app - that is consumer), Outlook, and Teams apps are installed and that you have signed in at least once.
 
 ## Reference Material
 ### Copilot Disambiguation
 #### Main User Experiences or App
 - **M365 Copilot** - name of the central app, experience, and license that enables the full, rich Copilot experience inside M365. It is accessed via the M365 Copilot app as well as in Word, Excel, PPT, Outlook, OneNote and other M365 apps. You are all licensed users in this training. Note: Some of the people you build agents for may end up not being licensed users.
--  **M365 Copilot Chat** - name of the free/included experience that **all** M365 users can access. Can reason over web data and can access agents you deploy.
+-  **M365 Copilot Chat** - name of the free/included experience that **all** M365 users can access. Can reason over web data, open documents, and can access agents you deploy.
 
 #### When to use a prompt or build an agent?
 - **M365 Copilot** - Microsoft's 'super agent' if you will. It has tremendous and ever expanding capabilities that can be unlocked with good prompting from a chat window in the M365 Copilot app or in the core M365 Apps themselves, such as Word, Excel, PPT, Outlook, OneNote and more.
@@ -26,7 +26,53 @@ demo:
   - When I want to dictate the output to look a certain way or templatize it.
   - When I want to extend an agent with AgentIQ data to unlicensed users
 
-## Top Advanced Prompts
+## Day in the Life
+### Mobile Device
+#### M365 Mobile App
+> Please make sure you have installed the app titled "M365 Copilot" and not just "Copilot". The latter is the **consumer** app that is a substantially different experience and will not work with your work account.
+
+##### Get an overview of your day
+1. Open the M365 Copilot app. If you haven't opened the app before, go through any login or starting screens.
+2. Copy the following prompt in the chat and hit send:
+   ```text
+   Prep me for my day
+   ```
+3. Review the results
+
+##### Get an overview of your day - Audio
+1. Open a new chat by clicking the checkbox in the upper right hand corner.
+2. Click on the Speak icon (looks like various size vertical lines where you normally type a prompt)
+3. Approve any pop ups that request access to your mic.
+4. When the screen says it is listening, say the the following prompt or something similar:
+   ```text
+   Prep me for my day
+   ```
+5. Interrupt M365 Copilot from finishing what they are saying to as something specific about a meeting you know was recorded or transcribed in the last week, even if it is a little vague. Ex: "What did Joe tell me to make sure I cover in the Bobcat exec meeting on Tuesday in the meeting last week?"
+6. End the voice conversation.
+
+##### Tour the app
+1. Click on the menu button in the upper left of the screen to open the full M365 Copilot navigation menu and see you have access to **Chat, Agents, Conversations, Search, Notebooks, Library, and Create**.
+2. We will be going through each of these capabilities in more detail on your PC/Mac, but know they are all available on mobile as well with the history sync'ing across devices.
+
+#### Outlook Mobile - Triage my inbox, Voice catch up, Find quick wins, and more.
+1. Open the Outlook app on your mobile device.
+2. Click on the Copilot icon in the lower right hand corner.
+3. You should see a list of sample prompts and can even scroll to the right to see more.
+4. Pick a prompt that looks interesting to you and click on it. You don't have to always type or say a prompt. We have thought of some of the most common and useful for you.
+5. View the results, but don't get sucked into work or responding!
+
+#### Teams Mobile - Create Audio recap podcast of meetings
+1. Open the Teams app on your mobile device.
+2. Navigate to the Calendar screen.
+3. Click on the headphones icon in the upper right.
+4. Click "New Recap".
+5. View and select the style preference for your audio recap.
+6. Use the timing pills to find recorded or transcribed meetings from the last X number of days. You can scroll to the right to see more options.
+7. Select up to 8 meetings of your choice that you know you need to review.
+8. Click the "Generate" button at the bottom of the screen.
+9. You have now created an audio podcast for your missed meetings! After it has finished processing, you will be notified and can find the audio recaps under the Headphones icon. These are excellent to listen in to in the car, on a run/walk, at the gym, and many other times!
+
+#### 
 ### Favorite example prompts for M365 Copilot
 #### Chat with GPT-5
 > Please make sure GPT-5 is Enabled for the following prompts
