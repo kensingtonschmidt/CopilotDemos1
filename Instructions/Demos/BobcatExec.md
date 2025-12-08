@@ -6,10 +6,18 @@ demo:
 [Back to Index](https://kensingtonschmidt.github.io/CopilotDemos1/)
 
 # Bobcat Onsite - Hands on with M365 Copilot
+## Table of Contents
+- [Prep Work](#PrepWork)
+- [Reference Material](#RefMat)
+- [Day in the Life](#DayinLife)
+
+---
+<a name="PrepWork" />
 ## Prep Work
 > - **Mobile Devices** - Make sure the M365 Copilot app (Note: NOT the Copilot app - that is consumer), Outlook, and Teams apps are installed and that you have signed in at least once.
 
 ---
+<a name="RefMat" />
 ## Reference Material
 ### Copilot Disambiguation
 #### Main User Experiences or App
@@ -28,6 +36,7 @@ demo:
   - When I want to dictate the output to look a certain way or templatize it.
   - When I want to extend an agent with AgentIQ data to unlicensed users
 ---
+<a name="DayInLife" />
 ## Day in the Life
 ### At home on your mobile device
 #### M365 Mobile App
@@ -84,6 +93,7 @@ What are my top priorities today?
 ```
 ##### 2. Scheduling prompts
 In the same chat window as Prompt 1, click on the three dots below the response and click "Schedule this prompt". 
+
 ##### 3. Calendar conflicts prompt  
 ```text
 Analyze my calendar for conflicts this week and recommend how to resolve each conflict
