@@ -169,7 +169,7 @@ Create an action item tracker based on all communication channels and other info
 >**Scenario:** You are a data analyst and get an email from your manager asking you to answer the following 10 questions based on the sales from Zava (fake Microsoft brand). They want the response ASAP. You could do this by hand... or.... you could use your trusty Analyst agent in Copilot.
 
 ###### Sample Email
-_John/Jane Doe,_
+"_John/Jane Doe,_
 
 _I need the answers to the following questions ASAP._
 
@@ -183,7 +183,7 @@ _7. How does the gross margin % for “Paseo” compare to other products in the
 _8. What is the share of total sales and units for “Paseo” compared to all products?_
 _9. Which segment had the highest average discount %, and how did that impact their profit?_
 _10. Are there any segments or countries with negative profit or margin, and what’s causing it?_
-_- Your boss_
+_-- Your boss_"
 
 ###### Using Analyst
 1. Select the **Analyst** agent from the left navigation pane.
