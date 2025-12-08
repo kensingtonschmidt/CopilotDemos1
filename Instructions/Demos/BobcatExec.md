@@ -138,7 +138,7 @@ Analyze my calendar for conflicts this week and recommend how to resolve each co
 ```text
 Based on prior interactions I’ve had with /[person], give me 5 things that will be top of mind for our next interaction
 ```
-###### 5. Tell Copilot to remember something about you.
+##### 5. Tell Copilot to remember something about you.
 Copilot can now remember things you tell it to remember. You can also go back to change and edit what Copilot remembers if you choose to do so.
 
 #### Researcher
@@ -168,22 +168,23 @@ Create an action item tracker based on all communication channels and other info
 ##### 1. Sales insights prompt
 >**Scenario:** You are a data analyst and get an email from your manager asking you to answer the following 10 questions based on the sales from Zava (fake Microsoft brand). They want the response ASAP. You could do this by hand... or.... you could use your trusty Analyst agent in Copilot.
 
-_John/Jane Doe,
+|John/Jane Doe,|
+:
+| |
+|I need the answers to the following questions ASAP.|
+| |
+|1. What are the top 3 products by total sales, and how do their profit margins compare?|
+|2. Which country generated the highest sales, and what was its average discount rate?|
+|3. How did the sales and profit for the product “Paseo” trend month-over-month in 2024?|
+|4. What is the weighted average selling price (ASP) for each product group, and which group has the highest ASP?|
+|5. Which customer segment achieved the highest average profit per unit sold?|
+|6. What was the best and worst month for total sales, and what were the main drivers?|
+|7. How does the gross margin % for “Paseo” compare to other products in the same segment?|
+|8. What is the share of total sales and units for “Paseo” compared to all products?|
+|9. Which segment had the highest average discount %, and how did that impact their profit?|
+|10. Are there any segments or countries with negative profit or margin, and what’s causing it?|
+|- Your boss|
 
-I need the answers to the following questions ASAP.
-
-1. What are the top 3 products by total sales, and how do their profit margins compare?
-2. Which country generated the highest sales, and what was its average discount rate?
-3. How did the sales and profit for the product “Paseo” trend month-over-month in 2024?
-4. What is the weighted average selling price (ASP) for each product group, and which group has the highest ASP?
-5. Which customer segment achieved the highest average profit per unit sold?
-6. What was the best and worst month for total sales, and what were the main drivers?
-7. How does the gross margin % for “Paseo” compare to other products in the same segment?
-8. What is the share of total sales and units for “Paseo” compared to all products?
-9. Which segment had the highest average discount %, and how did that impact their profit?
-10. Are there any segments or countries with negative profit or margin, and what’s causing it?
-- Your boss
-_
 1. Select the **Analyst** agent from the left navigation pane.
 2. Copy the following prompt. Be sure to replace the information in brackets with the "/" command to open the search menu. Find the file **Zava Sales Data.xlsx** that has been saved to a SharePoint site in the Bobcat environment for use for this demo.
 ``` text
