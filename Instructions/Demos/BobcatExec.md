@@ -106,10 +106,10 @@ demo:
 ### At work on your laptop
 #### Prompting Best Practices
 In order to get the best results, it's important to focus on 4 critical pieces of information to include in every prompt. A prompt is not a web search!
-***G** - Goal
-***C** - Context
-***S** - Source
-***E** - Expectations
+-**G** - Goal
+-**C** - Context
+-**S** - Source
+-**E** - Expectations
 
 #### Prompt Coach
 1. Select **All Agents**
@@ -162,8 +162,8 @@ Create an action item tracker based on all communication channels and other info
 ```
 3. Researcher will ask you follow up questions to better understand what you want. Answer with whatever feels most useful to you.
    
-#### Analyst
-> Open M365copilot.com in a web browser. We will be using the file Zava Sales Data.xlsx that has previously been saved to a SharePoint site for you for this training.
+#### Analyst**
+> Open M365copilot.com in a web browser. We will be using the file **Zava Sales Data.xlsx** that has previously been saved to a SharePoint site for you for this training.
 
 ##### 1. Sales insights prompt
 >**Scenario:** You are a data analyst and get an email from your manager asking you to answer the following 10 questions based on the sales from Zava (fake Microsoft brand). They want the response ASAP. You could do this by hand... or.... you could use your trusty Analyst agent in Copilot.
