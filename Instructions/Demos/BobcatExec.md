@@ -35,13 +35,11 @@ demo:
 
 ##### Get an overview of your day
 1. Open the M365 Copilot app. If you haven't opened the app before, go through any login or starting screens.
-   <img width="36" height="82" alt="image" src="https://github.com/user-attachments/assets/29ba5b8c-bef0-4d34-ae71-3298d7d41cd4" />
-
-3. Copy or enter the following prompt in the chat and hit send:
+2. Copy or enter the following prompt in the chat and hit send:
    ```text
    Prep me for my day
    ```
-4. Review the results
+3. Review the results
 
 ##### Get an overview of your day - Audio
 1. Open a new chat by clicking the checkbox in the upper right hand corner.
