@@ -9,14 +9,16 @@ demo:
 ## Table of Contents
 - [Prep Work](#PrepWork)
 - [Reference Material](#RefMat)
-- [Day in the Life](#DayinLife)
+- [Day in the Life](#DayInLife)
 
 ---
+
 <a name="PrepWork" />
 ## Prep Work
 > - **Mobile Devices** - Make sure the M365 Copilot app (Note: NOT the Copilot app - that is consumer), Outlook, and Teams apps are installed and that you have signed in at least once.
 
 ---
+
 <a name="RefMat" />
 ## Reference Material
 ### Copilot Disambiguation
@@ -35,7 +37,9 @@ demo:
   - When I want to narrow the scope to a specific set of data inside M365 or web to create better results
   - When I want to dictate the output to look a certain way or templatize it.
   - When I want to extend an agent with AgentIQ data to unlicensed users
+
 ---
+
 <a name="DayInLife" />
 ## Day in the Life
 ### At home on your mobile device
