@@ -162,28 +162,28 @@ Create an action item tracker based on all communication channels and other info
 ```
 3. Researcher will ask you follow up questions to better understand what you want. Answer with whatever feels most useful to you.
    
-#### Analyst**
+#### Analyst
 > Open M365copilot.com in a web browser. We will be using the file **Zava Sales Data.xlsx** that has previously been saved to a SharePoint site for you for this training.
 
 ##### 1. Sales insights prompt
 >**Scenario:** You are a data analyst and get an email from your manager asking you to answer the following 10 questions based on the sales from Zava (fake Microsoft brand). They want the response ASAP. You could do this by hand... or.... you could use your trusty Analyst agent in Copilot.
 
 ###### Sample Email
-John/Jane Doe,
+_John/Jane Doe,_
 
-I need the answers to the following questions ASAP.
+_I need the answers to the following questions ASAP._
 
-1. What are the top 3 products by total sales, and how do their profit margins compare?
-2. Which country generated the highest sales, and what was its average discount rate?
-3. How did the sales and profit for the product “Paseo” trend month-over-month in 2024?
-4. What is the weighted average selling price (ASP) for each product group, and which group has the highest ASP?
-5. Which customer segment achieved the highest average profit per unit sold?
-6. What was the best and worst month for total sales, and what were the main drivers?
-7. How does the gross margin % for “Paseo” compare to other products in the same segment?
-8. What is the share of total sales and units for “Paseo” compared to all products?
-9. Which segment had the highest average discount %, and how did that impact their profit?
-10. Are there any segments or countries with negative profit or margin, and what’s causing it?
-- Your boss
+_1. What are the top 3 products by total sales, and how do their profit margins compare?_
+_2. Which country generated the highest sales, and what was its average discount rate?_
+_3. How did the sales and profit for the product “Paseo” trend month-over-month in 2024?_
+_4. What is the weighted average selling price (ASP) for each product group, and which group has the highest ASP?_
+_5. Which customer segment achieved the highest average profit per unit sold?_
+_6. What was the best and worst month for total sales, and what were the main drivers?_
+_7. How does the gross margin % for “Paseo” compare to other products in the same segment?_
+_8. What is the share of total sales and units for “Paseo” compared to all products?_
+_9. Which segment had the highest average discount %, and how did that impact their profit?_
+_10. Are there any segments or countries with negative profit or margin, and what’s causing it?_
+_- Your boss_
 
 ###### Using Analyst
 1. Select the **Analyst** agent from the left navigation pane.
