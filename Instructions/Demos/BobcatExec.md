@@ -169,8 +169,7 @@ Create an action item tracker based on all communication channels and other info
 >**Scenario:** You are a data analyst and get an email from your manager asking you to answer the following 10 questions based on the sales from Zava (fake Microsoft brand). They want the response ASAP. You could do this by hand... or.... you could use your trusty Analyst agent in Copilot.
 
 |John/Jane Doe,|
-:
-| |
+| ------ |
 |I need the answers to the following questions ASAP.|
 | |
 |1. What are the top 3 products by total sales, and how do their profit margins compare?|
