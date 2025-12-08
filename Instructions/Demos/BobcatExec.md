@@ -21,6 +21,7 @@ demo:
   - Try prompt first with GCSE best practices
   - Try MS first party agents
   - Individual productivity work that gives me the most flexibility to be creative and research.
+
 - **Copilot Studio Lite** - the built-in agent authoring tool inside of M365 Copilot itself.
   - When I want to 'templatize' my prompts for myself or my team.
   - When I want to narrow the scope to a specific set of data inside M365 or web to create better results
@@ -34,7 +35,7 @@ demo:
 
 ##### Get an overview of your day
 1. Open the M365 Copilot app. If you haven't opened the app before, go through any login or starting screens.
-2. Copy the following prompt in the chat and hit send:
+2. Copy or enter the following prompt in the chat and hit send:
    ```text
    Prep me for my day
    ```
@@ -48,7 +49,7 @@ demo:
    ```text
    Prep me for my day
    ```
-5. Interrupt M365 Copilot from finishing what they are saying to as something specific about a meeting you know was recorded or transcribed in the last week, even if it is a little vague. Ex: "What did Joe tell me to make sure I cover in the Bobcat exec meeting on Tuesday in the meeting last week?"
+5. Interrupt M365 Copilot from finishing what they are saying to as something specific about a meeting you know was recorded or transcribed in the last week, even if it is a little vague. Ex: "What did Joe tell me to make sure I cover in the Bobcat exec meeting on Tuesday in the meeting we had last week?"
 6. End the voice conversation.
 
 ##### Tour the app
