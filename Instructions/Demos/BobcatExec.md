@@ -10,7 +10,8 @@ demo:
 - [Prep Work](#PrepWork)
 - [Reference Material](#RefMat)
 - [Day in the Life](#DayInLife)
-
+    * [At home on your mobile device](#AtHome)
+    * [On your laptop at work](#AtWork)
 ---
 
 <a name="PrepWork" />
@@ -42,6 +43,8 @@ demo:
 
 <a name="DayInLife" />
 ## Day in the Life
+
+<a name="AtHome" />
 ### At home on your mobile device
 #### M365 Mobile App
 > Please make sure you have installed the app titled "M365 Copilot" and not just "Copilot". The latter is the **consumer** app that is a substantially different experience and will not work with your work account.
@@ -87,6 +90,7 @@ demo:
 8. Click the "Generate" button at the bottom of the screen.
 9. You have now created an audio podcast for your missed meetings! After it has finished processing, you will be notified and can find the audio recaps under the Headphones icon. These are excellent to listen in to in the car, on a run/walk, at the gym, and many other times!
 
+<a name="AtWork" />
 ### Start your day on your laptop at work
 #### Chat with GPT-5
 > Please make sure GPT-5 is Enabled for the following prompts
