@@ -8,6 +8,7 @@ demo:
 # Bobcat Onsite - Hands on with M365 Copilot
 ## Prep Work
 > - **Mobile Devices** - Make sure the M365 Copilot app (Note: NOT the Copilot app - that is consumer), Outlook, and Teams apps are installed and that you have signed in at least once.
+
 ---
 ## Reference Material
 ### Copilot Disambiguation
