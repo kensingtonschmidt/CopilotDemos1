@@ -70,8 +70,16 @@ demo:
 6. End the voice conversation.
 
 ##### Tour the app
-1. Click on the menu button in the upper left of the screen to open the full M365 Copilot navigation menu and see you have access to **Chat, Agents, Conversations, Search, Notebooks, Library, and Create**.
-2. We will be going through each of these capabilities in more detail on your PC/Mac, but know you have access to the key features even from your mobile device, including your chat history sync'ing across devices.
+1. You should now be back on the main screen. If you aren't, start a new chat.
+2. View the **Work/Web toggle** Understand that when Web is selected, then M365 Copilot will not reason over Work IQ data. It will only look at the Web. If Work is selected, then M365 Copilot will reason over both Work and Web data.
+3. Select the **Temporary Chat** button. Selecting this will open a new chat that won't be used to create memories or saved in your chat history. Note: Conversations will still be retained in accordance to your corporate policies.
+4. Select the **Temporary Chat** again to return to a normal chat.
+5. View the **Green Shield** button. This highlights that the information in this chat adheres to Microsoft's Enterprise Data Protection policies.
+6. View the sample prompts at the bottom of the screen. Swiping to the right will show additional sample prompts that you can click on without having to type them.
+7. Click on the menu button in the upper left of the screen to open the full M365 Copilot navigation menu.
+8. View and see you have access to **Chat, Agents, Conversations, Search, Notebooks, Library, and Create**.
+9. We will be going through each of these capabilities in more detail on your PC/Mac, but know you have access to the key features even from your mobile device, including your chat history sync'ing across devices.
+10. Close the M365 Copilot app.
 
 #### Outlook Mobile - Triage my inbox, Voice catch up, Find quick wins, and more.
 1. Open the Outlook app on your mobile device.
