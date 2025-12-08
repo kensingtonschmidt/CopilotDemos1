@@ -168,8 +168,8 @@ Create an action item tracker based on all communication channels and other info
 ##### 1. Sales insights prompt
 >**Scenario:** You are a data analyst and get an email from your manager asking you to answer the following 10 questions based on the sales from Zava (fake Microsoft brand). They want the response ASAP. You could do this by hand... or.... you could use your trusty Analyst agent in Copilot.
 
-
-`John/Jane Doe,
+###### Sample Email
+John/Jane Doe,
 
 I need the answers to the following questions ASAP.
 
@@ -184,7 +184,8 @@ I need the answers to the following questions ASAP.
 9. Which segment had the highest average discount %, and how did that impact their profit?
 10. Are there any segments or countries with negative profit or margin, and what’s causing it?
 - Your boss
-`
+
+###### Using Analyst
 1. Select the **Analyst** agent from the left navigation pane.
 2. Copy the following prompt. Be sure to replace the information in brackets with the "/" command to open the search menu. Find the file **Zava Sales Data.xlsx** that has been saved to a SharePoint site in the Bobcat environment for use for this demo.
 ``` text
