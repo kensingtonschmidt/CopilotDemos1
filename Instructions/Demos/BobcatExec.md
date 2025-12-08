@@ -12,6 +12,7 @@ demo:
 - [Day in the Life](#DayInLife)
     * [At home on your mobile device](#AtHome)
     * [On your laptop at work](#AtWork)
+
 ---
 
 <a name="PrepWork" />
