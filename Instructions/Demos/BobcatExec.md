@@ -12,7 +12,7 @@ demo:
 - [Day in the Life](#DayInLife)
     * [At home on your mobile device](#AtHome)
     * [At work on your laptop](#AtWork)
-    * [In the flow of Work in the M365 apps](#InApps)
+    * [In the M365 apps](#InApps)
 
 ---
 
@@ -210,8 +210,8 @@ Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25
 
 ---
 
-<a name="PrepWork" />
-## In the Flow of Work
+<a name="InApps" />
+## In the M365 Apps
 > Your researcher prompts should now be completed. Go take a look.
 
 ### Creating a research report with a colleague
