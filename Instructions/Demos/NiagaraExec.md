@@ -5,7 +5,7 @@ demo:
 
 [Back to Index](https://kensingtonschmidt.github.io/CopilotDemos1/)
 
-# Bobcat Onsite - Hands on with M365 Copilot
+# Niagara Onsite - Hands on with M365 Copilot
 ## Table of Contents
 - [Prep Work](#PrepWork)
 - [Reference Material](#RefMat)
