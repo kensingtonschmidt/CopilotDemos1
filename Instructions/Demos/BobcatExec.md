@@ -211,10 +211,10 @@ Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25
 ---
 
 <a name="InApps" />
-## In the M365 Apps
+### In the M365 Apps
 > Your researcher prompts should now be completed. Go take a look.
 
-### Creating a research report with a colleague
+#### Creating a research report with a colleague
 **Scenario:** You need to research something with a colleague and submit a report.
 1. Open the results of the first researcher prompt with the research report on the topic you chose.
 2. Click edit in pages.
@@ -223,7 +223,7 @@ Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25
 5. Check out the automatic Summary at the top from Copilot along with the Insights.
 6. Save the word document as **"Research Report on [Your Topic]"** to your OneDrive.
 
-### Creating a presentation from a research report
+#### Creating a presentation from a research report
 **Scenario** You need to create an executive presentation on a topic.
 1. Open Powerpoint and make sure a corporate branded template is selected.
 2. Click the **Flying Stars** icon just above the empty slide.
@@ -237,7 +237,7 @@ Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25
 10. It will take a moment to generate the slides in the outline and template you wanted.
 11. View the presentation results.
 
-### Using Copilot in New Outlook
+#### Using Copilot in New Outlook
 >The following scenario and instructions assume you are using New Outlook and not Outlook (classic).
    
 **Scenario:** You need to reply to a lengthy email chain and schedule a follow up meeting to spare everyone's inboxes.
