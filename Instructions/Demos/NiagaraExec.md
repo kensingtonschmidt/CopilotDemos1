@@ -27,7 +27,7 @@ demo:
 ### Copilot Disambiguation
 #### Main User Experiences or App
 - **M365 Copilot** - name of the central app, experience, and license that enables the full, rich Copilot experience inside M365. It is accessed via the M365 Copilot app as well as in Word, Excel, PPT, Outlook, OneNote and other M365 apps. You are all licensed users in this training. Note: Some of the people you build agents for may end up not being licensed users.
--  **M365 Copilot Chat** - name of the free/included experience that **all** M365 users can access. Can reason over web data, open documents, and can access agents you deploy.
+-  **Copilot Chat** - name of the free/included experience that **all** M365 users can access. Can reason over web data, open documents, and can access agents you deploy.
 
 #### When to use a prompt or build an agent?
 - **M365 Copilot** - Microsoft's 'super agent' if you will. It has tremendous and ever expanding capabilities that can be unlocked with good prompting from a chat window in the M365 Copilot app or in the core M365 Apps themselves, such as Word, Excel, PPT, Outlook, OneNote and more.
@@ -35,11 +35,11 @@ demo:
   - Try MS first party agents
   - Individual productivity work that gives me the most flexibility to be creative and research.
 
-- **Copilot Studio Lite** - the built-in agent authoring tool inside of M365 Copilot itself.
+- **Agent Builder** - the built-in agent authoring tool inside of M365 Copilot itself.
   - When I want to 'templatize' my prompts for myself or my team.
   - When I want to narrow the scope to a specific set of data inside M365 or web to create better results
   - When I want to dictate the output to look a certain way or templatize it.
-  - When I want to extend an agent with AgentIQ data to unlicensed users
+  - When I want to extend an agent with WorkIQ data to unlicensed users
 
 ---
 
@@ -137,7 +137,7 @@ Analyze my calendar for conflicts this week and recommend how to resolve each co
 ```
 ##### 4. One on One Meeting prep prompt
 ```text
-Based on prior interactions I’ve had with /[person], give me 5 things that will be top of mind for our next interaction
+Based on prior interactions I’ve had with /[Luis Ramos], give me 5 things that will be top of mind for our next interaction
 ```
 ##### 5. Tell Copilot to remember something about you.
 Copilot can now remember things you tell it to remember. You can also go back to change and edit what Copilot remembers if you choose to do so.
@@ -150,7 +150,7 @@ Copilot can now remember things you tell it to remember. You can also go back to
 2. Select Researcher from the list of agents in the menu.
 3. Copy and run the following prompt.
 ```text
-Based on the internal meeting discussion on [topic], draft a comprehensive research report evaluating the ideas proposed. Incorporate relevant insights from external market research, meetings, and internal intelligence. 
+Based on the internal meeting discussions on [legislation on fabric/beverage market in the US/other topic], draft a comprehensive research report evaluating the ideas proposed. Incorporate relevant insights from external market research, meetings, and internal intelligence. 
 ```
 3. Researcher will ask you follow up questions to better understand what you want. Answer with whatever feels most useful to you.
    
@@ -197,7 +197,7 @@ One the prompt is finished, Feel free to reference the second excel spreadsheet 
 
 ---
 ##### Notebooks
-> Use all of the Zava Sales Org QBR Word files sent to you
+> Watch the live demo of the Notebook feature
 
 1. Create a new notebook called "Quarterly Business Reports" and add the 6 files by finding them in your OneDrive folder you created earlier.
 2. Use the following prompt:
@@ -238,7 +238,7 @@ Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25
 11. View the presentation results.
 
 #### Using Copilot in New Outlook
->The following scenario and instructions assume you are using New Outlook and not Outlook (classic).
+>The following scenario and instructions assume you are using New Outlook and not Outlook (classic). If you would prefer not to switch, you can complete these instructions in Outlook on the web at [https://outlook.microsoft.com](https://outlook.microsoft.com)
    
 **Scenario:** You need to reply to a lengthy email chain and schedule a follow up meeting to spare everyone's inboxes.
 1. Open Outlook.
@@ -249,3 +249,10 @@ Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25
 6. Find that same lengthy email chain and click the "Schedule with Copilot" button in New Outlook.
 7. View and insert the Copilot generated summary and agenda.
 8. Send the meeting invite.
+
+### Building an Agent in AgentBuilder
+> A great first agent easily built wiht AgentBuilder can be:
+> -A lengthy prompt you need to run often, but not on a specific schedule. Some examples: prep you for a specific meeting with a very specific format, give an overview of a particular customer or partner with the key points you like to know, the kinds of instructions like you'd give a human assistant on how you want to be briefed on your schedule and your priorities in a specific format.
+> -FAQs on a specific set of good, known resources that are on SharePoint to ensure accuracy.
+> -Return output in a predictable and repeatable manner
+
