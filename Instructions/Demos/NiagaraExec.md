@@ -228,7 +228,7 @@ One the prompt is finished, Feel free to reference the second excel spreadsheet 
 11. View the presentation results.
 
 #### Using Copilot in New Outlook
->The following scenario and instructions assume you are using New Outlook and not Outlook (classic). If you would prefer not to switch, you can complete these instructions in Outlook on the web at [https://outlook.microsoft.com](https://outlook.microsoft.com)
+>The following scenario and instructions assume you are using New Outlook and not Outlook (classic). If you would prefer not to switch, you can complete these instructions in Outlook on the web at [https://outlook.office.com](https://outlook.office.com)
    
 **Scenario:** You need to reply to a lengthy email chain and schedule a follow up meeting to spare everyone's inboxes.
 1. Open Outlook.
