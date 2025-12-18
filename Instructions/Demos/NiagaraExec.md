@@ -198,16 +198,6 @@ One the prompt is finished, Feel free to reference the second excel spreadsheet 
 ---
 ##### Notebooks
 > Watch the live demo of the Notebook feature
-
-1. Create a new notebook called "Quarterly Business Reports" and add the 6 files by finding them in your OneDrive folder you created earlier.
-2. Use the following prompt:
-```text
-Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25Q2 and include a list of the top 5 business outcomes for an annual report.    
-```
-3. Go back to the main page for the Quarterly Business Review notebook.
-4. Select "Get audio overview" and then click Generate audio.
-5. Select your style preferences. Add any specific instructions you would like.
-
 ---
 
 <a name="InApps" />
@@ -250,9 +240,6 @@ Create a chart showing our revenue growth and profit margins from FY24Q2 to FY25
 7. View and insert the Copilot generated summary and agenda.
 8. Send the meeting invite.
 
-### Building an Agent in AgentBuilder
-> A great first agent easily built wiht AgentBuilder can be:
-> -A lengthy prompt you need to run often, but not on a specific schedule. Some examples: prep you for a specific meeting with a very specific format, give an overview of a particular customer or partner with the key points you like to know, the kinds of instructions like you'd give a human assistant on how you want to be briefed on your schedule and your priorities in a specific format.
-> -FAQs on a specific set of good, known resources that are on SharePoint to ensure accuracy.
-> -Return output in a predictable and repeatable manner
+### Building an Agent in Agent Builder
+>  Watch the live demo of creating an Agent in Agent Builder
 
