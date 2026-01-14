@@ -1,6 +1,6 @@
 ---
 demo:
-    title: 'Albertsons Onsite Nov 2025'
+    title: 'Albertsons M365 Copilot Immersion Hands-On Guide'
 ---
 
 [Back to Index](https://kensingtonschmidt.github.io/CopilotDemos1/)
