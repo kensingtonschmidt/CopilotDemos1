@@ -159,7 +159,8 @@ Which companies in our industry (Albertsons) are the best in class retaining ass
 3. Researcher will ask you follow up questions to better understand what you want. Answer with whatever feels most useful to you.
    
 #### Analyst
-> Open M365copilot.com in a web browser. We will be using the file **Zava Sales Data.xlsx** that has previously been saved to a SharePoint site for you for this training.
+> Open M365copilot.com in a web browser. We will be using the file **Albertson_IT_Security_Monitoring.xlsx* that has previously been saved to a SharePoint site for you for this training.
+
 1. Open a new tab in your web browser and go to M365Copilot.com
 2. Copy and paste the following prompt:
 ```text
@@ -184,6 +185,7 @@ Using only /Albertson_IT_Security_Monitoring.xlsx (no external info; convert Exc
 
 #### Creating a research report with a colleague
 > Your researcher prompts should now be completed. Go take a look.
+
 **Scenario:** You need to work on the research report with a colleague and submit a report.
 1. Open the results of the first researcher prompt with the research report on the topic you chose.
 2. Click edit in pages.
