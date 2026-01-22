@@ -154,19 +154,19 @@ Copilot can now remember things you tell it to remember. You can also go back to
 2. Select Researcher from the list of agents in the menu.
 3. Copy and run the following prompt.
 ```text
-Which companies in our industry (Albertsons) are the best in class retaining associates and what incentive plans do our competitors use in their Supply Chain.
+Create a competitive IT and cybersecurity intelligence report for Albertsons executives (CIO/CTO, CISO) and IT/Security teams, summarizing key developments from the last 12–18 months with initiative dates. Evaluate competitors on cloud/infrastructure, Zero Trust/IAM, SecOps, endpoint and vulnerability management, data privacy, app/DevSecOps & supply chain, AI/GenAI governance, and third-party risk. Use primary sources, when possible, corroborate findings across at least two independent sources, and assign confidence ratings (High/Medium/Low) to major conclusions. Emphasize the role of AI and its significance for Albertsons.
 ```
 3. Researcher will ask you follow up questions to better understand what you want. Answer with whatever feels most useful to you.
    
 #### Analyst
-> Open M365copilot.com in a web browser. We will be using the file **Zava Internal Market Forecast* that has previously been saved to a SharePoint site for you for this training.
+> Open M365copilot.com in a web browser. We will be using the file **Albertson_IT_Security_Monitoring.xlsx** that has previously been saved to a SharePoint site for you for this training.
 
 1. Open a new tab in your web browser and go to M365Copilot.com
 2. Copy and paste the following prompt:
 ```text
-You are my Copilot Analyst. Using only the workbook /Zava Internal Market Forecast, build a market sizing and go-to-market (GTM) recommendation for Zava’s smart footwear portfolio through 2030. 
+Using only /Albertson_IT_Security_Monitoring.xlsx (no external info; convert Excel serial dates), generate an executive IT & Security risk posture review with an action plan. Output sections: Executive Summary (150–180 words), (A) Category Risk Table, (B) Ranked Insights, (C) Top 10 Fix Next (scored), (D) Past Due, (E) Workload (by owner/department + rebalancing), (F) 30/60/90 timeline. Cite the sheet + column(s) for every metric.
 ```
-3. Use the / and search for the file [Zava Internal Market Forecast]
+3. Use the / and search for the file [Albertson_IT_Security_Monitoring.xlsx]
 
 
 ---
